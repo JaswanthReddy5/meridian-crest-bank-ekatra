@@ -1,0 +1,1072 @@
+﻿loan_id,borrower_id,customer_name,mobile,branch_ifsc,branch_name,region_id,product_code,source_system,sourcing_channel,sanctioning_officer_id,outstanding_principal,dpd_31oct,category_31oct,category_30sep,nach_bounces_aug_oct,watch_reason
+MCL0100000,MC30008757,Sri Ganesh Traders,8968246738,MCRB0001002,Dharwad Station Road,R01,MSME,CBS-M,Branch,OF0005,798920.98,170,NPA,NPA,3,4 NPA: recovery
+MCL0100019,MC30018438,Jai Bhavani Transport,9949581476,MCRB0001001,Hubballi Main Road,R01,MSME,CBS-M,Branch,OF0001,1442757.25,0,Standard,Standard,3,5 Early warning: auto-debit bounced 2+ times in 3 months
+MCL0100021,MC30021497,Sangam Dairy Products,9537709183,MCRB0001015,Mudhol Vidyanagar,R03,MSME,CBS-M,Branch,OF0043,1850643.80,52,SMA-1,SMA-0,1,3 Slipped to SMA-1 in October
+MCL0100023,MC30033586,Malaprabha Rice Mill,8692356859,MCRB0001007,Dharwad APMC Yard,R01,MSME,CBS-M,Branch,OF0020,1226945.48,47,SMA-1,SMA-0,2,3 Slipped to SMA-1 in October
+MCL0100026,MC30033817,Basava Agro Industries LLP,9340426426,MCRB0001013,Belagavi Station Road,R02,MSME,CBS-M,Branch,OF0037,2089468.67,0,Standard,Standard,2,5 Early warning: auto-debit bounced 2+ times in 3 months
+MCL0100029,MC30029057,Om Sai Motors LLP,9962933080,MCRB0001022,Haveri Shivaji Road,R04,MSME,CBS-M,Branch,OF0064,712204.25,0,Standard,Standard,2,5 Early warning: auto-debit bounced 2+ times in 3 months
+MCL0100079,MC30002590,Karnatak Cotton Ginning Industries,9260883975,MCRB0001013,Belagavi Station Road,R02,MSME,CBS-M,Branch,OF0039,910250.00,0,Standard,Standard,2,5 Early warning: auto-debit bounced 2+ times in 3 months
+MCL0100088,MC30024248,Jai Bhavani Transport & Co,8353318625,MCRB0001009,Chikkodi Bus Stand,R02,MSME,CBS-M,Branch,OF0086,2679562.25,47,SMA-1,SMA-1,0,6 SMA-1
+MCL0100093,MC30050624,Deccan Auto Parts Industries,9106645013,MCRB0001002,Dharwad Station Road,R01,MSME,CBS-M,Branch,OF0002,4057669.86,787,NPA,NPA,3,4 NPA: recovery
+MCL0100099,MC30025893,Sahyadri Timber Mart Industries,8594174958,MCRB0001006,Hubballi Old Town,R01,MSME,CBS-M,Branch,OF0018,402148.33,139,NPA,NPA,3,4 NPA: recovery
+MCL0100108,MC30018718,Basava Agro Industries LLP,9951945933,MCRB0001002,Dharwad Station Road,R01,MSME,CBS-M,Branch,OF0006,2235575.28,0,Standard,Standard,3,5 Early warning: auto-debit bounced 2+ times in 3 months
+MCL0100124,MC30051835,Sangam Dairy Products LLP,6856738110,MCRB0001021,Gadag Nehru Nagar,R04,MSME,CBS-M,Branch,OF0069,3248345.82,17,SMA-0,Standard,2,5 Early warning: auto-debit bounced 2+ times in 3 months
+MCL0100158,MC30035378,Gomati Plastics LLP,8779269255,MCRB0001024,Savanur Station Road,R04,MSME,CBS-M,Branch,OF0071,840476.76,0,Standard,SMA-0,2,5 Early warning: auto-debit bounced 2+ times in 3 months
+MCL0100169,MC30048034,Mahalaxmi Food Products & Co,8663168710,MCRB0001003,Kalghatgi Market,R01,MSME,CBS-M,Branch,OF0007,1735339.24,180,NPA,NPA,3,4 NPA: recovery
+MCL0100180,MC30052255,Hanuman Brick Works LLP,9404977110,MCRB0001003,Kalghatgi Market,R01,MSME,CBS-M,Branch,OF0007,1346587.99,300,NPA,NPA,3,4 NPA: recovery
+MCL0100196,MC30050211,Basava Agro Industries LLP,9458517869,MCRB0001013,Belagavi Station Road,R02,MSME,CBS-M,Branch,OF0037,1313153.63,78,SMA-2,SMA-2,0,2 SMA-2: will be NPA within 30 days unless paid
+MCL0100207,MC30042210,Karnatak Cotton Ginning Industries,8951737519,MCRB0001026,Karwar Vidyanagar,R05,MSME,CBS-M,Branch,OF0076,810853.76,0,Standard,Standard,3,5 Early warning: auto-debit bounced 2+ times in 3 months
+MCL0100213,MC30023422,Krishna Printers Industries,9865133697,MCRB0001007,Dharwad APMC Yard,R01,MSME,CBS-M,Branch,OF0021,1152314.45,0,Standard,Standard,2,5 Early warning: auto-debit bounced 2+ times in 3 months
+MCL0100216,MC30026565,Navkar Hardware Pvt Ltd,8388094430,MCRB0001018,Jamkhandi APMC Yard,R03,MSME,CBS-M,Branch,OF0052,3284466.63,0,Standard,Standard,2,5 Early warning: auto-debit bounced 2+ times in 3 months
+MCL0100244,MC30032025,Umesh Desai,8532046294,MCRB0001021,Gadag Nehru Nagar,R04,HL,CBS-M,Branch,OF0069,5848702.16,0,Standard,Standard,2,5 Early warning: auto-debit bounced 2+ times in 3 months
+MCL0100247,MC30026712,Siddappa Hosamani,9910893565,MCRB0001024,Savanur Station Road,R04,GL,CBS-M,Branch,OF0071,269706.86,691,NPA,NPA,0,4 NPA: recovery
+MCL0100248,MC30026712,Siddappa Hosamani,9910893565,MCRB0001009,Chikkodi Bus Stand,R02,PL,CBS-M,Branch,OF0081,1129358.50,570,NPA,NPA,3,4 NPA: recovery
+MCL0100265,MC30015799,Veeresh Kattimani,8341031975,MCRB0001013,Belagavi Station Road,R02,VL,CBS-M,Branch,OF0038,383213.80,331,NPA,NPA,0,4 NPA: recovery
+MCL0100267,MC30015799,Veeresh Kattimani,8341031975,MCRB0001001,Hubballi Main Road,R01,PL,CBS-M,Branch,OF0001,803195.29,47,NPA,NPA,2,4 NPA: recovery
+MCL0100268,MC30029085,Girish Yaragatti,7168936833,MCRB0001002,Dharwad Station Road,R01,VL,CBS-M,Branch,OF0006,416380.98,412,NPA,NPA,3,4 NPA: recovery
+MCL0100291,MC30024864,Sushma Chavan,8746513554,MCRB0001020,Ron Bus Stand,R04,PL,CBS-M,Branch,OF0058,797811.99,27,SMA-0,Standard,3,5 Early warning: auto-debit bounced 2+ times in 3 months
+MCL0100330,MC30035735,Vijay Talwar,7859040435,MCRB0001001,Hubballi Main Road,R01,PL,CBS-M,Branch,OF0001,462400.70,0,Standard,Standard,2,5 Early warning: auto-debit bounced 2+ times in 3 months
+MCL0100346,MC30043211,Hanumant Kadam,6286558090,MCRB0001026,Karwar Vidyanagar,R05,HL,CBS-M,Branch,OF0078,4668304.89,57,SMA-1,SMA-0,3,3 Slipped to SMA-1 in October
+MCL0100366,MC30018487,Rajesh Shaikh,9189280010,MCRB0001005,Navalgund Gandhi Chowk,R01,LAP,CBS-M,Branch,OF0014,1218880.02,0,Standard,Standard,2,5 Early warning: auto-debit bounced 2+ times in 3 months
+MCL0100382,MC30044520,Ashok Joshi,6829532825,MCRB0001005,Navalgund Gandhi Chowk,R01,PL,CBS-M,Branch,OF0024,752266.89,52,SMA-1,SMA-1,3,5 Early warning: auto-debit bounced 2+ times in 3 months
+MCL0100393,MC30027412,Arun Pawar,7645458878,MCRB0001007,Dharwad APMC Yard,R01,PL,CBS-M,Branch,OF0021,309831.73,0,Standard,SMA-0,2,5 Early warning: auto-debit bounced 2+ times in 3 months
+MCL0100399,MC30027440,Anita Mathad,9719686861,MCRB0001019,Indi Court Circle,R03,VL,CBS-M,Branch,OF0055,560831.65,570,NPA,NPA,3,4 NPA: recovery
+MCL0100402,MC30027440,Anita Mathad,9719686861,MCRB0001012,Nippani Main Road,R02,GL,CBS-M,Branch,OF0034,260231.47,514,NPA,NPA,3,4 NPA: recovery
+MCL0100436,MC30027755,Santosh Pawar,9321344122,MCRB0001015,Mudhol Vidyanagar,R03,PL,CBS-M,Digital Partner,OF0043,259910.97,0,Standard,Standard,3,5 Early warning: auto-debit bounced 2+ times in 3 months
+MCL0100443,MC30018256,Vijay Huded,7924177673,MCRB0001021,Gadag Nehru Nagar,R04,PL,CBS-M,Branch,OF0062,100726.74,0,Standard,Standard,2,5 Early warning: auto-debit bounced 2+ times in 3 months
+MCL0100496,MC30024969,Asha Huded,9438777139,MCRB0001002,Dharwad Station Road,R01,GL,CBS-M,Branch,OF0004,49418.84,300,NPA,NPA,0,4 NPA: recovery
+MCL0100498,MC30024969,Asha Huded,9438777139,MCRB0001017,Bagalkot Old Town,R03,PL,CBS-M,Branch,OF0101,525910.21,0,NPA,NPA,0,4 NPA: recovery
+MCL0100506,MC30016037,Basavaraj Hosamani,6220154075,MCRB0001015,Mudhol Vidyanagar,R03,LAP,CBS-M,Branch,OF0043,1140976.74,474,NPA,NPA,3,4 NPA: recovery
+MCL0100509,MC30016037,Basavaraj Hosamani,6220154075,MCRB0001013,Belagavi Station Road,R02,PL,CBS-M,Branch,OF0037,258625.45,448,NPA,NPA,3,4 NPA: recovery
+MCL0100510,MC30039060,Shabana Badiger,8987700144,MCRB0001013,Belagavi Station Road,R02,PL,CBS-M,Branch,OF0037,761244.42,535,NPA,NPA,3,4 NPA: recovery
+MCL0100513,MC30017885,Vinayak Kulkarni,9550572000,MCRB0001026,Karwar Vidyanagar,R05,PL,CBS-M,Branch,OF0076,116400.98,0,Standard,Standard,2,5 Early warning: auto-debit bounced 2+ times in 3 months
+MCL0100518,MC30045794,Savitri Chavan,9416758034,MCRB0001019,Indi Court Circle,R03,GL,CBS-M,Branch,OF0057,54114.61,205,NPA,NPA,3,4 NPA: recovery
+MCL0100526,MC30027706,Parvati Mathad,6488296879,MCRB0001007,Dharwad APMC Yard,R01,GL,CBS-M,Branch,OF0020,20503.18,0,Standard,SMA-0,2,5 Early warning: auto-debit bounced 2+ times in 3 months
+MCL0100529,MC30025907,Anil Talwar,8300017960,MCRB0001018,Jamkhandi APMC Yard,R03,PL,CBS-M,Branch,OF0053,7440.39,22,SMA-0,Standard,2,5 Early warning: auto-debit bounced 2+ times in 3 months
+MCL0100574,MC30015988,Suresh Desai,9781670498,MCRB0001007,Dharwad APMC Yard,R01,PL,CBS-M,Branch,OF0020,193185.77,0,NPA,NPA,0,4 NPA: recovery
+MCL0100575,MC30015988,Suresh Desai,9781670498,MCRB0001008,Kalghatgi Court Circle,R01,GL,CBS-M,Branch,OF0024,4.16,0,NPA,NPA,0,4 NPA: recovery
+MCL0100585,MC30043519,Pradeep Joshi,9814435754,MCRB0001020,Ron Bus Stand,R04,LAP,CBS-M,Branch,OF0058,3505973.46,17,SMA-0,SMA-0,2,5 Early warning: auto-debit bounced 2+ times in 3 months
+MCL0100614,MC30050281,Mallikarjun Bhat,8602079941,MCRB0001012,Nippani Main Road,R02,PL,CBS-M,Digital Partner,OF0088,670347.31,0,NPA,NPA,0,4 NPA: recovery
+MCL0100667,MC30016625,Mohammed Fernandes,6791333152,MCRB0001013,Belagavi Station Road,R02,PL,CBS-M,Branch,OF0039,156894.46,88,SMA-2,SMA-1,3,2 SMA-2: will be NPA within 30 days unless paid
+MCL0100686,MC30031332,Shilpa Angadi,7144039697,MCRB0001010,Bailhongal Nehru Nagar,R02,PL,CBS-M,Digital Partner,OF0030,965649.21,0,NPA,NPA,2,4 NPA: recovery
+MCL0100689,MC30031332,Shilpa Angadi,7144039697,MCRB0001016,Vijayapura Gandhi Chowk,R03,MSME,CBS-M,Branch,OF0057,2412595.07,180,NPA,NPA,3,4 NPA: recovery
+MCL0100690,MC30018214,Hanumant Hublikar,9626400981,MCRB0001015,Mudhol Vidyanagar,R03,HL,CBS-M,Branch,OF0045,5443816.94,0,Standard,Standard,2,5 Early warning: auto-debit bounced 2+ times in 3 months
+MCL0100696,MC30046137,Ravi Hublikar,9106523693,MCRB0001019,Indi Court Circle,R03,PL,CBS-M,Branch,OF0057,643595.00,83,SMA-2,SMA-1,3,2 SMA-2: will be NPA within 30 days unless paid
+MCL0100712,MC30017500,Usha Madar,7578453707,MCRB0001004,Kundgol Vidyanagar,R01,HL,CBS-M,Branch,OF0011,1745924.98,0,Standard,SMA-0,2,5 Early warning: auto-debit bounced 2+ times in 3 months
+MCL0100731,MC30001274,Deepak Patil,7956484744,MCRB0001020,Ron Bus Stand,R04,PL,CBS-M,Branch,OF0058,65383.42,17,SMA-0,Standard,3,5 Early warning: auto-debit bounced 2+ times in 3 months
+MCL0100751,MC30016324,Imran Lamani,9804896412,MCRB0001025,Kumta Market,R05,GL,CBS-M,Branch,OF0073,133501.84,22,SMA-0,Standard,2,5 Early warning: auto-debit bounced 2+ times in 3 months
+MCL0100764,MC30036190,Pooja Savadi,9804087394,MCRB0001011,Athani Shivaji Road,R02,PL,CBS-M,Branch,OF0031,145897.87,0,Standard,SMA-0,2,5 Early warning: auto-debit bounced 2+ times in 3 months
+MCL0100780,MC30046557,Nagaraj Madar,8602893145,MCRB0001026,Karwar Vidyanagar,R05,HL,CBS-M,Branch,OF0078,2309366.74,0,Standard,Standard,2,5 Early warning: auto-debit bounced 2+ times in 3 months
+MCL0100804,MC30022141,Basavaraj Joshi,8909412689,MCRB0001020,Ron Bus Stand,R04,PL,CBS-M,Branch,OF0058,320875.77,52,SMA-1,SMA-0,2,3 Slipped to SMA-1 in October
+MCL0100831,MC30028175,Deepa Hiremath,9869633648,MCRB0001015,Mudhol Vidyanagar,R03,PL,CBS-M,Branch,OF0045,721617.21,47,SMA-1,SMA-0,2,3 Slipped to SMA-1 in October
+MCL0100834,MC30012971,Harish Joshi,7417713524,MCRB0001025,Kumta Market,R05,PL,CBS-M,Branch,OF0073,295262.32,27,SMA-0,Standard,3,5 Early warning: auto-debit bounced 2+ times in 3 months
+MCL0100887,MC30046053,Mahadevi Kamble,9754971494,MCRB0001014,Gokak Market,R02,PL,CBS-M,Digital Partner,OF0086,933320.14,22,SMA-0,Standard,3,5 Early warning: auto-debit bounced 2+ times in 3 months
+MCL0100890,MC30008540,Suresh Savadi,7202287229,MCRB0001011,Athani Shivaji Road,R02,PL,CBS-M,Branch,OF0033,408656.93,417,NPA,NPA,3,4 NPA: recovery
+MCL0100927,MC30003521,Santosh Jadhav,8974018015,MCRB0001014,Gokak Market,R02,HL,CBS-M,Branch,OF0042,4281887.91,0,Standard,Standard,2,5 Early warning: auto-debit bounced 2+ times in 3 months
+MCL0100975,MC30013552,Sunil D'Souza,9618358090,MCRB0001001,Hubballi Main Road,R01,PL,CBS-M,Digital Partner,OF0001,564246.57,0,Standard,Standard,3,5 Early warning: auto-debit bounced 2+ times in 3 months
+MCL0100979,MC30003304,Imran Pawar,6755881916,MCRB0001006,Hubballi Old Town,R01,MSME,CBS-M,Branch,OF0012,2498279.85,0,Standard,SMA-0,2,5 Early warning: auto-debit bounced 2+ times in 3 months
+MCL0101003,MC30010829,Naveen Shaikh,8426645244,MCRB0001011,Athani Shivaji Road,R02,VL,CBS-M,Branch,OF0032,843486.38,17,SMA-0,SMA-0,2,5 Early warning: auto-debit bounced 2+ times in 3 months
+MCL0101022,MC30016345,Umesh Hosamani,8744020686,MCRB0001024,Savanur Station Road,R04,VL,CBS-M,Branch,OF0072,508100.08,17,SMA-0,Standard,2,5 Early warning: auto-debit bounced 2+ times in 3 months
+MCL0101045,MC30029386,Hanumant Bhat,9374002850,MCRB0001002,Dharwad Station Road,R01,GL,CBS-M,Branch,OF0004,35020.59,0,Standard,Standard,2,5 Early warning: auto-debit bounced 2+ times in 3 months
+MCL0101073,MC30021728,Girish Hublikar,9745821282,MCRB0001017,Bagalkot Old Town,R03,HL,CBS-M,Branch,OF0100,5486059.17,22,SMA-0,Standard,3,5 Early warning: auto-debit bounced 2+ times in 3 months
+MCL0101138,MC30052304,Anil Kadam,9653291540,MCRB0001021,Gadag Nehru Nagar,R04,GL,CBS-M,Branch,OF0061,284301.52,540,NPA,NPA,3,4 NPA: recovery
+MCL0101148,MC30049392,Ramesh Naik,9684200669,MCRB0001008,Kalghatgi Court Circle,R01,LAP,CBS-M,Branch,OF0022,1878101.46,17,SMA-0,SMA-0,2,5 Early warning: auto-debit bounced 2+ times in 3 months
+MCL0101151,MC30014651,Manjunath Kotagi,8117018079,MCRB0001017,Bagalkot Old Town,R03,PL,CBS-M,Branch,OF0050,327185.29,0,Standard,Standard,2,5 Early warning: auto-debit bounced 2+ times in 3 months
+MCL0101164,MC30051044,Vinayak Talwar,9600370783,MCRB0001006,Hubballi Old Town,R01,PL,CBS-M,Branch,OF0017,7514.63,47,SMA-1,SMA-0,0,3 Slipped to SMA-1 in October
+MCL0101224,MC30041923,Sunita Bhat,9463594708,MCRB0001004,Kundgol Vidyanagar,R01,PL,CBS-M,Branch,OF0012,53402.63,0,Standard,Standard,2,5 Early warning: auto-debit bounced 2+ times in 3 months
+MCL0101240,MC30017143,Deepa Hosamani,9951156810,MCRB0001016,Vijayapura Gandhi Chowk,R03,PL,CBS-M,Branch,OF0048,315428.17,149,NPA,NPA,3,4 NPA: recovery
+MCL0101248,MC30025487,Mallikarjun Gudi,7707966579,MCRB0001001,Hubballi Main Road,R01,PL,CBS-M,Branch,OF0001,68419.63,22,SMA-0,Standard,2,5 Early warning: auto-debit bounced 2+ times in 3 months
+MCL0101253,MC30012376,Shrikant Fernandes,8205715237,MCRB0001019,Indi Court Circle,R03,HL,CBS-M,Branch,OF0057,3360549.38,0,Standard,Standard,2,5 Early warning: auto-debit bounced 2+ times in 3 months
+MCL0101270,MC30019530,Sachin Jadhav,6434623954,MCRB0001021,Gadag Nehru Nagar,R04,PL,CBS-M,Branch,OF0062,114478.63,27,SMA-0,Standard,2,5 Early warning: auto-debit bounced 2+ times in 3 months
+MCL0101289,MC30019901,Sunil Naik,8839245654,MCRB0001004,Kundgol Vidyanagar,R01,PL,CBS-M,Branch,OF0012,605658.24,412,NPA,NPA,3,4 NPA: recovery
+MCL0101292,MC30047243,Gururaj Rao,8721609742,MCRB0001018,Jamkhandi APMC Yard,R03,PL,CBS-M,Digital Partner,OF0053,204667.51,0,Standard,Standard,2,5 Early warning: auto-debit bounced 2+ times in 3 months
+MCL0101335,MC30024115,Parvati Joshi,7393657415,MCRB0001001,Hubballi Main Road,R01,GL,CBS-M,Branch,OF0001,105222.31,0,Standard,Standard,3,5 Early warning: auto-debit bounced 2+ times in 3 months
+MCL0101339,MC30050834,Shivanand Kadam,9271915599,MCRB0001002,Dharwad Station Road,R01,LAP,CBS-M,Branch,OF0004,1438680.17,0,Standard,Standard,3,5 Early warning: auto-debit bounced 2+ times in 3 months
+MCL0101354,MC30032697,Ravi Kattimani,6130102840,MCRB0001008,Kalghatgi Court Circle,R01,HL,CBS-M,Branch,OF0023,4422543.99,321,NPA,NPA,3,4 NPA: recovery
+MCL0101367,MC30052507,Neha Mulla,8874273699,MCRB0001001,Hubballi Main Road,R01,PL,CBS-M,Digital Partner,OF0001,173218.15,0,Standard,Standard,2,5 Early warning: auto-debit bounced 2+ times in 3 months
+MCL0101413,MC30021385,Hanumant Hegde,9312280578,MCRB0001007,Dharwad APMC Yard,R01,PL,CBS-M,Branch,OF0019,8421.45,78,SMA-2,SMA-1,0,2 SMA-2: will be NPA within 30 days unless paid
+MCL0101440,MC30027741,Kiran D'Souza,9822263991,MCRB0001023,Ranebennur Main Road,R04,HL,CBS-M,Branch,OF0069,1684186.93,0,Standard,Standard,2,5 Early warning: auto-debit bounced 2+ times in 3 months
+MCL0101450,MC30045059,Savitri Savadi,8335649288,MCRB0001011,Athani Shivaji Road,R02,PL,CBS-M,Branch,OF0032,88162.04,0,Standard,Standard,3,5 Early warning: auto-debit bounced 2+ times in 3 months
+MCL0101495,MC30029183,Kaveri Kulkarni,9515735340,MCRB0001018,Jamkhandi APMC Yard,R03,HL,CBS-M,Branch,OF0052,6344327.87,453,NPA,NPA,3,4 NPA: recovery
+MCL0101496,MC30029183,Kaveri Kulkarni,9515735340,MCRB0001012,Nippani Main Road,R02,PL,CBS-M,Branch,OF0034,209002.50,0,NPA,NPA,0,4 NPA: recovery
+MCL0101515,MC30032536,Shobha Ullagaddi,8714022410,MCRB0001010,Bailhongal Nehru Nagar,R02,LAP,CBS-M,Branch,OF0030,1296018.86,0,Standard,Standard,2,5 Early warning: auto-debit bounced 2+ times in 3 months
+MCL0101516,MC30009702,Mahesh Chavan,7352745343,MCRB0001002,Dharwad Station Road,R01,PL,CBS-M,Branch,OF0004,571013.33,565,NPA,NPA,3,4 NPA: recovery
+MCL0101517,MC30009702,Mahesh Chavan,7352745343,MCRB0001008,Kalghatgi Court Circle,R01,VL,CBS-M,Branch,OF0024,417874.47,0,NPA,NPA,0,4 NPA: recovery
+MCL0101572,MC30007210,Shrikant Patil,8506832990,MCRB0001013,Belagavi Station Road,R02,PL,CBS-M,Digital Partner,OF0039,315382.76,241,NPA,NPA,3,4 NPA: recovery
+MCL0101583,MC30043365,Umesh Yaragatti,7968700548,MCRB0001001,Hubballi Main Road,R01,PL,CBS-M,Digital Partner,OF0001,524224.36,387,NPA,NPA,3,4 NPA: recovery
+MCL0101586,MC30043365,Umesh Yaragatti,7968700548,MCRB0001002,Dharwad Station Road,R01,PL,CBS-M,Branch,OF0005,153655.09,387,NPA,NPA,3,4 NPA: recovery
+MCL0101631,MC30035315,Pooja Pujari,8902188489,MCRB0001026,Karwar Vidyanagar,R05,PL,CBS-M,Digital Partner,OF0077,406178.73,0,Standard,Standard,2,5 Early warning: auto-debit bounced 2+ times in 3 months
+MCL0101634,MC30025662,Vinayak Gowda,9222116761,MCRB0001024,Savanur Station Road,R04,PL,CBS-M,Digital Partner,OF0072,273976.59,0,NPA,NPA,0,4 NPA: recovery
+MCL0101636,MC30025662,Vinayak Gowda,9222116761,MCRB0001015,Mudhol Vidyanagar,R03,PL,CBS-M,Digital Partner,OF0045,777923.32,264,NPA,NPA,0,4 NPA: recovery
+MCL0101637,MC30002366,Anita Shetty,9150840684,MCRB0001011,Athani Shivaji Road,R02,HL,CBS-M,Branch,OF0032,2409196.52,52,SMA-1,SMA-1,0,6 SMA-1
+MCL0101639,MC30007070,Kavita Lamani,9543821361,MCRB0001002,Dharwad Station Road,R01,PL,CBS-M,Branch,OF0004,136005.41,474,NPA,NPA,3,4 NPA: recovery
+MCL0101640,MC30012096,Ramesh Joshi,,MCRB0001025,Kumta Market,R05,PL,CBS-M,Branch,OF0075,46374.79,0,Standard,Standard,2,5 Early warning: auto-debit bounced 2+ times in 3 months
+MCL0101657,MC30039963,Imran Naik,8640274436,MCRB0001013,Belagavi Station Road,R02,HL,CBS-M,Branch,OF0039,2616143.52,0,Standard,Standard,2,5 Early warning: auto-debit bounced 2+ times in 3 months
+MCL0101705,MC30002093,Girish Hublikar,8987253689,MCRB0001002,Dharwad Station Road,R01,MSME,CBS-M,Branch,OF0020,1840778.30,0,Standard,Standard,2,5 Early warning: auto-debit bounced 2+ times in 3 months
+MCL0101708,MC30011837,Shrikant Mathad,9163205908,MCRB0001008,Kalghatgi Court Circle,R01,MSME,CBS-M,Branch,OF0022,778805.17,27,NPA,NPA,0,4 NPA: recovery
+MCL0101710,MC30011837,Shrikant Mathad,9163205908,MCRB0001006,Hubballi Old Town,R01,PL,CBS-M,Digital Partner,OF0018,179035.48,295,NPA,NPA,3,4 NPA: recovery
+MCL0101728,MC30035007,Mallikarjun Kamble,8574242922,MCRB0001007,Dharwad APMC Yard,R01,VL,CBS-M,Branch,OF0020,505381.15,22,SMA-0,SMA-0,3,5 Early warning: auto-debit bounced 2+ times in 3 months
+MCL0101798,MC30049840,Raghavendra Lamani,7314546368,MCRB0001025,Kumta Market,R05,PL,CBS-M,Digital Partner,OF0073,145413.37,83,SMA-2,SMA-1,3,2 SMA-2: will be NPA within 30 days unless paid
+MCL0101806,MC30014217,Mahesh Pawar,6573810658,MCRB0001003,Kalghatgi Market,R01,PL,CBS-M,Branch,OF0008,150264.92,808,NPA,NPA,3,4 NPA: recovery
+MCL0101808,MC30048538,Prashant Sankeshwar,7930888267,MCRB0001004,Kundgol Vidyanagar,R01,PL,CBS-M,Branch,OF0012,150185.21,0,Standard,NPA,2,5 Early warning: auto-debit bounced 2+ times in 3 months
+MCL0101809,MC30029127,Imran Joshi,8767683497,MCRB0001002,Dharwad Station Road,R01,PL,CBS-M,Branch,OF0004,300567.53,382,NPA,NPA,3,4 NPA: recovery
+MCL0101828,MC30041776,Kiran Hegde,8719640336,MCRB0001001,Hubballi Main Road,R01,PL,CBS-M,Branch,OF0001,46610.49,139,NPA,NPA,0,4 NPA: recovery
+MCL0101870,MC30020111,Siddappa Badiger,9267041780,MCRB0001020,Ron Bus Stand,R04,HL,CBS-M,Branch,OF0058,5418434.76,0,Standard,Standard,2,5 Early warning: auto-debit bounced 2+ times in 3 months
+MCL0101908,MC30004158,Mohammed Kulkarni,8849779500,MCRB0001008,Kalghatgi Court Circle,R01,PL,CBS-M,Branch,OF0022,308901.33,0,Standard,Standard,3,5 Early warning: auto-debit bounced 2+ times in 3 months
+MCL0101941,MC30005754,Arun Kotagi,9336255811,MCRB0001019,Indi Court Circle,R03,VL,CBS-M,Branch,OF0056,400993.15,139,NPA,NPA,3,4 NPA: recovery
+MCL0101944,MC30027482,Prakash Nadaf,9450968536,MCRB0001002,Dharwad Station Road,R01,PL,CBS-M,Branch,,363267.80,149,NPA,NPA,3,4 NPA: recovery
+MCL0101962,MC30013986,Umesh Patil,8293494437,MCRB0001020,Ron Bus Stand,R04,HL,CBS-M,Branch,OF0058,7570800.51,0,Standard,Standard,2,5 Early warning: auto-debit bounced 2+ times in 3 months
+MCL0101966,MC30005600,Jyoti Gowda,8269556972,MCRB0001019,Indi Court Circle,R03,PL,CBS-M,Branch,OF0057,83301.12,453,NPA,NPA,0,4 NPA: recovery
+MCL0102023,MC30001757,Sachin Biradar,7286776065,MCRB0001008,Kalghatgi Court Circle,R01,PL,CBS-M,Digital Partner,OF0022,184055.84,57,SMA-1,SMA-0,2,3 Slipped to SMA-1 in October
+MCL0102055,MC30009044,Kiran Rao,9572144969,MCRB0001023,Ranebennur Main Road,R04,VL,CBS-M,Branch,OF0067,704035.08,0,Standard,Standard,2,5 Early warning: auto-debit bounced 2+ times in 3 months
+MCL0102066,MC30044401,Deepa Badiger,7339043596,MCRB0001005,Navalgund Gandhi Chowk,R01,PL,CBS-M,Branch,OF0014,79839.51,0,Standard,Standard,2,5 Early warning: auto-debit bounced 2+ times in 3 months
+MCL0102072,MC30047306,Nagaraj Bhat,9636580540,MCRB0001017,Bagalkot Old Town,R03,PL,CBS-M,Branch,OF0051,88706.28,27,SMA-0,Standard,2,5 Early warning: auto-debit bounced 2+ times in 3 months
+MCL0102104,MC30010388,Roopa Biradar,9165021855,MCRB0001001,Hubballi Main Road,R01,PL,CBS-M,Branch,OF0001,418712.91,0,Standard,Standard,2,5 Early warning: auto-debit bounced 2+ times in 3 months
+MCL0102177,MC30046025,Ashok Pujari,6312751882,MCRB0001001,Hubballi Main Road,R01,VL,CBS-M,Branch,OF0002,318340.72,0,Standard,Standard,2,5 Early warning: auto-debit bounced 2+ times in 3 months
+MCL0102182,MC30037611,Neha Talwar,9446389470,MCRB0001011,Athani Shivaji Road,R02,PL,CBS-M,Branch,OF0037,300004.83,0,Standard,Standard,3,5 Early warning: auto-debit bounced 2+ times in 3 months
+MCL0102190,MC30029197,Basavaraj Gowda,7920901953,MCRB0001014,Gokak Market,R02,HL,CBS-M,Branch,OF0080,5014729.54,0,Standard,Standard,2,5 Early warning: auto-debit bounced 2+ times in 3 months
+MCL0102193,MC30014042,Deepak Desai,9864822561,MCRB0001002,Dharwad Station Road,R01,HL,CBS-M,Branch,OF0004,3049134.06,27,SMA-0,Standard,3,5 Early warning: auto-debit bounced 2+ times in 3 months
+MCL0102268,MC30006447,Mallikarjun Kotagi,6377764474,MCRB0001011,Athani Shivaji Road,R02,HL,CBS-M,Branch,OF0033,1844107.91,0,Standard,SMA-0,2,5 Early warning: auto-debit bounced 2+ times in 3 months
+MCL0102290,MC30023079,Usha Joshi,8154738963,MCRB0001002,Dharwad Station Road,R01,PL,CBS-M,Digital Partner,OF0006,98552.08,17,NPA,Standard,2,1 Became NPA in October
+MCL0102293,MC30023079,Usha Joshi,8154738963,MCRB0001006,Hubballi Old Town,R01,GL,CBS-M,Branch,OF0016,15376.59,119,NPA,SMA-2,0,1 Became NPA in October
+MCL0102345,MC30030170,Siddappa Huded,9765404521,MCRB0001004,Kundgol Vidyanagar,R01,PL,CBS-M,Branch,OF0010,182790.61,752,NPA,NPA,3,4 NPA: recovery
+MCL0102364,MC30041888,Vinayak Shirol,9822471598,MCRB0001002,Dharwad Station Road,R01,PL,CBS-M,Branch,OF0012,995146.61,0,Standard,SMA-0,3,5 Early warning: auto-debit bounced 2+ times in 3 months
+MCL0102377,MC30006783,Anand Kotagi,6669803285,MCRB0001011,Athani Shivaji Road,R02,VL,CBS-M,Branch,OF0032,271208.60,17,SMA-0,Standard,2,5 Early warning: auto-debit bounced 2+ times in 3 months
+MCL0102396,MC30007287,Harish Mathad,7750021136,MCRB0001015,Mudhol Vidyanagar,R03,VL,CBS-M,Branch,OF0044,1162700.94,22,SMA-0,Standard,3,5 Early warning: auto-debit bounced 2+ times in 3 months
+MCL0102401,MC30030905,Shrikant Jadhav,9299786666,MCRB0001025,Kumta Market,R05,GL,CBS-M,Branch,OF0074,16846.66,417,NPA,NPA,0,4 NPA: recovery
+MCL0102407,MC30024269,Sushma D'Souza,8961610601,MCRB0001004,Kundgol Vidyanagar,R01,HL,CBS-M,Branch,OF0012,6260317.14,180,NPA,NPA,0,4 NPA: recovery
+MCL0102409,MC30024269,Sushma D'Souza,8961610601,MCRB0001012,Nippani Main Road,R02,LAP,CBS-M,Branch,OF0035,2532383.86,175,NPA,NPA,3,4 NPA: recovery
+MCL0102444,MC30030681,Siddappa Angadi,7446425408,MCRB0001006,Hubballi Old Town,R01,PL,CBS-M,Branch,OF0008,379141.13,0,Standard,Standard,2,5 Early warning: auto-debit bounced 2+ times in 3 months
+MCL0102479,MC30042917,Nandini Fernandes,9629147140,MCRB0001007,Dharwad APMC Yard,R01,HL,CBS-M,Branch,OF0021,2011184.98,0,Standard,Standard,2,5 Early warning: auto-debit bounced 2+ times in 3 months
+MCL0102511,MC30037296,Irfan Pujari,7573579993,MCRB0001012,Nippani Main Road,R02,PL,CBS-M,Branch,OF0036,83687.57,0,Standard,Standard,2,5 Early warning: auto-debit bounced 2+ times in 3 months
+MCL0102533,MC30047663,Nandini Fernandes,8572886992,MCRB0001003,Kalghatgi Market,R01,VL,CBS-M,Branch,OF0007,463122.85,0,Standard,SMA-0,2,5 Early warning: auto-debit bounced 2+ times in 3 months
+MCL0102563,MC30027888,Mallikarjun Shetty,9657532019,MCRB0001018,Jamkhandi APMC Yard,R03,PL,CBS-M,Branch,OF0052,19432.99,180,NPA,NPA,0,4 NPA: recovery
+MCL0102573,MC30051009,Vidya Hegde,8786977854,MCRB0001001,Hubballi Main Road,R01,PL,CBS-M,Branch,OF0002,67859.50,0,Standard,Standard,2,5 Early warning: auto-debit bounced 2+ times in 3 months
+MCL0102591,MC30023996,Mahesh Ullagaddi,7275997919,MCRB0001021,Gadag Nehru Nagar,R04,VL,CBS-M,Branch,OF0061,301967.45,17,SMA-0,SMA-0,2,5 Early warning: auto-debit bounced 2+ times in 3 months
+MCL0102598,MC30011711,Raghavendra Hublikar,9811262630,MCRB0001002,Dharwad Station Road,R01,VL,CBS-M,Branch,OF0006,360063.73,0,Standard,Standard,2,5 Early warning: auto-debit bounced 2+ times in 3 months
+MCL0102612,MC30004711,Sunil Menasinkai,8348570738,MCRB0001004,Kundgol Vidyanagar,R01,PL,CBS-M,Branch,OF0012,357158.24,0,Standard,SMA-0,2,5 Early warning: auto-debit bounced 2+ times in 3 months
+MCL0102650,MC30035588,Suresh Talwar,6266045450,MCRB0001024,Savanur Station Road,R04,PL,CBS-M,Digital Partner,OF0070,379745.90,17,SMA-0,Standard,2,5 Early warning: auto-debit bounced 2+ times in 3 months
+MCL0102653,MC30001659,Renuka Hegde,9457581451,MCRB0001013,Belagavi Station Road,R02,PL,CBS-M,Branch,OF0037,86926.27,0,Standard,SMA-0,2,5 Early warning: auto-debit bounced 2+ times in 3 months
+MCL0102658,MC30000378,Ramesh Patil,7596349587,MCRB0001003,Kalghatgi Market,R01,VL,CBS-M,Branch,OF0009,277527.86,57,SMA-1,SMA-1,0,6 SMA-1
+MCL0102689,MC30019796,Veeresh Shaikh,8951144031,MCRB0001007,Dharwad APMC Yard,R01,HL,CBS-M,Branch,OF0020,2865364.55,570,NPA,NPA,3,4 NPA: recovery
+MCL0102694,MC30040264,Geeta Hosamani,9311603725,MCRB0001016,Vijayapura Gandhi Chowk,R03,LAP,CBS-M,Branch,OF0047,1420711.36,170,NPA,NPA,3,4 NPA: recovery
+MCL0102711,MC30004494,Kavita Kattimani,7720526132,MCRB0001022,Haveri Shivaji Road,R04,LAP,CBS-M,Branch,OF0066,1126178.89,17,SMA-0,Standard,2,5 Early warning: auto-debit bounced 2+ times in 3 months
+MCL0102720,MC30044996,Gururaj Naik,8897465958,MCRB0001023,Ranebennur Main Road,R04,PL,CBS-M,Digital Partner,OF0067,182261.45,0,Standard,Standard,2,5 Early warning: auto-debit bounced 2+ times in 3 months
+MCL0102729,MC30021231,Manjunath Shaikh,7430499214,MCRB0001001,Hubballi Main Road,R01,HL,CBS-M,Branch,OF0001,5330249.12,0,Standard,Standard,2,5 Early warning: auto-debit bounced 2+ times in 3 months
+MCL0102741,MC30023905,Gururaj Lamani,9111722771,MCRB0001012,Nippani Main Road,R02,PL,CBS-M,Branch,OF0030,617058.74,453,NPA,NPA,3,4 NPA: recovery
+MCL0102769,MC30006139,Bharati Joshi,9990887362,MCRB0001017,Bagalkot Old Town,R03,VL,CBS-M,Branch,OF0050,620762.07,382,NPA,NPA,3,4 NPA: recovery
+MCL0102771,MC30040894,Shivanand Hegde,9173920110,MCRB0001013,Belagavi Station Road,R02,LAP,CBS-M,Branch,OF0037,3317915.95,57,SMA-1,SMA-0,0,3 Slipped to SMA-1 in October
+MCL0102789,MC30000070,Manjunath Shetty,8890441984,MCRB0001001,Hubballi Main Road,R01,HL,CBS-M,Branch,OF0002,1988696.04,0,Standard,SMA-0,2,5 Early warning: auto-debit bounced 2+ times in 3 months
+MCL0102848,MC30043771,Priya Sankeshwar,7676757851,MCRB0001001,Hubballi Main Road,R01,HL,CBS-M,Branch,OF0002,8367653.52,0,Standard,Standard,2,5 Early warning: auto-debit bounced 2+ times in 3 months
+MCL0102855,MC30002254,Anita Chavan,6314502436,MCRB0001017,Bagalkot Old Town,R03,VL,CBS-M,Branch,OF0049,272147.33,139,NPA,NPA,3,4 NPA: recovery
+MCL0102864,MC30033124,Veeresh Sankeshwar,7748556906,MCRB0001018,Jamkhandi APMC Yard,R03,PL,CBS-M,Branch,OF0054,179685.98,479,NPA,NPA,3,4 NPA: recovery
+MCL0102901,MC30040509,Shabana Savadi,8214884561,MCRB0001002,Dharwad Station Road,R01,PL,CBS-M,Branch,OF0004,85309.00,417,NPA,NPA,0,4 NPA: recovery
+MCL0102950,MC30012005,Gururaj Fernandes,7663608252,MCRB0001016,Vijayapura Gandhi Chowk,R03,PL,CBS-M,Branch,OF0048,377176.51,535,NPA,NPA,3,4 NPA: recovery
+MCL0102987,MC30015785,Mallikarjun Patil,7111939206,MCRB0001001,Hubballi Main Road,R01,VL,CBS-M,Branch,OF0001,816896.74,17,SMA-0,SMA-0,3,5 Early warning: auto-debit bounced 2+ times in 3 months
+MCL0103009,MC30039935,Irfan Patil,7895949421,MCRB0001002,Dharwad Station Road,R01,VL,CBS-M,Branch,OF0004,921322.27,22,SMA-0,Standard,3,5 Early warning: auto-debit bounced 2+ times in 3 months
+MCL0103018,MC30050400,Gururaj Nadaf,8785712966,MCRB0001001,Hubballi Main Road,R01,PL,CBS-M,Branch,OF0002,61666.28,17,SMA-0,SMA-0,3,5 Early warning: auto-debit bounced 2+ times in 3 months
+MCL0103036,MC30006860,Anand Lamani,9204793148,MCRB0001003,Kalghatgi Market,R01,PL,CBS-M,Branch,OF0007,162732.90,57,SMA-1,SMA-1,0,6 SMA-1
+MCL0103069,MC30012390,Prakash Fernandes,9670770521,MCRB0001013,Belagavi Station Road,R02,PL,CBS-M,Branch,OF0037,413995.70,0,Standard,Standard,2,5 Early warning: auto-debit bounced 2+ times in 3 months
+MCL0103076,MC30002688,Santosh Nayak,7339975522,MCRB0001001,Hubballi Main Road,R01,PL,CBS-M,Branch,OF0001,517152.07,269,NPA,NPA,0,4 NPA: recovery
+MCL0103089,MC30029512,Bharati Jadhav,9198645101,MCRB0001002,Dharwad Station Road,R01,VL,CBS-M,Branch,OF0004,97505.51,57,SMA-1,SMA-1,0,6 SMA-1
+MCL0103091,MC30038381,Vinayak Mathad,8655523607,MCRB0001017,Bagalkot Old Town,R03,VL,CBS-M,Branch,OF0051,953509.92,757,NPA,NPA,3,4 NPA: recovery
+MCL0103094,MC30038381,Vinayak Mathad,8655523607,MCRB0001025,Kumta Market,R05,GL,CBS-M,Branch,OF0074,275777.87,535,NPA,NPA,0,4 NPA: recovery
+MCL0103105,MC30045731,Rekha Madar,8505012886,MCRB0001010,Bailhongal Nehru Nagar,R02,LAP,CBS-M,Branch,OF0030,3091881.59,17,SMA-0,Standard,2,5 Early warning: auto-debit bounced 2+ times in 3 months
+MCL0103135,MC30015960,Manjunath Hegde,9640630543,MCRB0001002,Dharwad Station Road,R01,PL,CBS-M,Branch,OF0006,284567.13,52,SMA-1,SMA-0,1,3 Slipped to SMA-1 in October
+MCL0103138,MC30015218,Gururaj Kadam,9816274599,MCRB0001002,Dharwad Station Road,R01,GL,CBS-M,Branch,OF0005,70331.78,27,SMA-0,SMA-0,2,5 Early warning: auto-debit bounced 2+ times in 3 months
+MCL0103147,MC30022071,Raghavendra Sankeshwar,9222869211,MCRB0001002,Dharwad Station Road,R01,VL,CBS-M,Branch,OF0004,776774.33,47,NPA,NPA,2,4 NPA: recovery
+MCL0103149,MC30022071,Raghavendra Sankeshwar,9222869211,MCRB0001009,Chikkodi Bus Stand,R02,PL,CBS-M,Branch,OF0027,320400.20,331,NPA,NPA,3,4 NPA: recovery
+MCL0103186,MC30025172,Bharati Badiger,8882409483,MCRB0001014,Gokak Market,R02,PL,CBS-M,Branch,OF0042,231028.54,422,NPA,NPA,3,4 NPA: recovery
+MCL0103188,MC30025172,Bharati Badiger,8882409483,MCRB0001008,Kalghatgi Court Circle,R01,PL,CBS-M,Branch,OF0022,293041.41,417,NPA,NPA,1,4 NPA: recovery
+MCL0103209,MC30022155,Asha Savadi,6692445285,MCRB0001006,Hubballi Old Town,R01,PL,CBS-M,Branch,OF0017,257805.17,264,NPA,NPA,3,4 NPA: recovery
+MCL0103215,MC30039655,Irfan Huded,8405849274,MCRB0001026,Karwar Vidyanagar,R05,PL,CBS-M,Branch,OF0078,105245.97,545,NPA,NPA,3,4 NPA: recovery
+MCL0103275,MC30035483,Mohammed Madar,8631356004,MCRB0001007,Dharwad APMC Yard,R01,PL,CBS-M,Branch,OF0020,347046.19,17,SMA-0,Standard,2,5 Early warning: auto-debit bounced 2+ times in 3 months
+MCL0103277,MC30017556,Vinayak Pujari,9978033137,MCRB0001002,Dharwad Station Road,R01,PL,CBS-M,Branch,OF0004,192265.56,0,Standard,SMA-0,3,5 Early warning: auto-debit bounced 2+ times in 3 months
+MCL0103312,MC30007119,Anil Gudi,9199356729,MCRB0001002,Dharwad Station Road,R01,MSME,CBS-M,Branch,OF0004,565496.96,0,Standard,SMA-0,2,5 Early warning: auto-debit bounced 2+ times in 3 months
+MCL0103327,MC30037632,Kavita Patil,9831021225,MCRB0001001,Hubballi Main Road,R01,MSME,CBS-M,Branch,OF0010,1133551.94,0,Standard,SMA-0,2,5 Early warning: auto-debit bounced 2+ times in 3 months
+MCL0103330,MC30029547,Priya Fernandes,9712019262,MCRB0001018,Jamkhandi APMC Yard,R03,PL,CBS-M,Branch,OF0052,440916.13,331,NPA,NPA,3,4 NPA: recovery
+MCL0103399,MC30018249,Manjunath Desai,8582783114,MCRB0001008,Kalghatgi Court Circle,R01,HL,CBS-M,Branch,OF0024,5008981.02,17,SMA-0,SMA-0,2,5 Early warning: auto-debit bounced 2+ times in 3 months
+MCL0103414,MC30017521,Jyoti Pawar,9161027223,MCRB0001007,Dharwad APMC Yard,R01,HL,CBS-M,Branch,OF0021,3135242.25,0,Standard,SMA-0,3,5 Early warning: auto-debit bounced 2+ times in 3 months
+MCL0103451,MC30022932,Channabasappa Savadi,9974936772,MCRB0001013,Belagavi Station Road,R02,PL,CBS-M,Branch,OF0037,496693.51,22,SMA-0,Standard,3,5 Early warning: auto-debit bounced 2+ times in 3 months
+MCL0103480,MC30046949,Anand Hegde,8800274206,MCRB0001018,Jamkhandi APMC Yard,R03,PL,CBS-M,Branch,OF0052,98220.39,52,SMA-1,SMA-1,1,6 SMA-1
+MCL0103481,MC30011620,Kaveri Bhat,7190925140,MCRB0001001,Hubballi Main Road,R01,PL,CBS-M,Digital Partner,OF0001,287957.38,22,SMA-0,Standard,3,5 Early warning: auto-debit bounced 2+ times in 3 months
+MCL0103482,MC30026796,Shivanand Bagewadi,6619449368,MCRB0001007,Dharwad APMC Yard,R01,PL,CBS-M,Branch,OF0020,682723.57,0,Standard,Standard,2,5 Early warning: auto-debit bounced 2+ times in 3 months
+MCL0103524,MC30033810,Imran Sankeshwar,8518451684,MCRB0001018,Jamkhandi APMC Yard,R03,GL,CBS-M,Branch,OF0053,22772.81,52,SMA-1,SMA-0,0,3 Slipped to SMA-1 in October
+MCL0103527,MC30052955,Irfan Menasinkai,9494071206,MCRB0001001,Hubballi Main Road,R01,VL,CBS-M,Branch,OF0001,110425.62,57,SMA-1,SMA-1,0,6 SMA-1
+MCL0103539,MC30048139,Nagaraj Talwar,8129066443,MCRB0001024,Savanur Station Road,R04,PL,CBS-M,Branch,OF0070,530007.96,200,NPA,NPA,3,4 NPA: recovery
+MCL0103545,MC30043785,Raghavendra Lamani,9616411548,MCRB0001001,Hubballi Main Road,R01,PL,CBS-M,Branch,OF0002,145732.48,78,SMA-2,SMA-2,0,2 SMA-2: will be NPA within 30 days unless paid
+MCL0103565,MC30006545,Ravi Pujari,8227224133,MCRB0001013,Belagavi Station Road,R02,PL,CBS-M,Digital Partner,OF0039,371851.63,149,NPA,NPA,3,4 NPA: recovery
+MCL0103568,MC30025431,Vijay Chavan,8291535967,MCRB0001005,Navalgund Gandhi Chowk,R01,HL,CBS-M,Branch,OF0013,1438055.38,0,Standard,Standard,3,5 Early warning: auto-debit bounced 2+ times in 3 months
+MCL0103589,MC30004459,Veeresh Bagewadi,8202986967,MCRB0001021,Gadag Nehru Nagar,R04,GL,CBS-M,Branch,OF0062,369812.47,0,Standard,Standard,2,5 Early warning: auto-debit bounced 2+ times in 3 months
+MCL0103602,MC30050001,Usha Naik,9352669622,MCRB0001022,Haveri Shivaji Road,R04,PL,CBS-M,Branch,OF0064,482080.33,57,NPA,SMA-0,2,1 Became NPA in October
+MCL0103605,MC30050001,Usha Naik,9352669622,MCRB0001013,Belagavi Station Road,R02,PL,CBS-M,Branch,OF0037,535032.93,114,NPA,SMA-2,3,1 Became NPA in October
+MCL0103617,MC30047502,Asha Mulla,7129748976,MCRB0001004,Kundgol Vidyanagar,R01,PL,CBS-M,Branch,OF0012,986157.52,17,SMA-0,Standard,2,5 Early warning: auto-debit bounced 2+ times in 3 months
+MCL0103619,MC30039704,Shivanand Desai,8219477675,MCRB0001018,Jamkhandi APMC Yard,R03,VL,CBS-M,Branch,OF0053,504384.82,0,Standard,Standard,2,5 Early warning: auto-debit bounced 2+ times in 3 months
+MCL0103626,MC30027272,Umesh Kulkarni,8433368369,MCRB0001014,Gokak Market,R02,PL,CBS-M,Branch,OF0041,113278.46,0,Standard,Standard,2,5 Early warning: auto-debit bounced 2+ times in 3 months
+MCL0103631,MC30038668,Basavaraj Kattimani,9304611324,MCRB0001016,Vijayapura Gandhi Chowk,R03,PL,CBS-M,Branch,OF0100,227849.87,175,NPA,NPA,3,4 NPA: recovery
+MCL0103634,MC30038668,Basavaraj Kattimani,9304611324,MCRB0001013,Belagavi Station Road,R02,HL,CBS-M,Branch,OF0037,7914637.75,200,NPA,NPA,0,4 NPA: recovery
+MCL0103652,MC30035035,Arun D'Souza,7739990705,MCRB0001008,Kalghatgi Court Circle,R01,GL,CBS-M,Branch,OF0023,65251.65,0,Standard,SMA-0,2,5 Early warning: auto-debit bounced 2+ times in 3 months
+MCL0103684,MC30027671,Vinayak Menasinkai,9704031526,MCRB0001007,Dharwad APMC Yard,R01,PL,CBS-M,Branch,OF0020,100775.77,300,NPA,NPA,3,4 NPA: recovery
+MCL0103686,MC30042539,Harish Hublikar,9985642105,MCRB0001012,Nippani Main Road,R02,PL,CBS-M,Branch,OF0035,258478.35,0,NPA,NPA,3,4 NPA: recovery
+MCL0103732,MC30004046,Raghavendra Fernandes,7817675759,MCRB0001015,Mudhol Vidyanagar,R03,PL,CBS-M,Digital Partner,OF0045,442252.84,57,SMA-1,SMA-0,2,3 Slipped to SMA-1 in October
+MCL0103762,MC30038269,Mohammed Desai,9566760475,MCRB0001017,Bagalkot Old Town,R03,GL,CBS-M,Branch,OF0049,76160.57,22,SMA-0,Standard,2,5 Early warning: auto-debit bounced 2+ times in 3 months
+MCL0103765,MC30019180,Vinayak Ullagaddi,9741166306,MCRB0001023,Ranebennur Main Road,R04,MSME,CBS-M,Branch,OF0069,813767.28,0,Standard,Standard,3,5 Early warning: auto-debit bounced 2+ times in 3 months
+MCL0103771,MC30043995,Siddappa Talwar,6845852067,MCRB0001002,Dharwad Station Road,R01,VL,CBS-M,Branch,OF0006,645965.71,504,NPA,NPA,3,4 NPA: recovery
+MCL0103784,MC30015974,Nagaraj Hiremath,9498283269,MCRB0001025,Kumta Market,R05,PL,CBS-M,Branch,OF0074,534435.45,665,NPA,NPA,3,4 NPA: recovery
+MCL0103793,MC30021819,Jyoti Menasinkai,9380493874,MCRB0001009,Chikkodi Bus Stand,R02,GL,CBS-M,Branch,OF0026,21494.77,0,Standard,Standard,2,5 Early warning: auto-debit bounced 2+ times in 3 months
+MCL0103812,MC30007273,Pradeep Hegde,9769784744,MCRB0001010,Bailhongal Nehru Nagar,R02,MSME,CBS-M,Branch,OF0029,639666.84,601,NPA,NPA,3,4 NPA: recovery
+MCL0103869,MC30001302,Anand Shaikh,8544224034,MCRB0001019,Indi Court Circle,R03,PL,CBS-M,Branch,OF0057,173000.00,27,NPA,NPA,0,4 NPA: recovery
+MCL0103897,MC30011137,Sangeeta Kadam,9595272625,MCRB0001023,Ranebennur Main Road,R04,PL,CBS-M,Branch,OF0069,282894.25,747,NPA,NPA,3,4 NPA: recovery
+MCL0103911,MC30010822,Santosh Angadi,9605012657,MCRB0001014,Gokak Market,R02,PL,CBS-M,Branch,OF0041,26104.70,231,NPA,NPA,0,4 NPA: recovery
+MCL0103919,MC30027076,Sudha Huded,8192713030,MCRB0001010,Bailhongal Nehru Nagar,R02,HL,CBS-M,Branch,OF0030,6967436.67,601,NPA,NPA,3,4 NPA: recovery
+MCL0103976,MC30028966,Kavita Lamani,8514337669,MCRB0001001,Hubballi Main Road,R01,PL,CBS-M,Branch,OF0003,92049.56,0,Standard,Standard,2,5 Early warning: auto-debit bounced 2+ times in 3 months
+MCL0104014,MC30012817,Shobha Bhat,8697616821,MCRB0001016,Vijayapura Gandhi Chowk,R03,VL,CBS-M,Branch,OF0048,1229788.83,78,SMA-2,SMA-2,0,2 SMA-2: will be NPA within 30 days unless paid
+MCL0104020,MC30000595,Rekha Joshi,8799021483,MCRB0001002,Dharwad Station Road,R01,PL,CBS-M,Branch,OF0008,230317.04,0,Standard,Standard,2,5 Early warning: auto-debit bounced 2+ times in 3 months
+MCL0104027,MC30031402,Ramesh Jadhav,7991939539,MCRB0001018,Jamkhandi APMC Yard,R03,VL,CBS-M,Branch,OF0052,1401891.75,17,SMA-0,Standard,2,5 Early warning: auto-debit bounced 2+ times in 3 months
+MCL0104036,MC30024906,Basavaraj Badiger,9525236007,MCRB0001025,Kumta Market,R05,PL,CBS-M,Branch,OF0073,27781.84,78,SMA-2,SMA-1,2,2 SMA-2: will be NPA within 30 days unless paid
+MCL0104049,MC30053424,Ayesha Nadaf,8769042554,MCRB0001017,Bagalkot Old Town,R03,PL,CBS-M,Digital Partner,OF0049,121091.56,0,Standard,Standard,2,5 Early warning: auto-debit bounced 2+ times in 3 months
+MCL0104071,MC30043967,Roopa Belagali,6690063302,MCRB0001003,Kalghatgi Market,R01,GL,CBS-M,Branch,OF0009,62478.26,331,NPA,NPA,3,4 NPA: recovery
+MCL0104073,MC30043967,Roopa Belagali,6690063302,MCRB0001002,Dharwad Station Road,R01,HL,CBS-M,Branch,OF0006,1807779.43,321,NPA,NPA,3,4 NPA: recovery
+MCL0104081,MC30013090,Gururaj Sankeshwar,7939450458,MCRB0001015,Mudhol Vidyanagar,R03,VL,CBS-M,Branch,OF0044,550442.28,300,NPA,NPA,0,4 NPA: recovery
+MCL0104082,MC30013090,Gururaj Sankeshwar,7939450458,MCRB0001005,Navalgund Gandhi Chowk,R01,PL,CBS-M,Digital Partner,OF0014,304895.00,200,NPA,NPA,3,4 NPA: recovery
+MCL0104089,MC30045577,Kiran Ullagaddi,9471352236,MCRB0001004,Kundgol Vidyanagar,R01,PL,CBS-M,Branch,OF0012,476250.50,0,Standard,Standard,2,5 Early warning: auto-debit bounced 2+ times in 3 months
+MCL0104150,MC30029897,Hanumant Patil,9895836848,MCRB0001001,Hubballi Main Road,R01,PL,CBS-M,Digital Partner,OF0001,661131.26,88,SMA-2,SMA-1,3,2 SMA-2: will be NPA within 30 days unless paid
+MCL0104219,MC30046228,Santosh Kamble,8169154786,MCRB0001020,Ron Bus Stand,R04,PL,CBS-M,Branch,OF0060,6110.82,149,NPA,NPA,0,4 NPA: recovery
+MCL0104268,MC30046578,Rajesh Mathad,7520029019,MCRB0001001,Hubballi Main Road,R01,VL,CBS-M,Branch,OF0001,495513.56,0,Standard,Standard,2,5 Early warning: auto-debit bounced 2+ times in 3 months
+MCL0104328,MC30016639,Vidya Nayak,9153500969,MCRB0001001,Hubballi Main Road,R01,PL,CBS-M,Branch,OF0001,129017.50,57,SMA-1,SMA-0,3,3 Slipped to SMA-1 in October
+MCL0104341,MC30038143,Sudha Sankeshwar,8295718800,MCRB0001004,Kundgol Vidyanagar,R01,VL,CBS-M,Branch,OF0011,324608.91,22,SMA-0,Standard,2,5 Early warning: auto-debit bounced 2+ times in 3 months
+MCL0104372,MC30036106,Harish Hosamani,7273094616,MCRB0001001,Hubballi Main Road,R01,PL,CBS-M,Digital Partner,OF0003,336776.11,0,NPA,NPA,0,4 NPA: recovery
+MCL0104373,MC30036106,Harish Hosamani,7273094616,MCRB0001024,Savanur Station Road,R04,PL,CBS-M,Branch,OF0072,883559.80,545,NPA,NPA,3,4 NPA: recovery
+MCL0104387,MC30003234,Shrikant Mulla,9834575136,MCRB0001009,Chikkodi Bus Stand,R02,VL,CBS-M,Branch,OF0027,1023298.35,22,SMA-0,Standard,2,5 Early warning: auto-debit bounced 2+ times in 3 months
+MCL0104388,MC30017010,Mallikarjun Gudi,6920143760,MCRB0001011,Athani Shivaji Road,R02,HL,CBS-M,Branch,OF0032,2537021.62,22,SMA-0,Standard,3,5 Early warning: auto-debit bounced 2+ times in 3 months
+MCL0104422,MC30005873,Umesh Angadi,9739033634,MCRB0001026,Karwar Vidyanagar,R05,PL,CBS-M,Branch,OF0077,162651.43,27,SMA-0,Standard,2,5 Early warning: auto-debit bounced 2+ times in 3 months
+MCL0104455,MC30004214,Harish Nayak,6455803107,MCRB0001023,Ranebennur Main Road,R04,PL,CBS-M,Branch,OF0069,557941.62,484,NPA,NPA,0,4 NPA: recovery
+MCL0104456,MC30004214,Harish Nayak,6455803107,MCRB0001019,Indi Court Circle,R03,PL,CBS-M,Branch,OF0056,218025.90,504,NPA,NPA,3,4 NPA: recovery
+MCL0104487,MC30013321,Mahadevi Shaikh,8347764012,MCRB0001012,Nippani Main Road,R02,VL,CBS-M,Branch,OF0034,1178772.78,0,Standard,SMA-0,2,5 Early warning: auto-debit bounced 2+ times in 3 months
+MCL0104514,MC30025018,Mallikarjun Biradar,8359270028,MCRB0001008,Kalghatgi Court Circle,R01,GL,CBS-M,Branch,OF0022,17594.66,114,NPA,SMA-2,2,1 Became NPA in October
+MCL0104517,MC30025018,Mallikarjun Biradar,8359270028,MCRB0001024,Savanur Station Road,R04,PL,CBS-M,Branch,OF0071,32338.86,114,NPA,SMA-2,3,1 Became NPA in October
+MCL0104539,MC30008771,Harish Menasinkai,9654282505,MCRB0001013,Belagavi Station Road,R02,PL,CBS-M,Branch,OF0038,116274.66,109,NPA,SMA-2,3,1 Became NPA in October
+MCL0104600,MC30016618,Mallikarjun Hiremath,9707926876,MCRB0001005,Navalgund Gandhi Chowk,R01,GL,CBS-M,Branch,OF0014,33881.59,0,Standard,SMA-0,3,5 Early warning: auto-debit bounced 2+ times in 3 months
+MCL0104605,MC30002149,Channabasappa Mulla,6580574420,MCRB0001021,Gadag Nehru Nagar,R04,VL,CBS-M,Branch,OF0062,418866.63,17,SMA-0,Standard,2,5 Early warning: auto-debit bounced 2+ times in 3 months
+MCL0104617,MC30001855,Arun Mathad,9281465976,MCRB0001026,Karwar Vidyanagar,R05,VL,CBS-M,Branch,OF0078,759172.56,0,Standard,Standard,2,5 Early warning: auto-debit bounced 2+ times in 3 months
+MCL0104639,MC30012768,Usha Naik,7576772774,MCRB0001011,Athani Shivaji Road,R02,PL,CBS-M,Digital Partner,OF0032,442547.68,180,NPA,NPA,3,4 NPA: recovery
+MCL0104673,MC30043204,Ayesha Mulla,9361984304,MCRB0001004,Kundgol Vidyanagar,R01,PL,CBS-M,Branch,OF0012,132356.68,17,SMA-0,SMA-0,2,5 Early warning: auto-debit bounced 2+ times in 3 months
+MCL0104685,MC30017815,Sachin Sankeshwar,9398835037,MCRB0001013,Belagavi Station Road,R02,PL,CBS-M,Branch,OF0037,132520.50,0,Standard,SMA-0,3,5 Early warning: auto-debit bounced 2+ times in 3 months
+MCL0104702,MC30000364,Naveen Sankeshwar,9572013229,MCRB0001016,Vijayapura Gandhi Chowk,R03,PL,CBS-M,Branch,OF0048,215856.71,22,SMA-0,Standard,3,5 Early warning: auto-debit bounced 2+ times in 3 months
+MCL0104706,MC30049301,Ravi Hiremath,9448108118,MCRB0001001,Hubballi Main Road,R01,PL,CBS-M,Digital Partner,OF0002,434620.59,0,Standard,Standard,2,5 Early warning: auto-debit bounced 2+ times in 3 months
+MCL0104717,MC30009674,Raghavendra Pujari,7285050860,MCRB0001004,Kundgol Vidyanagar,R01,VL,CBS-M,Branch,OF0012,968077.92,0,Standard,Standard,2,5 Early warning: auto-debit bounced 2+ times in 3 months
+MCL0104719,MC30011774,Prakash Shetty,7859658050,MCRB0001026,Karwar Vidyanagar,R05,VL,CBS-M,Branch,OF0078,1324722.02,0,Standard,Standard,2,5 Early warning: auto-debit bounced 2+ times in 3 months
+MCL0104733,MC30042889,Kavita Hiremath,9913245856,MCRB0001025,Kumta Market,R05,PL,CBS-M,Branch,OF0075,847758.77,200,NPA,NPA,0,4 NPA: recovery
+MCL0104789,MC30007959,Naveen Angadi,9323493555,MCRB0001011,Athani Shivaji Road,R02,VL,CBS-M,Branch,OF0032,306018.73,83,SMA-2,SMA-1,3,2 SMA-2: will be NPA within 30 days unless paid
+MCL0104809,MC30051485,Geeta Kattimani,9269819211,MCRB0001015,Mudhol Vidyanagar,R03,PL,CBS-M,Branch,OF0044,145711.69,180,NPA,NPA,1,4 NPA: recovery
+MCL0104853,MC30033117,Nandini Bhat,9206058445,MCRB0001013,Belagavi Station Road,R02,PL,CBS-M,Digital Partner,OF0037,287683.67,83,SMA-2,SMA-1,3,2 SMA-2: will be NPA within 30 days unless paid
+MCL0104858,MC30034958,Hanumant Patil,8168168730,MCRB0001010,Bailhongal Nehru Nagar,R02,PL,CBS-M,Branch,OF0030,269711.30,0,Standard,Standard,2,5 Early warning: auto-debit bounced 2+ times in 3 months
+MCL0104865,MC30045479,Kiran Pujari,9271711131,MCRB0001022,Haveri Shivaji Road,R04,PL,CBS-M,Branch,OF0064,91945.57,17,SMA-0,SMA-0,2,5 Early warning: auto-debit bounced 2+ times in 3 months
+MCL0104909,MC30049245,Veeresh Pujari,9397928598,MCRB0001002,Dharwad Station Road,R01,VL,CBS-M,Branch,OF0005,372132.31,0,Standard,Standard,2,5 Early warning: auto-debit bounced 2+ times in 3 months
+MCL0104954,MC30052276,Ashok Nayak,7776141443,MCRB0001025,Kumta Market,R05,HL,CBS-M,Branch,OF0074,4491540.82,17,SMA-0,SMA-0,2,5 Early warning: auto-debit bounced 2+ times in 3 months
+MCL0104957,MC30028063,Raghavendra D'Souza,7870972643,MCRB0001020,Ron Bus Stand,R04,PL,CBS-M,Branch,OF0060,72360.58,231,NPA,NPA,0,4 NPA: recovery
+MCL0104997,MC30014140,Kiran Mulla,7444950967,MCRB0001005,Navalgund Gandhi Chowk,R01,PL,CBS-M,Branch,OF0020,595872.86,264,NPA,NPA,3,4 NPA: recovery
+MCL0105005,MC30026845,Vidya Talwar,8968278536,MCRB0001007,Dharwad APMC Yard,R01,PL,CBS-M,Branch,OF0021,27212.47,0,Standard,Standard,2,5 Early warning: auto-debit bounced 2+ times in 3 months
+MCL0105010,MC30039501,Mohammed Gudi,7239365152,MCRB0001019,Indi Court Circle,R03,VL,CBS-M,Branch,OF0057,943701.11,27,SMA-0,Standard,3,5 Early warning: auto-debit bounced 2+ times in 3 months
+MCL0105018,MC30027825,Rajesh Belagali,9953077007,MCRB0001018,Jamkhandi APMC Yard,R03,PL,CBS-M,Branch,OF0052,184194.91,634,NPA,NPA,3,4 NPA: recovery
+MCL0105080,MC30019691,Anil Belagali,8755417927,MCRB0001019,Indi Court Circle,R03,HL,CBS-M,Branch,OF0057,4261734.10,0,Standard,Standard,2,5 Early warning: auto-debit bounced 2+ times in 3 months
+MCL0105094,MC30028427,Kavita Shaikh,9900008882,MCRB0001015,Mudhol Vidyanagar,R03,PL,CBS-M,Branch,OF0044,452005.84,0,Standard,Standard,2,5 Early warning: auto-debit bounced 2+ times in 3 months
+MCL0105096,MC30020461,Usha Madar,6133999540,MCRB0001021,Gadag Nehru Nagar,R04,HL,CBS-M,Branch,OF0106,8120229.84,57,SMA-1,SMA-1,0,6 SMA-1
+MCL0105103,MC30031136,Parvati D'Souza,7919386097,MCRB0001025,Kumta Market,R05,PL,CBS-M,Branch,OF0075,314179.97,665,NPA,NPA,3,4 NPA: recovery
+MCL0105106,MC30046109,Hanumant Angadi,8345165103,MCRB0001001,Hubballi Main Road,R01,PL,CBS-M,Branch,OF0001,359042.55,17,SMA-0,SMA-0,3,5 Early warning: auto-debit bounced 2+ times in 3 months
+MCL0105109,MC30048111,Kiran Jadhav,7809119859,MCRB0001006,Hubballi Old Town,R01,HL,CBS-M,Branch,OF0017,4546591.81,78,SMA-2,SMA-1,3,2 SMA-2: will be NPA within 30 days unless paid
+MCL0105117,MC30017241,Ayesha Joshi,8700832438,MCRB0001016,Vijayapura Gandhi Chowk,R03,PL,CBS-M,Digital Partner,OF0046,150475.72,114,NPA,SMA-2,3,1 Became NPA in October
+MCL0105120,MC30023107,Vinayak Talwar,6590563092,MCRB0001002,Dharwad Station Road,R01,PL,CBS-M,Branch,OF0004,6444.46,0,NPA,NPA,0,4 NPA: recovery
+MCL0105155,MC30003801,Deepak Shirol,6364130146,MCRB0001018,Jamkhandi APMC Yard,R03,VL,CBS-M,Branch,OF0052,415931.56,596,NPA,NPA,3,4 NPA: recovery
+MCL0105156,MC30003801,Deepak Shirol,6364130146,MCRB0001013,Belagavi Station Road,R02,GL,CBS-M,Branch,OF0037,50480.08,540,NPA,NPA,0,4 NPA: recovery
+MCL0105162,MC30016093,Vinayak Kotagi,8639235052,MCRB0001011,Athani Shivaji Road,R02,LAP,CBS-M,Branch,OF0031,747795.63,52,SMA-1,SMA-1,0,6 SMA-1
+MCL0105175,MC30022806,Siddappa Pujari,6992448074,MCRB0001013,Belagavi Station Road,R02,PL,CBS-M,Branch,OF0039,388327.66,660,NPA,NPA,3,4 NPA: recovery
+MCL0105177,MC30022806,Siddappa Pujari,6992448074,MCRB0001002,Dharwad Station Road,R01,GL,CBS-M,Branch,OF0006,135181.62,0,NPA,NPA,0,4 NPA: recovery
+MCL0105179,MC30022400,Channabasappa Kamble,8310701912,MCRB0001002,Dharwad Station Road,R01,GL,CBS-M,Branch,OF0005,21394.28,0,Standard,SMA-0,3,5 Early warning: auto-debit bounced 2+ times in 3 months
+MCL0105189,MC30034510,Renuka Kamble,6452798332,MCRB0001012,Nippani Main Road,R02,LAP,CBS-M,Branch,OF0034,2186904.54,57,SMA-1,SMA-0,0,3 Slipped to SMA-1 in October
+MCL0105195,MC30019712,Harish Shaikh,8891010823,MCRB0001018,Jamkhandi APMC Yard,R03,LAP,CBS-M,Branch,OF0052,4643671.26,88,SMA-2,SMA-1,0,2 SMA-2: will be NPA within 30 days unless paid
+MCL0105205,MC30036554,Sunil Talwar,8858698897,MCRB0001009,Chikkodi Bus Stand,R02,VL,CBS-M,Branch,OF0025,472545.85,0,Standard,Standard,2,5 Early warning: auto-debit bounced 2+ times in 3 months
+MCL0105224,MC30050743,Shobha Bagewadi,9391535196,MCRB0001022,Haveri Shivaji Road,R04,PL,CBS-M,Branch,OF0064,223742.55,17,SMA-0,SMA-1,2,5 Early warning: auto-debit bounced 2+ times in 3 months
+MCL0105249,MC30027818,Mohammed Pujari,9511146066,MCRB0001013,Belagavi Station Road,R02,PL,CBS-M,Digital Partner,OF0037,429638.21,0,Standard,Standard,2,5 Early warning: auto-debit bounced 2+ times in 3 months
+MCL0105273,MC30015071,Imran Desai,6181196531,MCRB0001013,Belagavi Station Road,R02,PL,CBS-M,Branch,OF0037,192437.26,149,NPA,NPA,2,4 NPA: recovery
+MCL0105279,MC30035868,Bharati Mathad,9811224602,MCRB0001014,Gokak Market,R02,PL,CBS-M,Branch,OF0081,423484.61,57,SMA-1,SMA-0,2,3 Slipped to SMA-1 in October
+MCL0105290,MC30040390,Channabasappa Kadam,9769732987,MCRB0001013,Belagavi Station Road,R02,HL,CBS-M,Branch,OF0037,5025435.22,0,Standard,Standard,2,5 Early warning: auto-debit bounced 2+ times in 3 months
+MCL0105295,MC30037919,Pradeep Kammar,6524865890,MCRB0001002,Dharwad Station Road,R01,PL,CBS-M,Branch,OF0024,985536.19,83,SMA-2,SMA-1,3,2 SMA-2: will be NPA within 30 days unless paid
+MCL0105316,MC30034335,Channabasappa Rao,9909832464,MCRB0001002,Dharwad Station Road,R01,HL,CBS-M,Branch,OF0009,5902061.50,0,Standard,Standard,2,5 Early warning: auto-debit bounced 2+ times in 3 months
+MCL0105318,MC30029148,Parvati Fernandes,9723122372,MCRB0001003,Kalghatgi Market,R01,PL,CBS-M,Digital Partner,OF0007,216882.56,0,Standard,Standard,2,5 Early warning: auto-debit bounced 2+ times in 3 months
+MCL0105330,MC30001407,Ayesha Hublikar,9168806077,MCRB0001002,Dharwad Station Road,R01,PL,CBS-M,Branch,OF0005,150657.53,0,Standard,Standard,2,5 Early warning: auto-debit bounced 2+ times in 3 months
+MCL0105336,MC30043757,Ayesha Shetty,8572408559,MCRB0001012,Nippani Main Road,R02,PL,CBS-M,Branch,OF0036,113806.22,57,SMA-1,SMA-0,0,3 Slipped to SMA-1 in October
+MCL0105341,MC30048720,Sunita Hiremath,9503412926,MCRB0001013,Belagavi Station Road,R02,PL,CBS-M,Branch,OF0039,393504.72,0,Standard,Standard,2,5 Early warning: auto-debit bounced 2+ times in 3 months
+MCL0105356,MC30013251,Pooja D'Souza,6165250060,MCRB0001001,Hubballi Main Road,R01,PL,CBS-M,Branch,OF0001,115102.91,52,SMA-1,SMA-0,0,3 Slipped to SMA-1 in October
+MCL0105395,MC30035616,Ramesh Kammar,9863532496,MCRB0001026,Karwar Vidyanagar,R05,PL,CBS-M,Digital Partner,OF0077,294483.92,22,SMA-0,SMA-0,2,5 Early warning: auto-debit bounced 2+ times in 3 months
+MCL0105416,MC30039557,Imran Kadam,7585702732,MCRB0001012,Nippani Main Road,R02,PL,CBS-M,Digital Partner,OF0035,104451.44,139,NPA,NPA,0,4 NPA: recovery
+MCL0105432,MC30005404,Veeresh Badiger,9861812038,MCRB0001013,Belagavi Station Road,R02,MSME,CBS-M,Branch,OF0039,1545118.16,205,NPA,NPA,3,4 NPA: recovery
+MCL0105445,MC30003997,Imran Hiremath,9251755797,MCRB0001021,Gadag Nehru Nagar,R04,GL,CBS-M,Branch,OF0063,3285.18,144,NPA,NPA,0,4 NPA: recovery
+MCL0105447,MC30028042,Rajesh Mulla,9436619120,MCRB0001004,Kundgol Vidyanagar,R01,HL,CBS-M,Branch,OF0011,1995509.79,0,NPA,NPA,0,4 NPA: recovery
+MCL0105506,MC30012201,Nagaraj Jadhav,8663331475,MCRB0001021,Gadag Nehru Nagar,R04,PL,CBS-M,Digital Partner,OF0058,1032827.23,17,SMA-0,Standard,2,5 Early warning: auto-debit bounced 2+ times in 3 months
+MCL0105519,MC30047551,Sudha Pawar,7338083349,MCRB0001002,Dharwad Station Road,R01,PL,CBS-M,Branch,OF0004,504037.18,453,NPA,NPA,3,4 NPA: recovery
+MCL0105543,MC30025284,Jyoti Nayak,7188525243,MCRB0001012,Nippani Main Road,R02,LAP,CBS-M,Branch,OF0036,1061665.91,392,NPA,NPA,0,4 NPA: recovery
+MCL0105552,MC30005635,Vijay Mulla,7146239202,MCRB0001022,Haveri Shivaji Road,R04,HL,CBS-M,Branch,OF0064,4145286.41,0,NPA,NPA,0,4 NPA: recovery
+MCL0105555,MC30005635,Vijay Mulla,7146239202,MCRB0001008,Kalghatgi Court Circle,R01,PL,CBS-M,Digital Partner,OF0022,208938.18,231,NPA,NPA,3,4 NPA: recovery
+MCL0105560,MC30008582,Vijay Desai,9493920166,MCRB0001013,Belagavi Station Road,R02,PL,CBS-M,Branch,OF0037,526569.09,0,Standard,Standard,3,5 Early warning: auto-debit bounced 2+ times in 3 months
+MCL0105612,MC30037331,Roopa Gudi,8441850192,MCRB0001008,Kalghatgi Court Circle,R01,VL,CBS-M,Branch,OF0023,410599.59,17,SMA-0,SMA-0,2,5 Early warning: auto-debit bounced 2+ times in 3 months
+MCL0105620,MC30010087,Girish Nayak,9224145587,MCRB0001010,Bailhongal Nehru Nagar,R02,VL,CBS-M,Branch,OF0029,355188.05,17,SMA-0,SMA-0,2,5 Early warning: auto-debit bounced 2+ times in 3 months
+MCL0105630,MC30022554,Mohammed Savadi,9855265314,MCRB0001025,Kumta Market,R05,PL,CBS-M,Branch,OF0073,531100.56,356,NPA,NPA,0,4 NPA: recovery
+MCL0105658,MC30037499,Manjunath Patil,9396890576,MCRB0001024,Savanur Station Road,R04,PL,CBS-M,Branch,OF0070,32237.91,175,NPA,NPA,0,4 NPA: recovery
+MCL0105679,MC30006678,Basavaraj Belagali,7563385429,MCRB0001013,Belagavi Station Road,R02,PL,CBS-M,Branch,OF0039,264833.12,22,SMA-0,SMA-0,2,5 Early warning: auto-debit bounced 2+ times in 3 months
+MCL0105727,MC30027300,Arun Kammar,7681400637,MCRB0001015,Mudhol Vidyanagar,R03,PL,CBS-M,Branch,OF0044,450478.71,175,NPA,NPA,3,4 NPA: recovery
+MCL0105728,MC30021119,Kavita Savadi,7970286994,MCRB0001014,Gokak Market,R02,PL,CBS-M,Branch,OF0042,155863.21,88,SMA-2,SMA-1,3,2 SMA-2: will be NPA within 30 days unless paid
+MCL0105729,MC30041132,Savitri Badiger,8628267995,MCRB0001018,Jamkhandi APMC Yard,R03,PL,CBS-M,Branch,OF0053,9216.29,170,NPA,NPA,0,4 NPA: recovery
+MCL0105753,MC30025795,Savitri Pujari,9811363934,MCRB0001002,Dharwad Station Road,R01,HL,CBS-M,Branch,OF0006,2532775.38,0,Standard,Standard,2,5 Early warning: auto-debit bounced 2+ times in 3 months
+MCL0105756,MC30011648,Mahesh Shirol,9982985595,MCRB0001010,Bailhongal Nehru Nagar,R02,LAP,CBS-M,Branch,OF0030,3746856.21,27,SMA-0,Standard,2,5 Early warning: auto-debit bounced 2+ times in 3 months
+MCL0105786,MC30040166,Lakshmi Ullagaddi,8210375500,MCRB0001001,Hubballi Main Road,R01,VL,CBS-M,Branch,OF0003,240343.60,57,SMA-1,SMA-0,0,3 Slipped to SMA-1 in October
+MCL0105787,MC30040166,Lakshmi Ullagaddi,8210375500,MCRB0001007,Dharwad APMC Yard,R01,MSME,CBS-M,Branch,OF0020,1780497.59,57,SMA-1,SMA-0,2,3 Slipped to SMA-1 in October
+MCL0105792,MC30032431,Parvati Gowda,6791393602,MCRB0001024,Savanur Station Road,R04,VL,CBS-M,Branch,OF0072,255732.06,0,Standard,Standard,2,5 Early warning: auto-debit bounced 2+ times in 3 months
+MCL0105846,MC30020335,Girish Ullagaddi,9747765750,MCRB0001013,Belagavi Station Road,R02,VL,CBS-M,Branch,OF0038,307147.88,57,SMA-1,SMA-1,0,6 SMA-1
+MCL0105862,MC30032907,Veeresh Kotagi,9707090381,MCRB0001024,Savanur Station Road,R04,VL,CBS-M,Branch,OF0070,1384273.05,22,SMA-0,Standard,2,5 Early warning: auto-debit bounced 2+ times in 3 months
+MCL0105870,MC30033502,Ayesha Kattimani,7435130880,MCRB0001001,Hubballi Main Road,R01,GL,CBS-M,Branch,OF0002,15849.31,0,Standard,Standard,3,5 Early warning: auto-debit bounced 2+ times in 3 months
+MCL0105917,MC30028266,Sunil Madar,9204587584,MCRB0001003,Kalghatgi Market,R01,GL,CBS-M,Branch,OF0007,44127.67,0,Standard,SMA-0,2,5 Early warning: auto-debit bounced 2+ times in 3 months
+MCL0105939,MC30041363,Usha Gowda,8767769504,MCRB0001021,Gadag Nehru Nagar,R04,VL,CBS-M,Branch,OF0063,339353.46,479,NPA,NPA,3,4 NPA: recovery
+MCL0105942,MC30041363,Usha Gowda,8767769504,MCRB0001016,Vijayapura Gandhi Chowk,R03,LAP,CBS-M,Branch,OF0048,2244726.47,422,NPA,NPA,3,4 NPA: recovery
+MCL0105962,MC30020230,Mohammed Sankeshwar,9240851253,MCRB0001011,Athani Shivaji Road,R02,PL,CBS-M,Branch,OF0032,285800.28,624,NPA,NPA,0,4 NPA: recovery
+MCL0105992,MC30047670,Manjunath Yaragatti,7252305110,MCRB0001017,Bagalkot Old Town,R03,PL,CBS-M,Branch,OF0057,601656.27,0,Standard,Standard,2,5 Early warning: auto-debit bounced 2+ times in 3 months
+MCL0106029,MC30044191,Rekha Bhat,9336882789,MCRB0001005,Navalgund Gandhi Chowk,R01,HL,CBS-M,Branch,OF0008,5038859.10,22,SMA-0,SMA-0,3,5 Early warning: auto-debit bounced 2+ times in 3 months
+MCL0106057,MC30034860,Vinayak Ullagaddi,9468906765,MCRB0001020,Ron Bus Stand,R04,VL,CBS-M,Branch,OF0060,446135.93,321,NPA,NPA,3,4 NPA: recovery
+MCL0106096,MC30023016,Shivanand Shirol,8946426119,MCRB0001014,Gokak Market,R02,VL,CBS-M,Branch,OF0041,397020.18,27,SMA-0,SMA-0,2,5 Early warning: auto-debit bounced 2+ times in 3 months
+MCL0106120,MC30033488,Pradeep Kotagi,9216851094,MCRB0001019,Indi Court Circle,R03,VL,CBS-M,Branch,OF0057,334804.73,0,Standard,Standard,2,5 Early warning: auto-debit bounced 2+ times in 3 months
+MCL0106123,MC30046886,Mahadevi Kattimani,8744214437,MCRB0001013,Belagavi Station Road,R02,PL,CBS-M,Branch,OF0037,116537.04,0,Standard,Standard,2,5 Early warning: auto-debit bounced 2+ times in 3 months
+MCL0106145,MC30019789,Girish Hosamani,9124673236,MCRB0001013,Belagavi Station Road,R02,HL,CBS-M,Branch,OF0039,1922715.64,0,Standard,Standard,2,5 Early warning: auto-debit bounced 2+ times in 3 months
+MCL0106146,MC30019789,Girish Hosamani,9124673236,MCRB0001001,Hubballi Main Road,R01,PL,CBS-M,Branch,OF0001,621328.22,0,Standard,Standard,3,5 Early warning: auto-debit bounced 2+ times in 3 months
+MCL0106148,MC30006419,Rajesh Sankeshwar,9440952479,MCRB0001010,Bailhongal Nehru Nagar,R02,PL,CBS-M,Branch,OF0028,101894.35,109,NPA,SMA-2,3,1 Became NPA in October
+MCL0106165,MC30002121,Hanumant Mathad,8648350781,MCRB0001004,Kundgol Vidyanagar,R01,GL,CBS-M,Branch,OF0010,81535.62,17,SMA-0,Standard,3,5 Early warning: auto-debit bounced 2+ times in 3 months
+MCL0106176,MC30012775,Mallikarjun Bhat,9245965408,MCRB0001017,Bagalkot Old Town,R03,PL,CBS-M,Branch,OF0100,48703.44,180,NPA,NPA,0,4 NPA: recovery
+MCL0106181,MC30045332,Ramesh Kadam,8721447189,MCRB0001014,Gokak Market,R02,MSME,CBS-M,Branch,OF0040,1678223.95,479,NPA,NPA,3,4 NPA: recovery
+MCL0106208,MC30039438,Pooja Badiger,7901342635,MCRB0001016,Vijayapura Gandhi Chowk,R03,VL,CBS-M,Branch,OF0046,399183.40,0,NPA,NPA,0,4 NPA: recovery
+MCL0106209,MC30039438,Pooja Badiger,7901342635,MCRB0001020,Ron Bus Stand,R04,HL,CBS-M,Branch,OF0058,7015862.02,139,NPA,NPA,3,4 NPA: recovery
+MCL0106215,MC30051282,Kiran Mathad,9653932532,MCRB0001021,Gadag Nehru Nagar,R04,PL,CBS-M,Branch,OF0063,83507.22,27,SMA-0,SMA-1,3,5 Early warning: auto-debit bounced 2+ times in 3 months
+MCL0106290,MC30039249,Bharati Ullagaddi,8143988728,MCRB0001006,Hubballi Old Town,R01,PL,CBS-M,Branch,OF0017,457987.96,52,SMA-1,SMA-0,2,3 Slipped to SMA-1 in October
+MCL0106300,MC30023842,Pradeep Shirol,6148255747,MCRB0001015,Mudhol Vidyanagar,R03,VL,CBS-M,Branch,OF0043,544393.79,144,NPA,NPA,3,4 NPA: recovery
+MCL0106310,MC30019110,Deepak Chavan,8362240288,MCRB0001016,Vijayapura Gandhi Chowk,R03,PL,CBS-M,Branch,OF0048,82228.38,0,Standard,Standard,2,5 Early warning: auto-debit bounced 2+ times in 3 months
+MCL0106328,MC30043722,Veeresh Mathad,7386750127,MCRB0001025,Kumta Market,R05,PL,CBS-M,Branch,OF0075,62677.54,180,NPA,NPA,0,4 NPA: recovery
+MCL0106337,MC30047859,Ayesha Bagewadi,6998678782,MCRB0001011,Athani Shivaji Road,R02,PL,CBS-M,Branch,OF0037,50840.72,119,NPA,SMA-2,0,1 Became NPA in October
+MCL0106353,MC30046865,Neha Biradar,8521255240,MCRB0001014,Gokak Market,R02,HL,CBS-M,Branch,OF0041,1720366.95,0,Standard,Standard,2,5 Early warning: auto-debit bounced 2+ times in 3 months
+MCL0106361,MC30043393,Nandini Huded,8935849733,MCRB0001020,Ron Bus Stand,R04,PL,CBS-M,Digital Partner,OF0058,378378.18,0,Standard,Standard,3,5 Early warning: auto-debit bounced 2+ times in 3 months
+MCL0106367,MC30038514,Vijay Naik,8374428460,MCRB0001022,Haveri Shivaji Road,R04,PL,CBS-M,Digital Partner,OF0064,326334.08,0,Standard,Standard,2,5 Early warning: auto-debit bounced 2+ times in 3 months
+MCL0106399,MC30012439,Shobha Belagali,9314021412,MCRB0001002,Dharwad Station Road,R01,LAP,CBS-M,Branch,OF0006,2079354.10,210,NPA,NPA,3,4 NPA: recovery
+MCL0106401,MC30028105,Geeta Jadhav,9591168854,MCRB0001016,Vijayapura Gandhi Chowk,R03,VL,CBS-M,Branch,OF0046,266226.93,0,Standard,SMA-0,2,5 Early warning: auto-debit bounced 2+ times in 3 months
+MCL0106428,MC30050799,Basavaraj Lamani,8882453625,MCRB0001022,Haveri Shivaji Road,R04,PL,CBS-M,Branch,OF0064,784443.74,634,NPA,NPA,3,4 NPA: recovery
+MCL0106456,MC30005306,Raghavendra Shirol,9731400128,MCRB0001017,Bagalkot Old Town,R03,GL,CBS-M,Branch,OF0050,25528.79,0,Standard,Standard,3,5 Early warning: auto-debit bounced 2+ times in 3 months
+MCL0106467,MC30035686,Sachin Kamble,9797131002,MCRB0001013,Belagavi Station Road,R02,PL,CBS-M,Branch,OF0038,253614.06,0,Standard,SMA-0,2,5 Early warning: auto-debit bounced 2+ times in 3 months
+MCL0106475,MC30001946,Mahadevi Rao,9579247504,MCRB0001026,Karwar Vidyanagar,R05,PL,CBS-M,Branch,OF0077,172227.95,241,NPA,NPA,0,4 NPA: recovery
+MCL0106482,MC30045801,Renuka Shirol,6950574098,MCRB0001014,Gokak Market,R02,HL,CBS-M,Branch,OF0030,9251993.05,22,SMA-0,Standard,2,5 Early warning: auto-debit bounced 2+ times in 3 months
+MCL0106489,MC30012572,Anil Bhat,8477753744,MCRB0001011,Athani Shivaji Road,R02,PL,CBS-M,Digital Partner,OF0031,200544.33,52,SMA-1,SMA-0,2,3 Slipped to SMA-1 in October
+MCL0106506,MC30006762,Vijay Madar,6562070437,MCRB0001001,Hubballi Main Road,R01,GL,CBS-M,Branch,OF0003,188027.34,47,SMA-1,SMA-1,1,6 SMA-1
+MCL0106515,MC30007434,Santosh Nayak,6748841035,MCRB0001018,Jamkhandi APMC Yard,R03,LAP,CBS-M,Branch,OF0054,897021.69,0,Standard,Standard,2,5 Early warning: auto-debit bounced 2+ times in 3 months
+MCL0106648,MC30024402,Imran Hegde,6679102844,MCRB0001013,Belagavi Station Road,R02,PL,CBS-M,Branch,OF0037,517664.59,0,Standard,Standard,2,5 Early warning: auto-debit bounced 2+ times in 3 months
+MCL0106658,MC30049175,Irfan Ullagaddi,9114403835,MCRB0001024,Savanur Station Road,R04,PL,CBS-M,Branch,OF0072,361675.72,417,NPA,NPA,3,4 NPA: recovery
+MCL0106659,MC30049175,Irfan Ullagaddi,9114403835,MCRB0001026,Karwar Vidyanagar,R05,PL,CBS-M,Branch,OF0077,269036.67,200,NPA,NPA,3,4 NPA: recovery
+MCL0106662,MC30012145,Harish Huded,9976338412,MCRB0001014,Gokak Market,R02,PL,CBS-M,Branch,OF0042,362501.28,0,NPA,NPA,0,4 NPA: recovery
+MCL0106665,MC30012145,Harish Huded,9976338412,MCRB0001009,Chikkodi Bus Stand,R02,PL,CBS-M,Branch,OF0086,35577.34,300,NPA,NPA,0,4 NPA: recovery
+MCL0106703,MC30028133,Pooja Mulla,9897333968,MCRB0001021,Gadag Nehru Nagar,R04,HL,CBS-M,Branch,OF0106,4623485.82,17,SMA-0,SMA-0,3,5 Early warning: auto-debit bounced 2+ times in 3 months
+MCL0106706,MC30043197,Suresh Hosamani,8769238862,MCRB0001004,Kundgol Vidyanagar,R01,PL,CBS-M,Branch,OF0012,571882.47,0,Standard,Standard,2,5 Early warning: auto-debit bounced 2+ times in 3 months
+MCL0106717,MC30036680,Anita Shetty,9112150100,MCRB0001012,Nippani Main Road,R02,VL,CBS-M,Branch,OF0036,682715.48,0,Standard,SMA-0,3,5 Early warning: auto-debit bounced 2+ times in 3 months
+MCL0106720,MC30006013,Vijay Joshi,9684647569,MCRB0001011,Athani Shivaji Road,R02,GL,CBS-M,Branch,OF0031,33079.13,175,NPA,NPA,0,4 NPA: recovery
+MCL0106726,MC30040852,Siddappa Huded,9295172774,MCRB0001007,Dharwad APMC Yard,R01,PL,CBS-M,Branch,OF0020,196153.49,241,NPA,NPA,3,4 NPA: recovery
+MCL0106729,MC30040852,Siddappa Huded,9295172774,MCRB0001015,Mudhol Vidyanagar,R03,PL,CBS-M,Digital Partner,OF0044,938576.57,231,NPA,NPA,3,4 NPA: recovery
+MCL0106745,MC30034034,Harish Shirol,8905616382,MCRB0001022,Haveri Shivaji Road,R04,VL,CBS-M,Branch,OF0064,649327.68,0,Standard,Standard,2,5 Early warning: auto-debit bounced 2+ times in 3 months
+MCL0106746,MC30011445,Arun Talwar,7287781416,MCRB0001005,Navalgund Gandhi Chowk,R01,PL,CBS-M,Branch,OF0012,1023171.11,453,NPA,NPA,3,4 NPA: recovery
+MCL0106752,MC30019719,Suresh Gudi,9566931085,MCRB0001003,Kalghatgi Market,R01,PL,CBS-M,Branch,OF0009,284197.29,900,NPA,NPA,0,4 NPA: recovery
+MCL0106779,MC30026131,Asha Kattimani,9259803410,MCRB0001020,Ron Bus Stand,R04,VL,CBS-M,Branch,OF0060,604093.93,139,NPA,NPA,3,4 NPA: recovery
+MCL0106781,MC30026131,Asha Kattimani,9259803410,MCRB0001011,Athani Shivaji Road,R02,PL,CBS-M,Digital Partner,OF0081,600867.48,0,NPA,NPA,0,4 NPA: recovery
+MCL0106816,MC30044170,Anil Naik,6217174323,MCRB0001019,Indi Court Circle,R03,HL,CBS-M,Branch,OF0057,1940513.29,47,SMA-1,SMA-1,0,6 SMA-1
+MCL0106821,MC30010031,Asha Nadaf,8297122778,MCRB0001022,Haveri Shivaji Road,R04,LAP,CBS-M,Branch,OF0065,1031399.65,57,SMA-1,SMA-0,0,3 Slipped to SMA-1 in October
+MCL0106837,MC30025599,Suresh Patil,7750983107,MCRB0001026,Karwar Vidyanagar,R05,LAP,CBS-M,Branch,OF0077,3653493.28,47,SMA-1,SMA-0,2,3 Slipped to SMA-1 in October
+MCL0106845,MC30017640,Bharati Chavan,6387670362,MCRB0001021,Gadag Nehru Nagar,R04,HL,CBS-M,Branch,OF0072,5525443.93,0,Standard,Standard,3,5 Early warning: auto-debit bounced 2+ times in 3 months
+MCL0106865,MC30019950,Sharanappa Pawar,8957666114,MCRB0001024,Savanur Station Road,R04,GL,CBS-M,Branch,OF0072,10373.76,17,SMA-0,SMA-0,2,5 Early warning: auto-debit bounced 2+ times in 3 months
+MCL0106877,MC30031220,Basavaraj Lamani,9393718818,MCRB0001001,Hubballi Main Road,R01,PL,CBS-M,Branch,OF0002,124848.36,264,NPA,NPA,3,4 NPA: recovery
+MCL0106891,MC30043925,Umesh Gowda,8550087845,MCRB0001002,Dharwad Station Road,R01,PL,CBS-M,Branch,OF0004,115174.93,0,Standard,Standard,2,5 Early warning: auto-debit bounced 2+ times in 3 months
+MCL0106920,MC30047635,Sudha Fernandes,7784848525,MCRB0001001,Hubballi Main Road,R01,PL,CBS-M,Branch,OF0003,213449.20,0,Standard,SMA-0,3,5 Early warning: auto-debit bounced 2+ times in 3 months
+MCL0106971,MC30038423,Siddappa Bhat,8929307131,MCRB0001010,Bailhongal Nehru Nagar,R02,GL,CBS-M,Branch,OF0028,261824.00,0,Standard,Standard,2,5 Early warning: auto-debit bounced 2+ times in 3 months
+MCL0106989,MC30039767,Sunil Jadhav,9726677220,MCRB0001024,Savanur Station Road,R04,PL,CBS-M,Branch,OF0072,795832.54,210,NPA,NPA,3,4 NPA: recovery
+MCL0106990,MC30001015,Sunil Badiger,8440204149,MCRB0001002,Dharwad Station Road,R01,HL,CBS-M,Branch,OF0004,1881792.28,0,Standard,Standard,3,5 Early warning: auto-debit bounced 2+ times in 3 months
+MCL0107021,MC30018431,Sangeeta Shetty,6998939572,MCRB0001023,Ranebennur Main Road,R04,HL,CBS-M,Branch,OF0069,3036688.07,47,SMA-1,SMA-1,0,6 SMA-1
+MCL0107023,MC30022365,Manjunath Bhat,8778369674,MCRB0001001,Hubballi Main Road,R01,PL,CBS-M,Digital Partner,OF0002,315643.15,27,SMA-0,Standard,2,5 Early warning: auto-debit bounced 2+ times in 3 months
+MCL0107030,MC30012852,Jyoti Kadam,8143407738,MCRB0001001,Hubballi Main Road,R01,PL,CBS-M,Branch,OF0001,43638.89,0,NPA,NPA,0,4 NPA: recovery
+MCL0107036,MC30033607,Rajesh Naik,9237968402,MCRB0001002,Dharwad Station Road,R01,LAP,CBS-M,Branch,OF0008,4718749.10,0,Standard,Standard,2,5 Early warning: auto-debit bounced 2+ times in 3 months
+MCL0107067,MC30014469,Roopa Biradar,8849272693,MCRB0001014,Gokak Market,R02,PL,CBS-M,Branch,OF0088,547446.96,241,NPA,NPA,0,4 NPA: recovery
+MCL0107087,MC30008596,Savitri Biradar,7100577796,MCRB0001001,Hubballi Main Road,R01,PL,CBS-M,Digital Partner,OF0002,962260.77,149,NPA,NPA,3,4 NPA: recovery
+MCL0107089,MC30008596,Savitri Biradar,7100577796,MCRB0001010,Bailhongal Nehru Nagar,R02,GL,CBS-M,Branch,OF0030,216752.81,175,NPA,NPA,3,4 NPA: recovery
+MCL0107091,MC30017843,Mallikarjun Sankeshwar,9134951279,MCRB0001001,Hubballi Main Road,R01,VL,CBS-M,Branch,OF0003,339642.69,0,NPA,NPA,0,4 NPA: recovery
+MCL0107092,MC30017843,Mallikarjun Sankeshwar,9134951279,MCRB0001015,Mudhol Vidyanagar,R03,HL,CBS-M,Branch,OF0044,2705524.50,259,NPA,NPA,3,4 NPA: recovery
+MCL0107132,MC30016499,Arun Chavan,8317607756,MCRB0001017,Bagalkot Old Town,R03,GL,CBS-M,Branch,OF0050,20470.58,88,SMA-2,SMA-1,0,2 SMA-2: will be NPA within 30 days unless paid
+MCL0107180,MC30021917,Veeresh Fernandes,9728660463,MCRB0001018,Jamkhandi APMC Yard,R03,HL,CBS-M,Branch,OF0052,3779586.47,0,Standard,Standard,2,5 Early warning: auto-debit bounced 2+ times in 3 months
+MCL0107189,MC30041384,Hanumant Jadhav,8508350155,MCRB0001007,Dharwad APMC Yard,R01,PL,CBS-M,Branch,OF0021,120307.16,17,SMA-0,Standard,3,5 Early warning: auto-debit bounced 2+ times in 3 months
+MCL0107218,MC30052920,Siddappa Bhat,8553242368,MCRB0001023,Ranebennur Main Road,R04,PL,CBS-M,Branch,OF0068,133577.75,144,NPA,NPA,3,4 NPA: recovery
+MCL0107237,MC30013825,Shilpa Ullagaddi,6936364734,MCRB0001009,Chikkodi Bus Stand,R02,PL,CBS-M,Branch,OF0025,178258.78,726,NPA,NPA,0,4 NPA: recovery
+MCL0107244,MC30017220,Sunita Shirol,6730201866,MCRB0001010,Bailhongal Nehru Nagar,R02,PL,CBS-M,Branch,OF0030,125551.02,0,Standard,SMA-0,2,5 Early warning: auto-debit bounced 2+ times in 3 months
+MCL0107253,MC30006405,Manjunath Kulkarni,7669488224,MCRB0001001,Hubballi Main Road,R01,PL,CBS-M,Branch,OF0002,666815.28,606,NPA,NPA,3,4 NPA: recovery
+MCL0107258,MC30027510,Prakash Hegde,8911593492,MCRB0001003,Kalghatgi Market,R01,GL,CBS-M,Branch,OF0009,92979.63,0,Standard,Standard,3,5 Early warning: auto-debit bounced 2+ times in 3 months
+MCL0107270,MC30051317,Mary Rao,8792459411,MCRB0001001,Hubballi Main Road,R01,MSME,CBS-M,Branch,OF0002,3246919.92,0,Standard,Standard,2,5 Early warning: auto-debit bounced 2+ times in 3 months
+MCL0107278,MC30050302,Geeta Bhat,8239884605,MCRB0001023,Ranebennur Main Road,R04,VL,CBS-M,Branch,OF0069,1322127.40,0,Standard,Standard,3,5 Early warning: auto-debit bounced 2+ times in 3 months
+MCL0107324,MC30023667,Imran Biradar,8145151558,MCRB0001022,Haveri Shivaji Road,R04,PL,CBS-M,Branch,OF0064,641862.77,0,Standard,Standard,2,5 Early warning: auto-debit bounced 2+ times in 3 months
+MCL0107326,MC30023569,Hanumant Gudi,9796140166,MCRB0001003,Kalghatgi Market,R01,GL,CBS-M,Branch,OF0009,75247.71,0,NPA,NPA,0,4 NPA: recovery
+MCL0107329,MC30049973,Renuka Fernandes,6239440167,MCRB0001024,Savanur Station Road,R04,GL,CBS-M,Branch,OF0070,215238.05,844,NPA,NPA,3,4 NPA: recovery
+MCL0107344,MC30017689,Mallikarjun Lamani,9270654673,MCRB0001018,Jamkhandi APMC Yard,R03,VL,CBS-M,Branch,OF0052,1183435.00,27,NPA,NPA,1,4 NPA: recovery
+MCL0107345,MC30017689,Mallikarjun Lamani,9270654673,MCRB0001019,Indi Court Circle,R03,PL,CBS-M,Digital Partner,OF0057,308238.87,259,NPA,NPA,3,4 NPA: recovery
+MCL0107402,MC30023170,Sudha Bhat,8449809585,MCRB0001001,Hubballi Main Road,R01,LAP,CBS-M,Branch,OF0002,4015049.00,0,Standard,Standard,3,5 Early warning: auto-debit bounced 2+ times in 3 months
+MCL0107409,MC30027244,Mohammed Yaragatti,8825959697,MCRB0001010,Bailhongal Nehru Nagar,R02,GL,CBS-M,Branch,OF0030,604931.75,269,NPA,NPA,3,4 NPA: recovery
+MCL0107411,MC30027244,Mohammed Yaragatti,8825959697,MCRB0001004,Kundgol Vidyanagar,R01,PL,CBS-M,Branch,OF0012,302957.42,0,NPA,NPA,0,4 NPA: recovery
+MCL0107431,MC30034517,Kaveri Belagali,8726363459,MCRB0001026,Karwar Vidyanagar,R05,PL,CBS-M,Branch,OF0077,115524.82,0,NPA,NPA,0,4 NPA: recovery
+MCL0107433,MC30009443,Deepak Shaikh,8521976070,MCRB0001013,Belagavi Station Road,R02,HL,CBS-M,Branch,OF0039,1699429.78,0,Standard,Standard,2,5 Early warning: auto-debit bounced 2+ times in 3 months
+MCL0107473,MC30012677,Usha Fernandes,9309145477,MCRB0001009,Chikkodi Bus Stand,R02,LAP,CBS-M,Branch,OF0088,3800328.73,17,SMA-0,Standard,2,5 Early warning: auto-debit bounced 2+ times in 3 months
+MCL0107475,MC30014252,Pradeep Talwar,6272122007,MCRB0001025,Kumta Market,R05,VL,CBS-M,Branch,OF0075,352716.60,0,NPA,NPA,0,4 NPA: recovery
+MCL0107476,MC30037401,Sushma Joshi,9961944088,MCRB0001024,Savanur Station Road,R04,PL,CBS-M,Branch,OF0070,201661.80,52,SMA-1,SMA-2,1,6 SMA-1
+MCL0107477,MC30016856,Shivanand Shaikh,8143110738,MCRB0001001,Hubballi Main Road,R01,PL,CBS-M,Branch,OF0002,524558.65,27,NPA,NPA,0,4 NPA: recovery
+MCL0107515,MC30048748,Suresh Naik,8601332073,MCRB0001018,Jamkhandi APMC Yard,R03,GL,CBS-M,Branch,OF0054,119605.69,22,SMA-0,SMA-1,2,5 Early warning: auto-debit bounced 2+ times in 3 months
+MCL0107517,MC30034685,Sharanappa Kattimani,8604162490,MCRB0001005,Navalgund Gandhi Chowk,R01,PL,CBS-M,Digital Partner,OF0009,591157.07,22,SMA-0,Standard,2,5 Early warning: auto-debit bounced 2+ times in 3 months
+MCL0107561,MC30009695,Sharanappa Lamani,6706176676,MCRB0001003,Kalghatgi Market,R01,PL,CBS-M,Branch,OF0007,76106.97,0,Standard,SMA-0,2,5 Early warning: auto-debit bounced 2+ times in 3 months
+MCL0107584,MC30023835,Rajesh Joshi,8782731907,MCRB0001016,Vijayapura Gandhi Chowk,R03,MSME,CBS-M,Branch,OF0048,151325.66,47,SMA-1,SMA-1,0,6 SMA-1
+MCL0107645,MC30039683,Parvati Huded,6768942895,MCRB0001002,Dharwad Station Road,R01,MSME,CBS-M,Branch,OF0006,852873.03,422,NPA,NPA,3,4 NPA: recovery
+MCL0107678,MC30023345,Sharanappa Chavan,8298936695,MCRB0001008,Kalghatgi Court Circle,R01,HL,CBS-M,Branch,OF0024,8347450.39,200,NPA,NPA,3,4 NPA: recovery
+MCL0107681,MC30023345,Sharanappa Chavan,8298936695,MCRB0001010,Bailhongal Nehru Nagar,R02,PL,CBS-M,Digital Partner,OF0029,119933.12,200,NPA,NPA,3,4 NPA: recovery
+MCL0107729,MC30049798,Basavaraj Patil,8510249216,MCRB0001018,Jamkhandi APMC Yard,R03,MSME,CBS-M,Branch,OF0054,577726.69,139,NPA,NPA,3,4 NPA: recovery
+MCL0107747,MC30043862,Prashant Nayak,9654334194,MCRB0001013,Belagavi Station Road,R02,PL,CBS-M,Branch,OF0039,521674.08,109,NPA,NPA,3,4 NPA: recovery
+MCL0107775,MC30051492,Santosh Kulkarni,9553983259,MCRB0001001,Hubballi Main Road,R01,GL,CBS-M,Branch,OF0003,9037.87,634,NPA,NPA,0,4 NPA: recovery
+MCL0107786,MC30033719,Kiran Ullagaddi,6452824517,MCRB0001015,Mudhol Vidyanagar,R03,GL,CBS-M,Branch,OF0044,32512.67,387,NPA,NPA,0,4 NPA: recovery
+MCL0107810,MC30028980,Irfan Kattimani,9574934487,MCRB0001005,Navalgund Gandhi Chowk,R01,VL,CBS-M,Branch,OF0013,480641.55,27,SMA-0,Standard,2,5 Early warning: auto-debit bounced 2+ times in 3 months
+MCL0107861,MC30026831,Channabasappa Naik,9269236217,MCRB0001005,Navalgund Gandhi Chowk,R01,VL,CBS-M,Branch,OF0014,819694.30,0,Standard,SMA-0,2,5 Early warning: auto-debit bounced 2+ times in 3 months
+MCL0107872,MC30027097,Hanumant Yaragatti,7110934942,MCRB0001023,Ranebennur Main Road,R04,MSME,CBS-M,Branch,OF0069,1420896.25,22,SMA-0,Standard,2,5 Early warning: auto-debit bounced 2+ times in 3 months
+MCL0107902,MC30013888,Mohammed Yaragatti,8573098925,MCRB0001023,Ranebennur Main Road,R04,PL,CBS-M,Branch,OF0069,404943.51,52,SMA-1,SMA-1,0,6 SMA-1
+MCL0107933,MC30043183,Roopa Gowda,9351262591,MCRB0001001,Hubballi Main Road,R01,PL,CBS-M,Branch,OF0003,237135.76,114,NPA,SMA-2,3,1 Became NPA in October
+MCL0107934,MC30047845,Sachin D'Souza,8667686974,MCRB0001021,Gadag Nehru Nagar,R04,PL,CBS-M,Branch,OF0058,237588.28,119,NPA,SMA-2,3,1 Became NPA in October
+MCL0107935,MC30047845,Sachin D'Souza,8667686974,MCRB0001023,Ranebennur Main Road,R04,PL,CBS-M,Digital Partner,OF0069,188420.85,114,NPA,SMA-2,3,1 Became NPA in October
+MCL0107937,MC30004088,Imran Pujari,9267170884,MCRB0001007,Dharwad APMC Yard,R01,PL,CBS-M,Digital Partner,OF0020,113185.86,0,Standard,Standard,2,5 Early warning: auto-debit bounced 2+ times in 3 months
+MCL0107982,MC30004417,Sharanappa Ullagaddi,7168334498,MCRB0001018,Jamkhandi APMC Yard,R03,GL,CBS-M,Branch,OF0052,174426.57,0,NPA,Standard,0,1 Became NPA in October
+MCL0107984,MC30004417,Sharanappa Ullagaddi,7168334498,MCRB0001019,Indi Court Circle,R03,PL,CBS-M,Branch,OF0057,141718.46,109,NPA,SMA-2,3,1 Became NPA in October
+MCL0108034,MC30032130,Priya Joshi,9384633728,MCRB0001018,Jamkhandi APMC Yard,R03,PL,CBS-M,Digital Partner,OF0052,129581.47,17,SMA-0,SMA-0,2,5 Early warning: auto-debit bounced 2+ times in 3 months
+MCL0108056,MC30042049,Harish Hosamani,9392637025,MCRB0001001,Hubballi Main Road,R01,VL,CBS-M,Branch,OF0003,503424.42,0,Standard,Standard,2,5 Early warning: auto-debit bounced 2+ times in 3 months
+MCL0108058,MC30052297,Arun Kammar,8548804363,MCRB0001026,Karwar Vidyanagar,R05,LAP,CBS-M,Branch,OF0076,1265351.50,910,NPA,NPA,3,4 NPA: recovery
+MCL0108063,MC30026271,Arun Kadam,6359789111,MCRB0001020,Ron Bus Stand,R04,HL,CBS-M,Branch,OF0058,4309295.61,170,NPA,NPA,3,4 NPA: recovery
+MCL0108102,MC30026166,Hanumant Pujari,9330144383,MCRB0001007,Dharwad APMC Yard,R01,PL,CBS-M,Branch,OF0019,91635.73,392,NPA,NPA,3,4 NPA: recovery
+MCL0108105,MC30026166,Hanumant Pujari,9330144383,MCRB0001018,Jamkhandi APMC Yard,R03,VL,CBS-M,Branch,OF0052,432295.84,382,NPA,NPA,3,4 NPA: recovery
+MCL0108150,MC30039494,Priya Patil,6415353708,MCRB0001001,Hubballi Main Road,R01,VL,CBS-M,Branch,OF0001,1643913.31,422,NPA,NPA,3,4 NPA: recovery
+MCL0108173,MC30014644,Renuka Bhat,9491423018,MCRB0001018,Jamkhandi APMC Yard,R03,MSME,CBS-M,Branch,OF0052,1069248.68,22,SMA-0,Standard,2,5 Early warning: auto-debit bounced 2+ times in 3 months
+MCL0108204,MC30003752,Gururaj Jadhav,9603296992,MCRB0001026,Karwar Vidyanagar,R05,PL,CBS-M,Digital Partner,OF0078,130443.74,52,SMA-1,SMA-0,2,3 Slipped to SMA-1 in October
+MCL0108205,MC30003752,Gururaj Jadhav,9603296992,MCRB0001013,Belagavi Station Road,R02,HL,CBS-M,Branch,OF0039,2891931.36,57,SMA-1,SMA-0,3,3 Slipped to SMA-1 in October
+MCL0108233,MC30032095,Mallikarjun Hublikar,9992845066,MCRB0001006,Hubballi Old Town,R01,PL,CBS-M,Branch,OF0016,114675.25,0,Standard,Standard,2,5 Early warning: auto-debit bounced 2+ times in 3 months
+MCL0108293,MC30011634,Sachin Mulla,7530980975,MCRB0001018,Jamkhandi APMC Yard,R03,VL,CBS-M,Branch,OF0052,902005.39,17,SMA-0,Standard,3,5 Early warning: auto-debit bounced 2+ times in 3 months
+MCL0108299,MC30020496,Kiran Chavan,8414917056,MCRB0001019,Indi Court Circle,R03,HL,CBS-M,Branch,OF0057,3849308.44,0,Standard,Standard,2,5 Early warning: auto-debit bounced 2+ times in 3 months
+MCL0108309,MC30040887,Gururaj Pawar,7420288285,MCRB0001021,Gadag Nehru Nagar,R04,GL,CBS-M,Branch,OF0062,39599.28,17,SMA-0,Standard,2,5 Early warning: auto-debit bounced 2+ times in 3 months
+MCL0108312,MC30043442,Anil Hiremath,9222915937,MCRB0001018,Jamkhandi APMC Yard,R03,PL,CBS-M,Digital Partner,OF0052,973991.33,200,NPA,NPA,0,4 NPA: recovery
+MCL0108323,MC30033166,Hanumant Badiger,8354498385,MCRB0001002,Dharwad Station Road,R01,PL,CBS-M,Branch,OF0006,343439.70,0,Standard,SMA-0,3,5 Early warning: auto-debit bounced 2+ times in 3 months
+MCL0108353,MC30002345,Shabana Kulkarni,9655207194,MCRB0001004,Kundgol Vidyanagar,R01,PL,CBS-M,Digital Partner,OF0012,343612.66,321,NPA,NPA,3,4 NPA: recovery
+MCL0108417,MC30019194,Rajesh Angadi,8625372268,MCRB0001013,Belagavi Station Road,R02,HL,CBS-M,Branch,OF0039,3407116.26,0,NPA,NPA,0,4 NPA: recovery
+MCL0108435,MC30025991,Bharati Kulkarni,9498858205,MCRB0001002,Dharwad Station Road,R01,PL,CBS-M,Branch,OF0020,502942.18,331,NPA,NPA,3,4 NPA: recovery
+MCL0108458,MC30007147,Shrikant Kattimani,9103421816,MCRB0001019,Indi Court Circle,R03,GL,CBS-M,Branch,OF0057,260263.41,290,NPA,NPA,3,4 NPA: recovery
+MCL0108462,MC30004732,Mahesh Hiremath,6804731247,MCRB0001007,Dharwad APMC Yard,R01,VL,CBS-M,Branch,OF0020,905568.10,27,SMA-0,Standard,2,5 Early warning: auto-debit bounced 2+ times in 3 months
+MCL0108471,MC30022407,Sachin Kotagi,9297003046,MCRB0001006,Hubballi Old Town,R01,PL,CBS-M,Branch,OF0018,186623.57,0,Standard,Standard,2,5 Early warning: auto-debit bounced 2+ times in 3 months
+MCL0108489,MC30025319,Basavaraj Lamani,9821830908,MCRB0001002,Dharwad Station Road,R01,PL,CBS-M,Branch,OF0005,98199.06,295,NPA,NPA,1,4 NPA: recovery
+MCL0108519,MC30020636,Vijay Sankeshwar,8298354313,MCRB0001012,Nippani Main Road,R02,PL,CBS-M,Branch,OF0034,236223.46,300,NPA,NPA,3,4 NPA: recovery
+MCL0108521,MC30020636,Vijay Sankeshwar,8298354313,MCRB0001022,Haveri Shivaji Road,R04,VL,CBS-M,Branch,OF0064,143765.42,0,NPA,NPA,1,4 NPA: recovery
+MCL0108544,MC30027370,Neha Fernandes,9832103092,MCRB0001002,Dharwad Station Road,R01,GL,CBS-M,Branch,OF0006,23991.15,47,SMA-1,SMA-0,0,3 Slipped to SMA-1 in October
+MCL0108566,MC30019929,Channabasappa Belagali,7981203706,MCRB0001022,Haveri Shivaji Road,R04,VL,CBS-M,Branch,OF0065,419300.81,326,NPA,NPA,3,4 NPA: recovery
+MCL0108568,MC30005481,Sachin Belagali,6576619041,MCRB0001002,Dharwad Station Road,R01,GL,CBS-M,Branch,OF0006,16184.53,149,NPA,NPA,0,4 NPA: recovery
+MCL0108569,MC30029169,Mallikarjun Kotagi,8546871515,MCRB0001001,Hubballi Main Road,R01,GL,CBS-M,Branch,OF0002,39288.92,0,Standard,Standard,2,5 Early warning: auto-debit bounced 2+ times in 3 months
+MCL0108571,MC30001960,Pradeep Angadi,8883323410,MCRB0001001,Hubballi Main Road,R01,VL,CBS-M,Branch,OF0001,89730.27,0,Standard,Standard,2,5 Early warning: auto-debit bounced 2+ times in 3 months
+MCL0108608,MC30024892,Mohammed Badiger,8273035067,MCRB0001021,Gadag Nehru Nagar,R04,HL,CBS-M,Branch,OF0062,3823062.71,484,NPA,NPA,3,4 NPA: recovery
+MCL0108632,MC30010528,Shilpa Patil,7934057104,MCRB0001015,Mudhol Vidyanagar,R03,VL,CBS-M,Branch,OF0043,1416578.00,180,NPA,NPA,3,4 NPA: recovery
+MCL0108649,MC30050316,Shrikant Bagewadi,7899568881,MCRB0001002,Dharwad Station Road,R01,PL,CBS-M,Branch,OF0008,32225.09,236,NPA,NPA,0,4 NPA: recovery
+MCL0108650,MC30026950,Ashok Kadam,9474504073,MCRB0001012,Nippani Main Road,R02,VL,CBS-M,Branch,OF0035,668255.52,0,Standard,Standard,3,5 Early warning: auto-debit bounced 2+ times in 3 months
+MCL0108653,MC30001323,Vijay Jadhav,9668602739,MCRB0001011,Athani Shivaji Road,R02,PL,CBS-M,Branch,OF0081,538390.84,629,NPA,NPA,0,4 NPA: recovery
+MCL0108654,MC30001323,Vijay Jadhav,9668602739,MCRB0001003,Kalghatgi Market,R01,HL,CBS-M,Branch,OF0008,3946563.18,629,NPA,NPA,3,4 NPA: recovery
+MCL0108676,MC30008498,Anand Huded,8268014562,MCRB0001015,Mudhol Vidyanagar,R03,HL,CBS-M,Branch,OF0044,1618188.43,52,SMA-1,SMA-0,0,3 Slipped to SMA-1 in October
+MCL0108685,MC30034125,Raghavendra Kulkarni,8215584983,MCRB0001009,Chikkodi Bus Stand,R02,PL,CBS-M,Branch,OF0025,154387.59,787,NPA,NPA,0,4 NPA: recovery
+MCL0108688,MC30030597,Mahesh Kamble,9747342137,MCRB0001013,Belagavi Station Road,R02,PL,CBS-M,Branch,OF0037,479945.47,818,NPA,NPA,3,4 NPA: recovery
+MCL0108691,MC30023303,Kiran Bagewadi,7694956133,MCRB0001011,Athani Shivaji Road,R02,PL,CBS-M,Branch,OF0081,52377.95,241,NPA,NPA,0,4 NPA: recovery
+MCL0108760,MC30012110,Sushma Kulkarni,9613531246,MCRB0001018,Jamkhandi APMC Yard,R03,PL,CBS-M,Branch,OF0052,229657.43,0,Standard,Standard,3,5 Early warning: auto-debit bounced 2+ times in 3 months
+MCL0108793,MC30013797,Shrikant Bagewadi,8486009403,MCRB0001002,Dharwad Station Road,R01,GL,CBS-M,Branch,OF0004,24788.83,0,Standard,Standard,2,5 Early warning: auto-debit bounced 2+ times in 3 months
+MCL0108795,MC30029246,Rekha Hosamani,7635154035,MCRB0001002,Dharwad Station Road,R01,LAP,CBS-M,Branch,OF0006,1667166.20,57,SMA-1,SMA-1,1,6 SMA-1
+MCL0108804,MC30005894,Hanumant Pawar,8650991300,MCRB0001010,Bailhongal Nehru Nagar,R02,PL,CBS-M,Branch,OF0030,501054.94,0,Standard,Standard,2,5 Early warning: auto-debit bounced 2+ times in 3 months
+MCL0108850,MC30000560,Geeta Kattimani,9489632801,MCRB0001013,Belagavi Station Road,R02,PL,CBS-M,Branch,OF0037,33968.57,0,Standard,Standard,2,5 Early warning: auto-debit bounced 2+ times in 3 months
+MCL0108859,MC30013356,Shrikant D'Souza,8659766141,MCRB0001019,Indi Court Circle,R03,HL,CBS-M,Branch,OF0057,3090511.61,83,SMA-2,SMA-1,3,2 SMA-2: will be NPA within 30 days unless paid
+MCL0108872,MC30019866,Imran Joshi,8919705097,MCRB0001011,Athani Shivaji Road,R02,GL,CBS-M,Branch,OF0032,96007.18,0,Standard,Standard,2,5 Early warning: auto-debit bounced 2+ times in 3 months
+MCL0108885,MC30027573,Kavita Shetty,9927228827,MCRB0001009,Chikkodi Bus Stand,R02,PL,CBS-M,Digital Partner,OF0026,146196.22,0,Standard,Standard,3,5 Early warning: auto-debit bounced 2+ times in 3 months
+MCL0108910,MC30037779,Shabana Bagewadi,8753480051,MCRB0001023,Ranebennur Main Road,R04,PL,CBS-M,Digital Partner,OF0069,209305.27,0,Standard,SMA-0,2,5 Early warning: auto-debit bounced 2+ times in 3 months
+MCL0108940,MC30036428,Mahesh Pujari,9254856896,MCRB0001009,Chikkodi Bus Stand,R02,PL,CBS-M,Digital Partner,OF0088,892716.70,236,NPA,NPA,3,4 NPA: recovery
+MCL0108950,MC30041377,Suresh Joshi,9453592095,MCRB0001013,Belagavi Station Road,R02,PL,CBS-M,Branch,OF0039,338390.85,0,Standard,Standard,3,5 Early warning: auto-debit bounced 2+ times in 3 months
+MCL0108955,MC30012761,Joseph Pujari,9317234067,MCRB0001001,Hubballi Main Road,R01,PL,CBS-M,Branch,OF0002,209953.45,47,SMA-1,SMA-0,2,3 Slipped to SMA-1 in October
+MCL0108958,MC30036505,Girish Savadi,9139871378,MCRB0001017,Bagalkot Old Town,R03,PL,CBS-M,Branch,OF0049,218699.72,57,SMA-1,SMA-0,2,3 Slipped to SMA-1 in October
+MCL0108959,MC30026348,Sunita Joshi,9622273231,MCRB0001019,Indi Court Circle,R03,HL,CBS-M,Branch,OF0057,5126898.53,17,SMA-0,SMA-0,3,5 Early warning: auto-debit bounced 2+ times in 3 months
+MCL0108983,MC30021637,Nagaraj Kammar,9507138217,MCRB0001026,Karwar Vidyanagar,R05,PL,CBS-M,Branch,OF0076,115240.08,575,NPA,NPA,3,4 NPA: recovery
+MCL0108990,MC30043960,Ashok Nayak,8428976843,MCRB0001001,Hubballi Main Road,R01,PL,CBS-M,Branch,OF0003,77009.29,0,Standard,Standard,2,5 Early warning: auto-debit bounced 2+ times in 3 months
+MCL0108995,MC30008400,Sachin Sankeshwar,9380720690,MCRB0001020,Ron Bus Stand,R04,PL,CBS-M,Branch,OF0060,87254.67,119,NPA,SMA-2,0,1 Became NPA in October
+MCL0109007,MC30006993,Santosh Jadhav,8404659504,MCRB0001011,Athani Shivaji Road,R02,VL,CBS-M,Branch,OF0033,243945.13,0,Standard,Standard,2,5 Early warning: auto-debit bounced 2+ times in 3 months
+MCL0109020,MC30000252,Naveen Ullagaddi,8420885958,MCRB0001018,Jamkhandi APMC Yard,R03,HL,CBS-M,Branch,OF0052,3031491.66,0,Standard,Standard,2,5 Early warning: auto-debit bounced 2+ times in 3 months
+MCL0109063,MC30051471,Pradeep Pujari,7219313952,MCRB0001013,Belagavi Station Road,R02,PL,CBS-M,Branch,OF0039,168966.72,782,NPA,NPA,3,4 NPA: recovery
+MCL0109069,MC30032221,Rekha Hiremath,8300768043,MCRB0001019,Indi Court Circle,R03,HL,CBS-M,Branch,OF0057,8718774.20,0,Standard,Standard,3,5 Early warning: auto-debit bounced 2+ times in 3 months
+MCL0109087,MC30002632,Ayesha Joshi,7313176478,MCRB0001003,Kalghatgi Market,R01,GL,CBS-M,Branch,OF0008,129395.62,0,Standard,Standard,2,5 Early warning: auto-debit bounced 2+ times in 3 months
+MCL0109095,MC30048839,Prashant Hiremath,6541879506,MCRB0001024,Savanur Station Road,R04,GL,CBS-M,Branch,OF0070,8591.13,601,NPA,NPA,0,4 NPA: recovery
+MCL0109125,MC30020118,Sunita Mulla,9625517409,MCRB0001013,Belagavi Station Road,R02,VL,CBS-M,Branch,OF0037,1029340.05,0,NPA,NPA,0,4 NPA: recovery
+MCL0109156,MC30044226,Shabana Gudi,8244674748,MCRB0001016,Vijayapura Gandhi Chowk,R03,PL,CBS-M,Branch,,677843.10,17,SMA-0,SMA-0,3,5 Early warning: auto-debit bounced 2+ times in 3 months
+MCL0109171,MC30009170,Shabana Menasinkai,9190344215,MCRB0001008,Kalghatgi Court Circle,R01,PL,CBS-M,Branch,OF0024,216583.94,0,Standard,SMA-0,2,5 Early warning: auto-debit bounced 2+ times in 3 months
+MCL0109267,MC30036610,Ravi Joshi,8961291742,MCRB0001002,Dharwad Station Road,R01,VL,CBS-M,Branch,OF0005,259420.26,83,SMA-2,SMA-1,3,2 SMA-2: will be NPA within 30 days unless paid
+MCL0109296,MC30049735,Jyoti Pujari,7659642834,MCRB0001024,Savanur Station Road,R04,GL,CBS-M,Branch,OF0071,90095.46,47,SMA-1,SMA-0,3,3 Slipped to SMA-1 in October
+MCL0109315,MC30036526,Shrikant Pujari,8549185574,MCRB0001007,Dharwad APMC Yard,R01,PL,CBS-M,Branch,OF0020,107997.03,27,SMA-0,SMA-0,2,5 Early warning: auto-debit bounced 2+ times in 3 months
+MCL0109318,MC30048699,Lakshmi Fernandes,7849457460,MCRB0001001,Hubballi Main Road,R01,LAP,CBS-M,Branch,OF0002,1999829.20,47,SMA-1,SMA-1,0,6 SMA-1
+MCL0109339,MC30013111,Ashok Savadi,7403073501,MCRB0001025,Kumta Market,R05,VL,CBS-M,Branch,OF0075,613215.06,0,Standard,Standard,2,5 Early warning: auto-debit bounced 2+ times in 3 months
+MCL0109398,MC30035413,Ramesh Fernandes,8768821051,MCRB0001013,Belagavi Station Road,R02,PL,CBS-M,Branch,OF0038,141134.69,57,SMA-1,SMA-1,0,6 SMA-1
+MCL0109411,MC30044681,Parvati D'Souza,9217469850,MCRB0001016,Vijayapura Gandhi Chowk,R03,HL,CBS-M,Branch,OF0048,2097209.04,22,SMA-0,Standard,2,5 Early warning: auto-debit bounced 2+ times in 3 months
+MCL0109414,MC30028406,Sudha Huded,8734074885,MCRB0001012,Nippani Main Road,R02,VL,CBS-M,Branch,OF0035,316695.68,504,NPA,NPA,3,4 NPA: recovery
+MCL0109418,MC30002989,Neha Menasinkai,6556722551,MCRB0001011,Athani Shivaji Road,R02,PL,CBS-M,Branch,OF0033,23945.14,231,NPA,NPA,0,4 NPA: recovery
+MCL0109485,MC30000301,Manjunath Naik,9400120969,MCRB0001003,Kalghatgi Market,R01,PL,CBS-M,Digital Partner,OF0008,910572.03,52,SMA-1,SMA-0,0,3 Slipped to SMA-1 in October
+MCL0109490,MC30053053,Veeresh Savadi,7195314976,MCRB0001003,Kalghatgi Market,R01,HL,CBS-M,Branch,OF0007,2308479.02,47,SMA-1,SMA-0,0,3 Slipped to SMA-1 in October
+MCL0109493,MC30038934,Umesh Madar,8946068406,MCRB0001005,Navalgund Gandhi Chowk,R01,GL,CBS-M,Branch,OF0014,92486.74,47,SMA-1,SMA-1,0,6 SMA-1
+MCL0109501,MC30027580,Harish D'Souza,9422469611,MCRB0001017,Bagalkot Old Town,R03,PL,CBS-M,Branch,OF0051,503414.55,565,NPA,NPA,3,4 NPA: recovery
+MCL0109510,MC30021966,Mallikarjun Hiremath,8883596440,MCRB0001010,Bailhongal Nehru Nagar,R02,LAP,CBS-M,Branch,OF0030,1284568.84,0,Standard,Standard,2,5 Early warning: auto-debit bounced 2+ times in 3 months
+MCL0109523,MC30038885,Prashant Biradar,8406798674,MCRB0001012,Nippani Main Road,R02,PL,CBS-M,Branch,OF0035,253146.53,22,SMA-0,SMA-0,2,5 Early warning: auto-debit bounced 2+ times in 3 months
+MCL0109541,MC30012964,Kavita Hiremath,9357471289,MCRB0001017,Bagalkot Old Town,R03,PL,CBS-M,Branch,OF0044,204317.97,0,Standard,Standard,2,5 Early warning: auto-debit bounced 2+ times in 3 months
+MCL0109565,MC30048986,Rajesh Hublikar,6777633305,MCRB0001015,Mudhol Vidyanagar,R03,VL,CBS-M,Branch,OF0043,372864.26,264,NPA,NPA,3,4 NPA: recovery
+MCL0109578,MC30021994,Santosh Biradar,7692170980,MCRB0001002,Dharwad Station Road,R01,PL,CBS-M,Digital Partner,OF0006,423000.00,22,NPA,NPA,1,4 NPA: recovery
+MCL0109601,MC30001246,Girish Gudi,9932009372,MCRB0001012,Nippani Main Road,R02,VL,CBS-M,Branch,OF0035,489836.83,940,NPA,NPA,0,4 NPA: recovery
+MCL0109607,MC30008554,Anita Gowda,9801162365,MCRB0001022,Haveri Shivaji Road,R04,VL,CBS-M,Branch,OF0064,744457.78,22,SMA-0,Standard,2,5 Early warning: auto-debit bounced 2+ times in 3 months
+MCL0109646,MC30017157,Shrikant Pujari,6216728276,MCRB0001026,Karwar Vidyanagar,R05,MSME,CBS-M,Branch,OF0077,3008229.70,0,NPA,NPA,0,4 NPA: recovery
+MCL0109647,MC30017157,Shrikant Pujari,6216728276,MCRB0001021,Gadag Nehru Nagar,R04,PL,CBS-M,Branch,OF0062,188300.69,443,NPA,NPA,3,4 NPA: recovery
+MCL0109653,MC30006874,Naveen Mathad,9527807685,MCRB0001010,Bailhongal Nehru Nagar,R02,MSME,CBS-M,Branch,OF0028,1373792.77,0,Standard,Standard,2,5 Early warning: auto-debit bounced 2+ times in 3 months
+MCL0109661,MC30041265,Ramesh Mulla,8724109694,MCRB0001021,Gadag Nehru Nagar,R04,PL,CBS-M,Branch,OF0062,178247.29,114,NPA,SMA-2,3,1 Became NPA in October
+MCL0109679,MC30014686,Harish Sankeshwar,7740481996,MCRB0001007,Dharwad APMC Yard,R01,GL,CBS-M,Branch,OF0021,3.07,0,NPA,NPA,0,4 NPA: recovery
+MCL0109683,MC30004781,Shabana Biradar,9999435360,MCRB0001006,Hubballi Old Town,R01,PL,CBS-M,Branch,OF0018,121408.36,0,Standard,SMA-0,2,5 Early warning: auto-debit bounced 2+ times in 3 months
+MCL0109705,MC30026327,Veeresh Patil,9509141830,MCRB0001013,Belagavi Station Road,R02,GL,CBS-M,Branch,OF0039,83751.82,22,SMA-0,Standard,3,5 Early warning: auto-debit bounced 2+ times in 3 months
+MCL0109715,MC30010108,Sachin Pujari,8742375113,MCRB0001008,Kalghatgi Court Circle,R01,MSME,CBS-M,Branch,OF0023,1007626.23,57,SMA-1,SMA-1,0,6 SMA-1
+MCL0109724,MC30044457,Santosh Hublikar,8557738018,MCRB0001006,Hubballi Old Town,R01,PL,CBS-M,Branch,OF0018,128616.93,0,Standard,SMA-1,3,5 Early warning: auto-debit bounced 2+ times in 3 months
+MCL0109773,MC30033943,Bharati Hosamani,8500368118,MCRB0001004,Kundgol Vidyanagar,R01,PL,CBS-M,Branch,OF0011,43005.45,0,Standard,Standard,3,5 Early warning: auto-debit bounced 2+ times in 3 months
+MCL0109795,MC30052395,Nagaraj Shaikh,8646681723,MCRB0001019,Indi Court Circle,R03,PL,CBS-M,Branch,OF0056,145709.48,47,SMA-1,SMA-1,0,6 SMA-1
+MCL0109811,MC30037009,Naveen Ullagaddi,9109263762,MCRB0001013,Belagavi Station Road,R02,HL,CBS-M,Branch,OF0037,3877721.77,0,Standard,SMA-0,3,5 Early warning: auto-debit bounced 2+ times in 3 months
+MCL0109832,MC30023982,Anand Shirol,9207844716,MCRB0001025,Kumta Market,R05,GL,CBS-M,Branch,OF0073,87513.56,231,NPA,NPA,3,4 NPA: recovery
+MCL0109834,MC30023982,Anand Shirol,9207844716,MCRB0001023,Ranebennur Main Road,R04,PL,CBS-M,Branch,OF0069,572272.02,241,NPA,NPA,3,4 NPA: recovery
+MCL0109857,MC30033495,Sangeeta Talwar,9407354974,MCRB0001022,Haveri Shivaji Road,R04,GL,CBS-M,Branch,OF0064,110275.68,47,SMA-1,SMA-0,3,3 Slipped to SMA-1 in October
+MCL0109903,MC30017031,Deepak Huded,9588167098,MCRB0001005,Navalgund Gandhi Chowk,R01,PL,CBS-M,Digital Partner,OF0008,611586.46,88,SMA-2,SMA-1,3,2 SMA-2: will be NPA within 30 days unless paid
+MCL0109912,MC30008197,Sachin Kamble,7174230297,MCRB0001018,Jamkhandi APMC Yard,R03,PL,CBS-M,Digital Partner,OF0052,251593.42,22,SMA-0,SMA-0,2,5 Early warning: auto-debit bounced 2+ times in 3 months
+MCL0109942,MC30051625,Mallikarjun Bhat,8720766253,MCRB0001019,Indi Court Circle,R03,PL,CBS-M,Branch,OF0055,69633.13,269,NPA,NPA,3,4 NPA: recovery
+MCL0109962,MC30030800,Ashok Kadam,9143066785,MCRB0001002,Dharwad Station Road,R01,PL,CBS-M,Branch,OF0004,203674.27,109,NPA,SMA-2,0,1 Became NPA in October
+MCL0110005,MC30030331,Bharati Talwar,9942151125,MCRB0001003,Kalghatgi Market,R01,PL,CBS-M,Digital Partner,OF0009,436968.97,0,Standard,SMA-0,2,5 Early warning: auto-debit bounced 2+ times in 3 months
+MCL0110012,MC30032634,Raghavendra Gowda,8534266614,MCRB0001022,Haveri Shivaji Road,R04,PL,CBS-M,Branch,OF0064,366401.68,0,Standard,Standard,2,5 Early warning: auto-debit bounced 2+ times in 3 months
+MCL0110018,MC30041965,Channabasappa Hosamani,9330742655,MCRB0001001,Hubballi Main Road,R01,PL,CBS-M,Branch,OF0001,176559.35,331,NPA,NPA,3,4 NPA: recovery
+MCL0110039,MC30034062,Basavaraj Kattimani,8680480402,MCRB0001006,Hubballi Old Town,R01,PL,CBS-M,Branch,OF0018,142930.97,22,SMA-0,Standard,2,5 Early warning: auto-debit bounced 2+ times in 3 months
+MCL0110046,MC30046354,Naveen Menasinkai,8110880377,MCRB0001009,Chikkodi Bus Stand,R02,GL,CBS-M,Branch,,145744.25,361,NPA,NPA,3,4 NPA: recovery
+MCL0110047,MC30046354,Naveen Menasinkai,8110880377,MCRB0001013,Belagavi Station Road,R02,HL,CBS-M,Branch,OF0039,4860792.36,453,NPA,NPA,3,4 NPA: recovery
+MCL0110052,MC30051744,Irfan Desai,7185108061,MCRB0001011,Athani Shivaji Road,R02,PL,CBS-M,Branch,OF0033,178803.15,0,NPA,NPA,2,4 NPA: recovery
+MCL0110055,MC30051744,Irfan Desai,7185108061,MCRB0001002,Dharwad Station Road,R01,HL,CBS-M,Branch,OF0020,8028743.93,392,NPA,NPA,3,4 NPA: recovery
+MCL0110073,MC30052605,Suresh Nayak,7915530664,MCRB0001012,Nippani Main Road,R02,HL,CBS-M,Branch,OF0091,6258897.51,17,SMA-0,Standard,3,5 Early warning: auto-debit bounced 2+ times in 3 months
+MCL0110086,MC30030380,Suresh Hegde,9689670044,MCRB0001011,Athani Shivaji Road,R02,GL,CBS-M,Branch,OF0031,7821.59,321,NPA,NPA,0,4 NPA: recovery
+MCL0110087,MC30030380,Suresh Hegde,9689670044,MCRB0001008,Kalghatgi Court Circle,R01,MSME,CBS-M,Branch,OF0022,705896.08,0,NPA,NPA,0,4 NPA: recovery
+MCL0110120,MC30035833,Gururaj Kotagi,9521088291,MCRB0001018,Jamkhandi APMC Yard,R03,PL,CBS-M,Branch,OF0052,16898.04,180,NPA,NPA,0,4 NPA: recovery
+MCL0110124,MC30044086,Asha Mulla,8116260005,MCRB0001013,Belagavi Station Road,R02,PL,CBS-M,Branch,OF0039,256510.92,0,Standard,Standard,3,5 Early warning: auto-debit bounced 2+ times in 3 months
+MCL0110129,MC30014014,Umesh Kammar,8548934257,MCRB0001026,Karwar Vidyanagar,R05,PL,CBS-M,Branch,OF0077,486016.78,535,NPA,NPA,0,4 NPA: recovery
+MCL0110180,MC30012355,Mahadevi Patil,8767017605,MCRB0001011,Athani Shivaji Road,R02,VL,CBS-M,Branch,OF0033,520099.29,0,Standard,Standard,3,5 Early warning: auto-debit bounced 2+ times in 3 months
+MCL0110193,MC30023009,Ravi Gudi,7447595746,MCRB0001001,Hubballi Main Road,R01,PL,CBS-M,Branch,OF0003,144073.46,57,SMA-1,SMA-0,2,3 Slipped to SMA-1 in October
+MCL0110207,MC30046193,Deepa Yaragatti,9885790785,MCRB0001001,Hubballi Main Road,R01,VL,CBS-M,Branch,OF0002,1286808.44,351,NPA,NPA,3,4 NPA: recovery
+MCL0110209,MC30046193,Deepa Yaragatti,9885790785,MCRB0001001,Hubballi Main Road,R01,GL,CBS-M,Branch,OF0003,242953.36,0,NPA,NPA,0,4 NPA: recovery
+MCL0110266,MC30038437,Gururaj Savadi,6883202140,MCRB0001016,Vijayapura Gandhi Chowk,R03,VL,CBS-M,Branch,OF0048,925310.57,0,Standard,SMA-0,2,5 Early warning: auto-debit bounced 2+ times in 3 months
+MCL0110271,MC30039200,Kiran Hegde,9333966556,MCRB0001010,Bailhongal Nehru Nagar,R02,GL,CBS-M,Branch,OF0029,304815.81,0,Standard,Standard,2,5 Early warning: auto-debit bounced 2+ times in 3 months
+MCL0110276,MC30030373,Prashant Yaragatti,7398113674,MCRB0001001,Hubballi Main Road,R01,LAP,CBS-M,Branch,OF0003,2140848.01,0,Standard,Standard,2,5 Early warning: auto-debit bounced 2+ times in 3 months
+MCL0110283,MC30042287,Sangeeta Rao,7705599857,MCRB0001017,Bagalkot Old Town,R03,PL,CBS-M,Branch,OF0050,355825.23,565,NPA,NPA,3,4 NPA: recovery
+MCL0110286,MC30014728,Hanumant D'Souza,9274391854,MCRB0001019,Indi Court Circle,R03,VL,CBS-M,Branch,OF0056,448104.10,27,SMA-0,Standard,2,5 Early warning: auto-debit bounced 2+ times in 3 months
+MCL0110310,MC30028154,Prashant Desai,9842421202,MCRB0001013,Belagavi Station Road,R02,HL,CBS-M,Branch,OF0037,1496235.70,0,Standard,Standard,2,5 Early warning: auto-debit bounced 2+ times in 3 months
+MCL0110313,MC30051751,Hanumant Madar,8247632646,MCRB0001005,Navalgund Gandhi Chowk,R01,GL,CBS-M,Branch,OF0014,67802.68,387,NPA,NPA,3,4 NPA: recovery
+MCL0110318,MC30032137,Harish Shetty,9148340291,MCRB0001023,Ranebennur Main Road,R04,LAP,CBS-M,Branch,OF0069,2058775.85,27,SMA-0,SMA-0,3,5 Early warning: auto-debit bounced 2+ times in 3 months
+MCL0110331,MC30047208,Harish Biradar,8633595840,MCRB0001026,Karwar Vidyanagar,R05,GL,CBS-M,Branch,OF0076,117281.11,241,NPA,NPA,3,4 NPA: recovery
+MCL0110334,MC30047208,Harish Biradar,8633595840,MCRB0001005,Navalgund Gandhi Chowk,R01,VL,CBS-M,Branch,OF0014,339797.32,236,NPA,NPA,3,4 NPA: recovery
+MCL0110378,MC30021042,Pooja Mulla,8103521419,MCRB0001025,Kumta Market,R05,VL,CBS-M,Branch,OF0075,1388866.77,17,SMA-0,Standard,3,5 Early warning: auto-debit bounced 2+ times in 3 months
+MCL0110384,MC30019488,Shivanand Mathad,9689260114,MCRB0001002,Dharwad Station Road,R01,MSME,CBS-M,Branch,OF0004,1118004.88,326,NPA,NPA,3,4 NPA: recovery
+MCL0110415,MC30045409,Anil Nayak,8225245009,MCRB0001024,Savanur Station Road,R04,HL,CBS-M,Branch,OF0072,2302670.38,0,Standard,Standard,2,5 Early warning: auto-debit bounced 2+ times in 3 months
+MCL0110419,MC30048195,Anand Kamble,8643737645,MCRB0001002,Dharwad Station Road,R01,PL,CBS-M,Branch,OF0004,174885.43,382,NPA,NPA,0,4 NPA: recovery
+MCL0110422,MC30052311,Shilpa Rao,8453544743,MCRB0001014,Gokak Market,R02,MSME,CBS-M,Branch,OF0088,3696967.98,0,Standard,SMA-0,2,5 Early warning: auto-debit bounced 2+ times in 3 months
+MCL0110447,MC30046403,Santosh Yaragatti,7966100634,MCRB0001010,Bailhongal Nehru Nagar,R02,GL,CBS-M,Branch,OF0028,113774.15,0,Standard,Standard,3,5 Early warning: auto-debit bounced 2+ times in 3 months
+MCL0110485,MC30036176,Anita Patil,9259611833,MCRB0001024,Savanur Station Road,R04,LAP,CBS-M,Branch,OF0070,2969998.33,83,SMA-2,SMA-1,3,2 SMA-2: will be NPA within 30 days unless paid
+MCL0110509,MC30016807,Nagaraj Kulkarni,8709977949,MCRB0001004,Kundgol Vidyanagar,R01,VL,CBS-M,Branch,OF0011,420189.69,0,Standard,SMA-0,2,5 Early warning: auto-debit bounced 2+ times in 3 months
+MCL0110528,MC30013867,Deepak Kulkarni,9483849623,MCRB0001016,Vijayapura Gandhi Chowk,R03,GL,CBS-M,Branch,OF0046,10740.56,236,NPA,NPA,0,4 NPA: recovery
+MCL0110543,MC30049364,Ashok Jadhav,8793898375,MCRB0001006,Hubballi Old Town,R01,VL,CBS-M,Branch,OF0018,726635.86,57,SMA-1,SMA-1,0,6 SMA-1
+MCL0110547,MC30044352,Mary Bagewadi,7989338625,MCRB0001007,Dharwad APMC Yard,R01,PL,CBS-M,Branch,OF0020,590065.59,417,NPA,NPA,3,4 NPA: recovery
+MCL0110550,MC30005082,Rekha Kattimani,9573657235,MCRB0001011,Athani Shivaji Road,R02,PL,CBS-M,Branch,OF0086,154430.80,88,SMA-2,SMA-1,2,2 SMA-2: will be NPA within 30 days unless paid
+MCL0110551,MC30039599,Harish Badiger,,MCRB0001005,Navalgund Gandhi Chowk,R01,MSME,CBS-M,Branch,OF0014,1196185.47,22,SMA-0,Standard,2,5 Early warning: auto-debit bounced 2+ times in 3 months
+MCL0110571,MC30033901,Basavaraj Rao,8282681550,MCRB0001018,Jamkhandi APMC Yard,R03,PL,CBS-M,Digital Partner,OF0052,523631.59,0,Standard,Standard,2,5 Early warning: auto-debit bounced 2+ times in 3 months
+MCL0110577,MC30017017,Sunil Kulkarni,7635504116,MCRB0001022,Haveri Shivaji Road,R04,VL,CBS-M,Branch,OF0064,1177097.11,27,SMA-0,SMA-0,2,5 Early warning: auto-debit bounced 2+ times in 3 months
+MCL0110601,MC30015113,Rajesh Jadhav,7156285216,MCRB0001024,Savanur Station Road,R04,LAP,CBS-M,Branch,OF0070,1057076.14,52,SMA-1,SMA-1,0,6 SMA-1
+MCL0110630,MC30031815,Ashok Kammar,7691243919,MCRB0001021,Gadag Nehru Nagar,R04,HL,CBS-M,Branch,OF0062,2416733.41,139,NPA,NPA,3,4 NPA: recovery
+MCL0110633,MC30031815,Ashok Kammar,7691243919,MCRB0001025,Kumta Market,R05,PL,CBS-M,Branch,OF0073,433718.78,139,NPA,NPA,3,4 NPA: recovery
+MCL0110640,MC30013377,Arun Shetty,9770915758,MCRB0001022,Haveri Shivaji Road,R04,VL,CBS-M,Branch,OF0064,563603.43,0,Standard,Standard,2,5 Early warning: auto-debit bounced 2+ times in 3 months
+MCL0110662,MC30013426,Sunil Hiremath,8848361975,MCRB0001022,Haveri Shivaji Road,R04,PL,CBS-M,Digital Partner,OF0065,105095.56,57,SMA-1,SMA-0,2,3 Slipped to SMA-1 in October
+MCL0110664,MC30013426,Sunil Hiremath,8848361975,MCRB0001026,Karwar Vidyanagar,R05,PL,CBS-M,Branch,OF0076,82880.04,57,SMA-1,SMA-0,2,3 Slipped to SMA-1 in October
+MCL0110690,MC30006916,Harish Jadhav,9366562820,MCRB0001005,Navalgund Gandhi Chowk,R01,PL,CBS-M,Branch,OF0013,249783.12,691,NPA,NPA,3,4 NPA: recovery
+MCL0110727,MC30023695,Vijay Hegde,9710598692,MCRB0001020,Ron Bus Stand,R04,PL,CBS-M,Branch,OF0058,356961.50,83,NPA,NPA,0,4 NPA: recovery
+MCL0110728,MC30023695,Vijay Hegde,9710598692,MCRB0001003,Kalghatgi Market,R01,PL,CBS-M,Branch,OF0009,1051386.45,259,NPA,NPA,3,4 NPA: recovery
+MCL0110747,MC30044632,Basavaraj Shaikh,9172633379,MCRB0001016,Vijayapura Gandhi Chowk,R03,PL,CBS-M,Branch,,315028.34,387,NPA,NPA,3,4 NPA: recovery
+MCL0110759,MC30032830,Shilpa Shaikh,8626225538,MCRB0001009,Chikkodi Bus Stand,R02,PL,CBS-M,Branch,OF0025,139081.43,22,SMA-0,SMA-0,3,5 Early warning: auto-debit bounced 2+ times in 3 months
+MCL0110771,MC30018830,Shrikant Kattimani,9486364864,MCRB0001009,Chikkodi Bus Stand,R02,GL,CBS-M,Branch,OF0025,242238.29,17,SMA-0,SMA-0,2,5 Early warning: auto-debit bounced 2+ times in 3 months
+MCL0110780,MC30022232,Joseph Mathad,9177971031,MCRB0001001,Hubballi Main Road,R01,GL,CBS-M,Branch,OF0002,8265.23,290,NPA,NPA,0,4 NPA: recovery
+MCL0110850,MC30044975,Rekha Shaikh,9839649153,MCRB0001019,Indi Court Circle,R03,VL,CBS-M,Branch,OF0057,1084176.97,0,Standard,Standard,2,5 Early warning: auto-debit bounced 2+ times in 3 months
+MCL0110854,MC30053326,Ayesha Sankeshwar,8833670315,MCRB0001011,Athani Shivaji Road,R02,PL,CBS-M,Branch,OF0088,373321.87,88,SMA-2,SMA-1,3,2 SMA-2: will be NPA within 30 days unless paid
+MCL0110872,MC30037443,Pradeep Patil,9509820882,MCRB0001006,Hubballi Old Town,R01,PL,CBS-M,Branch,OF0016,191827.06,392,NPA,NPA,3,4 NPA: recovery
+MCL0110889,MC30032690,Kaveri Bagewadi,9557587120,MCRB0001008,Kalghatgi Court Circle,R01,HL,CBS-M,Branch,OF0022,2150103.42,0,Standard,Standard,2,5 Early warning: auto-debit bounced 2+ times in 3 months
+MCL0110900,MC30033313,Vidya Mulla,6484355896,MCRB0001023,Ranebennur Main Road,R04,PL,CBS-M,Digital Partner,,439093.75,351,NPA,NPA,3,4 NPA: recovery
+MCL0110909,MC30003570,Vijay Gowda,8241709240,MCRB0001005,Navalgund Gandhi Chowk,R01,PL,CBS-M,Branch,OF0014,357964.59,0,Standard,Standard,2,5 Early warning: auto-debit bounced 2+ times in 3 months
+MCL0110910,MC30008680,Sharanappa Pujari,9795316260,MCRB0001002,Dharwad Station Road,R01,HL,CBS-M,Branch,OF0002,5230977.47,0,Standard,Standard,2,5 Early warning: auto-debit bounced 2+ times in 3 months
+MCL0110917,MC30022995,Mohammed Sankeshwar,7461198559,MCRB0001002,Dharwad Station Road,R01,VL,CBS-M,Branch,OF0004,1017346.26,236,NPA,NPA,3,4 NPA: recovery
+MCL0110920,MC30022995,Mohammed Sankeshwar,7461198559,MCRB0001011,Athani Shivaji Road,R02,PL,CBS-M,Digital Partner,OF0033,391499.06,0,NPA,NPA,0,4 NPA: recovery
+MCL0110959,MC30052444,Deepa Lamani,6361790602,MCRB0001001,Hubballi Main Road,R01,PL,CBS-M,Branch,OF0001,44323.97,236,NPA,NPA,0,4 NPA: recovery
+MCL0110971,MC30039347,Vijay Yaragatti,6733420089,MCRB0001016,Vijayapura Gandhi Chowk,R03,PL,CBS-M,Digital Partner,OF0100,611610.78,0,Standard,SMA-1,2,5 Early warning: auto-debit bounced 2+ times in 3 months
+MCL0111001,MC30018347,Anand Kattimani,9155254469,MCRB0001001,Hubballi Main Road,R01,PL,CBS-M,Branch,OF0001,516301.62,0,Standard,Standard,2,5 Early warning: auto-debit bounced 2+ times in 3 months
+MCL0111023,MC30038101,Ashok Shetty,9720711425,MCRB0001015,Mudhol Vidyanagar,R03,PL,CBS-M,Branch,OF0045,205323.64,290,NPA,NPA,3,4 NPA: recovery
+MCL0111028,MC30016555,Gururaj Hosamani,8800717792,MCRB0001006,Hubballi Old Town,R01,PL,CBS-M,Branch,OF0017,276012.82,0,Standard,Standard,2,5 Early warning: auto-debit bounced 2+ times in 3 months
+MCL0111030,MC30048965,Renuka Bhat,9764168971,MCRB0001001,Hubballi Main Road,R01,HL,CBS-M,Branch,OF0002,4571930.07,22,SMA-0,Standard,3,5 Early warning: auto-debit bounced 2+ times in 3 months
+MCL0111032,MC30005579,Veeresh Desai,8548522255,MCRB0001014,Gokak Market,R02,PL,CBS-M,Branch,OF0088,540115.93,596,NPA,NPA,3,4 NPA: recovery
+MCL0111040,MC30050722,Mohammed Gudi,9219143406,MCRB0001008,Kalghatgi Court Circle,R01,VL,CBS-M,Branch,OF0023,375000.45,474,NPA,NPA,3,4 NPA: recovery
+MCL0111065,MC30000973,Sunita Shaikh,7847889236,MCRB0001025,Kumta Market,R05,PL,CBS-M,Digital Partner,OF0073,337758.25,22,SMA-0,Standard,2,5 Early warning: auto-debit bounced 2+ times in 3 months
+MCL0111077,MC30005978,Girish Pawar,8981183083,MCRB0001016,Vijayapura Gandhi Chowk,R03,PL,CBS-M,Branch,OF0102,520631.99,52,SMA-1,SMA-0,0,3 Slipped to SMA-1 in October
+MCL0111104,MC30013580,Sudha Naik,9395717717,MCRB0001022,Haveri Shivaji Road,R04,PL,CBS-M,Branch,OF0064,481999.05,321,NPA,NPA,3,4 NPA: recovery
+MCL0111109,MC30018536,Mallikarjun Kamble,9468712209,MCRB0001002,Dharwad Station Road,R01,PL,CBS-M,Digital Partner,OF0006,175955.95,52,SMA-1,SMA-0,2,3 Slipped to SMA-1 in October
+MCL0111123,MC30025683,Mahesh Chavan,7467615697,MCRB0001006,Hubballi Old Town,R01,VL,CBS-M,Branch,OF0017,430519.80,22,SMA-0,Standard,3,5 Early warning: auto-debit bounced 2+ times in 3 months
+MCL0111144,MC30029785,Deepak Fernandes,9250822034,MCRB0001003,Kalghatgi Market,R01,GL,CBS-M,Branch,OF0007,17471.63,210,NPA,NPA,0,4 NPA: recovery
+MCL0111164,MC30048321,Rajesh Mulla,9944963366,MCRB0001002,Dharwad Station Road,R01,VL,CBS-M,Branch,OF0006,250749.62,0,Standard,Standard,3,5 Early warning: auto-debit bounced 2+ times in 3 months
+MCL0111196,MC30003885,Mahesh Kamble,8262431833,MCRB0001002,Dharwad Station Road,R01,PL,CBS-M,Branch,OF0004,155561.86,782,NPA,NPA,0,4 NPA: recovery
+MCL0111206,MC30013643,Sudha Huded,9346421307,MCRB0001024,Savanur Station Road,R04,HL,CBS-M,Branch,OF0072,5072807.49,417,NPA,NPA,3,4 NPA: recovery
+MCL0111209,MC30013643,Sudha Huded,9346421307,MCRB0001005,Navalgund Gandhi Chowk,R01,HL,CBS-M,Branch,OF0009,5874227.26,392,NPA,NPA,3,4 NPA: recovery
+MCL0111214,MC30041811,Gururaj Lamani,9598891361,MCRB0001025,Kumta Market,R05,VL,CBS-M,Branch,OF0075,1061206.65,47,SMA-1,SMA-0,2,3 Slipped to SMA-1 in October
+MCL0111216,MC30041811,Gururaj Lamani,9598891361,MCRB0001018,Jamkhandi APMC Yard,R03,HL,CBS-M,Branch,OF0052,4223120.87,57,SMA-1,SMA-0,2,3 Slipped to SMA-1 in October
+MCL0111221,MC30021875,Shobha Badiger,9929857381,MCRB0001001,Hubballi Main Road,R01,PL,CBS-M,Branch,OF0001,383893.70,144,NPA,NPA,0,4 NPA: recovery
+MCL0111235,MC30041916,Joseph Joshi,6840876225,MCRB0001001,Hubballi Main Road,R01,PL,CBS-M,Branch,OF0001,101652.87,295,NPA,NPA,3,4 NPA: recovery
+MCL0111253,MC30003311,Anil Yaragatti,8764587815,MCRB0001013,Belagavi Station Road,R02,PL,CBS-M,Branch,OF0039,13104.95,241,NPA,NPA,0,4 NPA: recovery
+MCL0111256,MC30028343,Santosh Pujari,8362145880,MCRB0001021,Gadag Nehru Nagar,R04,PL,CBS-M,Digital Partner,OF0063,358325.35,57,SMA-1,SMA-0,2,3 Slipped to SMA-1 in October
+MCL0111266,MC30002681,Ashok Biradar,8195737767,MCRB0001013,Belagavi Station Road,R02,PL,CBS-M,Digital Partner,OF0037,149410.51,17,SMA-0,SMA-0,3,5 Early warning: auto-debit bounced 2+ times in 3 months
+MCL0111303,MC30043694,Prakash Menasinkai,8340492184,MCRB0001017,Bagalkot Old Town,R03,GL,CBS-M,Branch,OF0050,5842.78,170,NPA,NPA,0,4 NPA: recovery
+MCL0111309,MC30038178,Rajesh Bagewadi,8224052265,MCRB0001022,Haveri Shivaji Road,R04,PL,CBS-M,Branch,OF0064,20566.06,57,SMA-1,SMA-0,0,3 Slipped to SMA-1 in October
+MCL0111350,MC30010304,Bharati Hegde,7572247436,MCRB0001013,Belagavi Station Road,R02,PL,CBS-M,Branch,OF0038,551990.03,88,SMA-2,SMA-1,3,2 SMA-2: will be NPA within 30 days unless paid
+MCL0111351,MC30033565,Prakash Hiremath,8844709350,MCRB0001013,Belagavi Station Road,R02,PL,CBS-M,Branch,OF0038,438660.75,109,NPA,SMA-2,3,1 Became NPA in October
+MCL0111352,MC30006342,Prakash Kadam,7883001001,MCRB0001013,Belagavi Station Road,R02,PL,CBS-M,Branch,OF0038,434361.04,119,NPA,SMA-2,3,1 Became NPA in October
+MCL0111353,MC30016604,Raghavendra Kotagi,7572247436,MCRB0001013,Belagavi Station Road,R02,PL,CBS-M,Branch,OF0038,445838.58,205,NPA,NPA,3,4 NPA: recovery
+MCL0111354,MC30013839,Deepa Talwar,8844709350,MCRB0001013,Belagavi Station Road,R02,PL,CBS-M,Branch,OF0038,662161.76,57,SMA-1,SMA-0,0,3 Slipped to SMA-1 in October
+MCL0111355,MC30015484,Basavaraj Ullagaddi,7883001001,MCRB0001013,Belagavi Station Road,R02,PL,CBS-M,Branch,OF0038,602029.75,149,NPA,NPA,3,4 NPA: recovery
+MCL0111356,MC30009163,Sachin Patil,7572247436,MCRB0001013,Belagavi Station Road,R02,PL,CBS-M,Branch,OF0038,678995.72,170,NPA,NPA,3,4 NPA: recovery
+MCL0111357,MC30021070,Sachin Gowda,8844709350,MCRB0001013,Belagavi Station Road,R02,PL,CBS-M,Branch,OF0038,633201.73,47,SMA-1,SMA-0,2,3 Slipped to SMA-1 in October
+MCL0111358,MC30016982,Jyoti Kattimani,7883001001,MCRB0001013,Belagavi Station Road,R02,PL,CBS-M,Branch,OF0038,539287.66,144,NPA,NPA,3,4 NPA: recovery
+MCL0111359,MC30024794,Vijay Shaikh,7572247436,MCRB0001013,Belagavi Station Road,R02,PL,CBS-M,Branch,OF0038,563703.72,139,NPA,NPA,3,4 NPA: recovery
+MCL0111360,MC30032319,Prashant Huded,8844709350,MCRB0001013,Belagavi Station Road,R02,PL,CBS-M,Branch,OF0038,472528.83,170,NPA,NPA,3,4 NPA: recovery
+MCL0111361,MC30008939,Siddappa Fernandes,7883001001,MCRB0001013,Belagavi Station Road,R02,PL,CBS-M,Branch,OF0038,722633.92,175,NPA,NPA,0,4 NPA: recovery
+MCL0111362,MC30016513,Ayesha Belagali,7572247436,MCRB0001013,Belagavi Station Road,R02,PL,CBS-M,Branch,OF0038,727798.43,109,NPA,SMA-2,0,1 Became NPA in October
+MCL0111363,MC30021959,Sachin Joshi,8844709350,MCRB0001013,Belagavi Station Road,R02,PL,CBS-M,Branch,OF0038,453747.25,180,NPA,NPA,3,4 NPA: recovery
+MCL0111364,MC30018732,Umesh Angadi,7883001001,MCRB0001013,Belagavi Station Road,R02,PL,CBS-M,Branch,OF0038,465609.25,119,NPA,SMA-2,3,1 Became NPA in October
+MCL0111365,MC30031913,Suresh Jadhav,7572247436,MCRB0001013,Belagavi Station Road,R02,PL,CBS-M,Branch,OF0038,740427.42,109,NPA,SMA-2,3,1 Became NPA in October
+MCL0111366,MC30038115,Renuka Menasinkai,8844709350,MCRB0001013,Belagavi Station Road,R02,PL,CBS-M,Branch,OF0038,604745.56,109,NPA,SMA-2,0,1 Became NPA in October
+MCL0111367,MC30021189,Kiran Gudi,7883001001,MCRB0001013,Belagavi Station Road,R02,PL,CBS-M,Branch,OF0038,463318.04,57,SMA-1,SMA-0,0,3 Slipped to SMA-1 in October
+MCL0111368,MC30048083,Rajesh Chavan,7572247436,MCRB0001013,Belagavi Station Road,R02,PL,CBS-M,Branch,OF0038,494277.67,119,NPA,SMA-2,3,1 Became NPA in October
+MCL0111369,MC30041349,Nagaraj Kulkarni,8844709350,MCRB0001013,Belagavi Station Road,R02,PL,CBS-M,Branch,OF0038,659455.15,83,SMA-2,SMA-1,3,2 SMA-2: will be NPA within 30 days unless paid
+MCL0111370,MC30010815,Roopa Rao,7883001001,MCRB0001013,Belagavi Station Road,R02,PL,CBS-M,Branch,OF0038,749325.17,170,NPA,NPA,3,4 NPA: recovery
+MCL0111371,MC30025501,Sunil Hosamani,7572247436,MCRB0001013,Belagavi Station Road,R02,PL,CBS-M,Branch,OF0038,666020.06,144,NPA,NPA,3,4 NPA: recovery
+PUC500007,PV211472,Sri Ganesh Traders Pvt Ltd,9605294713,MCRB0PV0101,Chikkodi Pavanpur Branch,R02,MSME,CBS-P,Branch,OF0079,1149673.21,83,SMA-2,SMA-2,0,2 SMA-2: will be NPA within 30 days unless paid
+PUC500021,PV220442,Om Sai Motors LLP,9751097794,MCRB0PV0101,Chikkodi Pavanpur Branch,R02,MSME,CBS-P,Branch,,971424.51,119,NPA,SMA-2,0,1 Became NPA in October
+PUC500022,PV201455,Karnatak Cotton Ginning Industries,9115474001,MCRB0PV0105,Belagavi Pavanpur Branch,R02,MSME,CBS-P,Branch,OF0111,298809.78,175,NPA,NPA,3,4 NPA: recovery
+PUC500026,PV208850,Sahyadri Timber Mart Industries,8321454145,MCRB0PV1012,Savanur Pavanpur Branch,R04,MSME,CBS-P,Branch,OF0106,1619253.83,83,SMA-2,SMA-1,3,2 SMA-2: will be NPA within 30 days unless paid
+PUC500033,PV209453,Om Sai Motors LLP,8875625237,MCRB0PV1007,Ranebennur Pavanpur Branch,R04,MSME,CBS-P,Branch,OF0070,1971120.18,356,NPA,NPA,3,4 NPA: recovery
+PUC500035,PV208544,Annapurna Flour Mill & Co,7509797410,MCRB0PV0110,Bagalkot Pavanpur Branch,R03,MSME,CBS-P,Branch,OF0097,826193.89,331,NPA,NPA,0,4 NPA: recovery
+PUC500039,PV206768,Uttar Spices & Co,7732527219,MCRB0PV0101,Chikkodi Pavanpur Branch,R02,MSME,CBS-P,Branch,OF0107,525452.71,57,SMA-1,SMA-1,0,6 SMA-1
+PUC500058,PV208880,Annapurna Flour Mill & Co,8128263920,MCRB0PV0107,Chikkodi Main Road (PUCB),R02,MSME,CBS-P,Branch,OF0113,823360.85,716,NPA,NPA,0,4 NPA: recovery
+PUC500077,PV201881,Anil Desai,6319204445,MCRB0PV0106,Gokak Pavanpur Branch,R02,MSME,CBS-P,Branch,OF0039,1151874.55,78,SMA-2,SMA-1,0,2 SMA-2: will be NPA within 30 days unless paid
+PUC500134,PV208049,Ravi Talwar,9836884475,MCRB0PV0101,Chikkodi Pavanpur Branch,R02,VL,CBS-P,Branch,OF0080,357689.92,241,NPA,NPA,0,4 NPA: recovery
+PUC500136,PV222353,Pooja Kammar,8462805096,MCRB0PV0109,Vijayapura Pavanpur Branch,R03,GL,CBS-P,Branch,OF0095,5179.39,83,SMA-2,SMA-1,0,2 SMA-2: will be NPA within 30 days unless paid
+PUC500142,PV221027,Anita Patil,9190447652,MCRB0PV0107,Chikkodi Main Road (PUCB),R02,PL,CBS-P,Branch,OF0091,440870.55,509,NPA,NPA,3,4 NPA: recovery
+PUC500144,PV220748,Vidya Sankeshwar,8248534591,MCRB0PV0102,Bailhongal Pavanpur Branch,R02,PL,CBS-P,Branch,OF0108,146055.68,52,SMA-1,SMA-1,0,6 SMA-1
+PUC500146,PV208247,Manjunath Nayak,6483086560,MCRB0PV1007,Ranebennur Pavanpur Branch,R04,GL,CBS-P,Branch,OF0104,8768.86,387,NPA,NPA,0,4 NPA: recovery
+PUC500154,PV203975,Sachin Naik,6634598127,MCRB0001009,Chikkodi Bus Stand,R02,HL,CBS-P,Branch,OF0081,5528954.90,57,SMA-1,SMA-1,0,6 SMA-1
+PUC500163,PV218768,Arun Yaragatti,9949598616,MCRB0PV0102,Bailhongal Pavanpur Branch,R02,PL,CBS-P,Branch,OF0108,20813.14,144,NPA,NPA,0,4 NPA: recovery
+PUC500171,MC30045794,Savitri Chavan,9416758034,MCRB0PV0105,Belagavi Pavanpur Branch,R02,GL,CBS-P,Branch,OF0088,100964.69,200,NPA,NPA,0,4 NPA: recovery
+PUC500182,PV213548,Girish Angadi,7951781996,MCRB0PV0102,Bailhongal Pavanpur Branch,R02,VL,CBS-P,Branch,OF0081,392335.05,119,NPA,SMA-2,0,1 Became NPA in October
+PUC500186,MC30015988,Suresh Desai,9781670498,MCRB0PV0101,Chikkodi Pavanpur Branch,R02,PL,CBS-P,Branch,OF0079,52342.20,356,NPA,NPA,0,4 NPA: recovery
+PUC500193,PV208427,Neha Joshi,8970171445,MCRB0001009,Chikkodi Bus Stand,R02,VL,CBS-P,Branch,OF0025,85636.30,0,Standard,Standard,3,5 Early warning: auto-debit bounced 2+ times in 3 months
+PUC500200,MC30050281,Mallikarjun Bhat,8602079941,MCRB0001016,Vijayapura Gandhi Chowk,R03,PL,CBS-P,Branch,OF0047,84228.85,236,NPA,NPA,3,4 NPA: recovery
+PUC500212,PV222041,Nagaraj Mathad,8966487347,MCRB0PV0102,Bailhongal Pavanpur Branch,R02,PL,CBS-P,Branch,OF0081,373113.32,47,SMA-1,SMA-0,0,3 Slipped to SMA-1 in October
+PUC500232,PV202613,Imran Gowda,7820674432,MCRB0PV1012,Savanur Pavanpur Branch,R04,PL,CBS-P,Branch,OF0121,146893.60,509,NPA,NPA,0,4 NPA: recovery
+PUC500238,PV216008,Anil Chavan,7969581883,MCRB0PV0103,Athani Pavanpur Branch,R02,HL,CBS-P,Branch,OF0080,4791924.99,665,NPA,NPA,3,4 NPA: recovery
+PUC500247,PV211166,Mallikarjun Chavan,8408907188,MCRB0PV0105,Belagavi Pavanpur Branch,R02,PL,CBS-P,Branch,OF0088,129163.09,52,SMA-1,SMA-1,0,6 SMA-1
+PUC500263,PV209249,Nandini Lamani,8788185953,MCRB0PV0101,Chikkodi Pavanpur Branch,R02,GL,CBS-P,Branch,OF0080,10102.94,109,NPA,SMA-2,0,1 Became NPA in October
+PUC500274,PV219596,Joseph Talwar,7793722125,MCRB0PV0101,Chikkodi Pavanpur Branch,R02,VL,CBS-P,Branch,OF0107,423376.14,351,NPA,NPA,3,4 NPA: recovery
+PUC500292,PV218468,Kiran Shaikh,8990759375,MCRB0001016,Vijayapura Gandhi Chowk,R03,VL,CBS-P,Branch,OF0047,245079.94,47,SMA-1,SMA-1,0,6 SMA-1
+PUC500318,PV209510,Priya Biradar,9607773044,MCRB0001009,Chikkodi Bus Stand,R02,VL,CBS-P,Branch,OF0026,465920.67,331,NPA,NPA,0,4 NPA: recovery
+PUC500320,PV209510,Priya Biradar,9607773044,MCRB0PV0107,Chikkodi Main Road (PUCB),R02,PL,CBS-P,Branch,OF0092,213635.11,453,NPA,NPA,0,4 NPA: recovery
+PUC500322,PV222185,Arun Bagewadi,7555726309,MCRB0PV0102,Bailhongal Pavanpur Branch,R02,PL,CBS-P,Branch,OF0081,191359.65,290,NPA,NPA,0,4 NPA: recovery
+PUC500338,PV220697,Anita D'Souza,9548556718,MCRB0PV0107,Chikkodi Main Road (PUCB),R02,VL,CBS-P,Branch,OF0091,875025.98,144,NPA,NPA,3,4 NPA: recovery
+PUC500343,PV218801,Imran Savadi,9514095075,MCRB0PV0102,Bailhongal Pavanpur Branch,R02,MSME,CBS-P,Branch,OF0081,727288.22,453,NPA,NPA,0,4 NPA: recovery
+PUC500360,PV202010,Parvati Hublikar,7630789002,MCRB0PV0109,Vijayapura Pavanpur Branch,R03,VL,CBS-P,Branch,OF0095,375408.82,540,NPA,NPA,0,4 NPA: recovery
+PUC500375,PV214997,Channabasappa Kammar,9354506022,MCRB0PV0101,Chikkodi Pavanpur Branch,R02,PL,CBS-P,Branch,OF0080,182439.90,52,SMA-1,SMA-0,3,3 Slipped to SMA-1 in October
+PUC500377,PV214997,Channabasappa Kammar,9354506022,MCRB0001016,Vijayapura Gandhi Chowk,R03,PL,CBS-P,Branch,OF0046,26148.71,52,SMA-1,SMA-0,0,3 Slipped to SMA-1 in October
+PUC500393,PV222905,Naveen Chavan,7183863614,MCRB0PV0112,Indi Pavanpur Branch,R03,LAP,CBS-P,Branch,OF0101,2936876.95,0,Standard,Standard,2,5 Early warning: auto-debit bounced 2+ times in 3 months
+PUC500410,MC30017143,Deepa Hosamani,9951156810,MCRB0PV0107,Chikkodi Main Road (PUCB),R02,PL,CBS-P,Branch,OF0091,1051773.43,149,NPA,NPA,3,4 NPA: recovery
+PUC500412,PV202067,Roopa Angadi,7324411617,MCRB0PV0101,Chikkodi Pavanpur Branch,R02,PL,CBS-P,Branch,OF0079,326762.26,504,NPA,NPA,0,4 NPA: recovery
+PUC500428,PV217073,Kiran D'Souza,6879223112,MCRB0PV0110,Bagalkot Pavanpur Branch,R03,VL,CBS-P,Branch,OF0097,539945.69,83,SMA-2,SMA-1,3,2 SMA-2: will be NPA within 30 days unless paid
+PUC500429,PV213797,Shrikant Hiremath,8181304990,MCRB0PV0107,Chikkodi Main Road (PUCB),R02,PL,CBS-P,Branch,OF0091,548148.42,629,NPA,NPA,0,4 NPA: recovery
+PUC500437,PV214787,Anand Hiremath,8750676939,MCRB0PV0104,Nippani Pavanpur Branch,R02,PL,CBS-P,Branch,OF0086,136234.07,52,SMA-1,SMA-0,0,3 Slipped to SMA-1 in October
+PUC500446,MC30032697,Ravi Kattimani,6130102840,MCRB0PV0109,Vijayapura Pavanpur Branch,R03,PL,CBS-P,Branch,OF0096,222934.82,326,NPA,NPA,0,4 NPA: recovery
+PUC500462,PV203105,Sachin Huded,7708053152,MCRB0001009,Chikkodi Bus Stand,R02,PL,CBS-P,Branch,OF0037,55505.78,180,NPA,NPA,0,4 NPA: recovery
+PUC500463,PV203105,Sachin Huded,7708053152,MCRB0PV0102,Bailhongal Pavanpur Branch,R02,LAP,CBS-P,Branch,OF0081,3295612.04,22,NPA,NPA,0,4 NPA: recovery
+PUC500465,PV203105,Sachin Huded,7708053152,MCRB0PV0101,Chikkodi Pavanpur Branch,R02,PL,CBS-P,Branch,OF0080,107250.23,22,NPA,NPA,1,4 NPA: recovery
+PUC500469,PV220919,Priya Bhat,9715650871,MCRB0001016,Vijayapura Gandhi Chowk,R03,PL,CBS-P,Branch,OF0048,394526.40,443,NPA,NPA,3,4 NPA: recovery
+PUC500475,PV202202,Sudha Badiger,7888304933,MCRB0PV0107,Chikkodi Main Road (PUCB),R02,LAP,CBS-P,Branch,OF0091,3411079.16,17,SMA-0,Standard,3,5 Early warning: auto-debit bounced 2+ times in 3 months
+PUC500481,PV209738,Anand Chavan,9901158609,MCRB0PV0107,Chikkodi Main Road (PUCB),R02,PL,CBS-P,Branch,OF0091,160168.09,231,NPA,NPA,3,4 NPA: recovery
+PUC500488,PV217271,Deepak Shetty,8680116856,MCRB0PV0102,Bailhongal Pavanpur Branch,R02,VL,CBS-P,Branch,OF0081,845793.23,0,Standard,Standard,2,5 Early warning: auto-debit bounced 2+ times in 3 months
+PUC500493,PV220076,Parvati Lamani,9631822190,MCRB0PV0102,Bailhongal Pavanpur Branch,R02,PL,CBS-P,Branch,OF0081,200723.22,0,Standard,Standard,2,5 Early warning: auto-debit bounced 2+ times in 3 months
+PUC500497,PV214313,Ashok Shirol,7551291756,MCRB0PV0104,Nippani Pavanpur Branch,R02,PL,CBS-P,Branch,OF0110,106608.80,417,NPA,NPA,0,4 NPA: recovery
+PUC500512,MC30009702,Mahesh Chavan,7352745343,MCRB0PV0102,Bailhongal Pavanpur Branch,R02,PL,CBS-P,Branch,OF0119,90606.72,0,NPA,NPA,0,4 NPA: recovery
+PUC500514,PV200363,Usha Desai,8318253801,MCRB0PV0111,Jamkhandi Pavanpur Branch,R03,HL,CBS-P,Branch,OF0099,2655547.55,57,SMA-1,SMA-1,0,6 SMA-1
+PUC500528,MC30007210,Shrikant Patil,8506832990,MCRB0PV0102,Bailhongal Pavanpur Branch,R02,VL,CBS-P,Branch,OF0082,339234.40,0,NPA,NPA,0,4 NPA: recovery
+PUC500538,PV200618,Sudha Rao,8204799897,MCRB0PV0105,Belagavi Pavanpur Branch,R02,HL,CBS-P,Branch,OF0088,4299207.12,83,SMA-2,SMA-1,0,2 SMA-2: will be NPA within 30 days unless paid
+PUC500541,PV200975,Pradeep Hiremath,9604393484,MCRB0PV0107,Chikkodi Main Road (PUCB),R02,MSME,CBS-P,Branch,OF0092,648883.72,453,NPA,NPA,0,4 NPA: recovery
+PUC500551,MC30007070,Kavita Lamani,9543821361,MCRB0001009,Chikkodi Bus Stand,R02,VL,CBS-P,Branch,OF0027,1036369.53,479,NPA,NPA,3,4 NPA: recovery
+PUC500570,PV218837,Neha Lamani,7173279909,MCRB0PV0107,Chikkodi Main Road (PUCB),R02,PL,CBS-P,Branch,OF0091,591324.88,422,NPA,NPA,3,4 NPA: recovery
+PUC500574,PV201890,Nagaraj Shaikh,9486521100,MCRB0PV0103,Athani Pavanpur Branch,R02,LAP,CBS-P,Branch,OF0109,958138.63,0,NPA,NPA,0,4 NPA: recovery
+PUC500575,PV201890,Nagaraj Shaikh,9486521100,MCRB0PV0102,Bailhongal Pavanpur Branch,R02,PL,CBS-P,Branch,OF0081,138393.08,575,NPA,NPA,3,4 NPA: recovery
+PUC500601,PV200594,Girish Hosamani,7783797118,MCRB0PV1007,Ranebennur Pavanpur Branch,R04,VL,CBS-P,Branch,OF0104,313846.61,0,Standard,Standard,2,5 Early warning: auto-debit bounced 2+ times in 3 months
+PUC500613,PV201083,Channabasappa Talwar,9509881914,MCRB0PV1007,Ranebennur Pavanpur Branch,R04,HL,CBS-P,Branch,OF0063,3501446.40,47,SMA-1,SMA-1,0,6 SMA-1
+PUC500626,MC30009835,Mohammed Pujari,9196964158,MCRB0PV1007,Ranebennur Pavanpur Branch,R04,VL,CBS-P,Branch,OF0106,561306.49,57,SMA-1,SMA-1,0,6 SMA-1
+PUC500629,MC30014217,Mahesh Pawar,6573810658,MCRB0PV0108,Mudhol Pavanpur Branch,R03,PL,CBS-P,Branch,OF0093,0.01,0,NPA,NPA,0,4 NPA: recovery
+PUC500635,PV217898,Kiran Hegde,9748346080,MCRB0PV0102,Bailhongal Pavanpur Branch,R02,PL,CBS-P,Branch,OF0119,259153.48,721,NPA,NPA,3,4 NPA: recovery
+PUC500636,PV217898,Kiran Hegde,9748346080,MCRB0PV0105,Belagavi Pavanpur Branch,R02,LAP,CBS-P,Branch,OF0088,1494294.00,412,NPA,NPA,3,4 NPA: recovery
+PUC500671,PV200441,Raghavendra Badiger,9779802283,MCRB0PV0111,Jamkhandi Pavanpur Branch,R03,MSME,CBS-P,Branch,OF0099,946612.36,78,SMA-2,SMA-1,0,2 SMA-2: will be NPA within 30 days unless paid
+PUC500684,PV208211,Girish Naik,8520046192,MCRB0PV0111,Jamkhandi Pavanpur Branch,R03,PL,CBS-P,Branch,OF0100,651994.68,170,NPA,NPA,3,4 NPA: recovery
+PUC500695,PV204149,Deepak Jadhav,7845744650,MCRB0PV0101,Chikkodi Pavanpur Branch,R02,PL,CBS-P,Branch,OF0080,409626.08,200,NPA,NPA,3,4 NPA: recovery
+PUC500714,PV218390,Channabasappa Kulkarni,8769845704,MCRB0PV0102,Bailhongal Pavanpur Branch,R02,PL,CBS-P,Branch,OF0108,183187.95,0,Standard,SMA-0,2,5 Early warning: auto-debit bounced 2+ times in 3 months
+PUC500718,PV204371,Sushma Madar,9227523876,MCRB0PV0101,Chikkodi Pavanpur Branch,R02,LAP,CBS-P,Branch,OF0107,1237622.00,665,NPA,NPA,0,4 NPA: recovery
+PUC500720,PV204371,Sushma Madar,9227523876,MCRB0PV0112,Indi Pavanpur Branch,R03,MSME,CBS-P,Branch,OF0101,707197.50,655,NPA,NPA,0,4 NPA: recovery
+PUC500722,PV214850,Irfan Gudi,9599108948,MCRB0PV0104,Nippani Pavanpur Branch,R02,PL,CBS-P,Branch,OF0110,112283.34,331,NPA,NPA,0,4 NPA: recovery
+PUC500726,PV214121,Ashok Sankeshwar,9159311730,MCRB0PV0106,Gokak Pavanpur Branch,R02,LAP,CBS-P,Branch,OF0030,2889534.25,47,SMA-1,SMA-0,3,3 Slipped to SMA-1 in October
+PUC500734,PV206072,Girish Hublikar,7167780292,MCRB0PV0107,Chikkodi Main Road (PUCB),R02,PL,CBS-P,Branch,OF0092,159441.68,119,NPA,SMA-2,3,1 Became NPA in October
+PUC500741,PV213215,Shrikant Menasinkai,7424219668,MCRB0PV0101,Chikkodi Pavanpur Branch,R02,PL,CBS-P,Branch,OF0080,80124.65,83,SMA-2,SMA-1,0,2 SMA-2: will be NPA within 30 days unless paid
+PUC500752,PV222686,Sudha Hegde,9674409321,MCRB0PV0108,Mudhol Pavanpur Branch,R03,PL,CBS-P,Branch,OF0052,677200.17,691,NPA,NPA,0,4 NPA: recovery
+PUC500777,PV214655,Roopa Naik,6945313327,MCRB0PV0107,Chikkodi Main Road (PUCB),R02,VL,CBS-P,Branch,OF0092,1140103.00,813,NPA,NPA,0,4 NPA: recovery
+PUC500792,PV208073,Roopa Belagali,8444273655,MCRB0PV0102,Bailhongal Pavanpur Branch,R02,LAP,CBS-P,Branch,OF0081,962967.81,47,SMA-1,SMA-1,0,6 SMA-1
+PUC500802,PV217184,Gururaj Kotagi,9345369940,MCRB0001009,Chikkodi Bus Stand,R02,PL,CBS-P,Branch,OF0027,120356.29,259,NPA,NPA,0,4 NPA: recovery
+PUC500807,PV212771,Shrikant Nayak,8754577320,MCRB0PV0109,Vijayapura Pavanpur Branch,R03,LAP,CBS-P,Branch,OF0095,1176181.91,47,SMA-1,SMA-1,0,6 SMA-1
+PUC500841,PV207938,Hanumant Jadhav,8987559821,MCRB0PV0102,Bailhongal Pavanpur Branch,R02,HL,CBS-P,Branch,OF0081,5369997.89,47,SMA-1,SMA-1,0,6 SMA-1
+PUC500851,PV215687,Rekha Naik,7829551495,MCRB0PV0110,Bagalkot Pavanpur Branch,R03,MSME,CBS-P,Branch,OF0116,755783.90,387,NPA,NPA,0,4 NPA: recovery
+PUC500853,PV215687,Rekha Naik,7829551495,MCRB0PV0102,Bailhongal Pavanpur Branch,R02,PL,CBS-P,Branch,OF0119,203156.64,0,NPA,NPA,0,4 NPA: recovery
+PUC500858,PV215429,Vijay Hiremath,9660212939,MCRB0PV1007,Ranebennur Pavanpur Branch,R04,LAP,CBS-P,Branch,OF0120,3350476.00,691,NPA,NPA,0,4 NPA: recovery
+PUC500860,PV215429,Vijay Hiremath,9660212939,MCRB0PV0102,Bailhongal Pavanpur Branch,R02,PL,CBS-P,Branch,OF0081,492584.46,0,NPA,NPA,0,4 NPA: recovery
+PUC500877,PV211223,Anil Gowda,9335083066,MCRB0PV0105,Belagavi Pavanpur Branch,R02,VL,CBS-P,Branch,OF0088,930611.38,540,NPA,NPA,3,4 NPA: recovery
+PUC500884,PV208391,Anand Gudi,7228734762,MCRB0PV0111,Jamkhandi Pavanpur Branch,R03,PL,CBS-P,Branch,OF0100,413679.97,88,SMA-2,SMA-2,0,2 SMA-2: will be NPA within 30 days unless paid
+PUC500897,PV219698,Nandini Bagewadi,7199274186,MCRB0PV0101,Chikkodi Pavanpur Branch,R02,PL,CBS-P,Branch,OF0080,84460.11,57,SMA-1,SMA-0,0,3 Slipped to SMA-1 in October
+PUC500922,PV213989,Rekha Yaragatti,8764859663,MCRB0PV0106,Gokak Pavanpur Branch,R02,VL,CBS-P,Branch,OF0089,588112.15,624,NPA,NPA,0,4 NPA: recovery
+PUC500923,PV216497,Manjunath Nadaf,9698858466,MCRB0PV0111,Jamkhandi Pavanpur Branch,R03,GL,CBS-P,Branch,OF0099,196797.93,119,NPA,SMA-2,0,1 Became NPA in October
+PUC500927,MC30040264,Geeta Hosamani,9311603725,MCRB0PV0105,Belagavi Pavanpur Branch,R02,PL,CBS-P,Branch,OF0088,225497.03,443,NPA,NPA,3,4 NPA: recovery
+PUC500947,MC30023905,Gururaj Lamani,9111722771,MCRB0PV1012,Savanur Pavanpur Branch,R04,GL,CBS-P,Branch,OF0121,191634.10,453,NPA,NPA,3,4 NPA: recovery
+PUC500964,PV216260,Arun Sankeshwar,9150831776,MCRB0PV0107,Chikkodi Main Road (PUCB),R02,MSME,CBS-P,Branch,OF0091,655109.25,0,NPA,NPA,0,4 NPA: recovery
+PUC500965,PV216260,Arun Sankeshwar,9150831776,MCRB0PV0109,Vijayapura Pavanpur Branch,R03,PL,CBS-P,Branch,OF0095,496758.93,839,NPA,NPA,0,4 NPA: recovery
+PUC500968,PV219956,Mohammed Badiger,9209003223,MCRB0PV0101,Chikkodi Pavanpur Branch,R02,PL,CBS-P,Branch,OF0080,652715.05,514,NPA,NPA,0,4 NPA: recovery
+PUC500999,PV205553,Ravi Kadam,7695173342,MCRB0001016,Vijayapura Gandhi Chowk,R03,PL,CBS-P,Branch,OF0048,45006.72,290,NPA,NPA,0,4 NPA: recovery
+PUC501002,PV215423,Parvati Joshi,8264259094,MCRB0PV0102,Bailhongal Pavanpur Branch,R02,PL,CBS-P,Branch,OF0081,150318.06,52,SMA-1,SMA-1,0,6 SMA-1
+PUC501006,PV201341,Mallikarjun Kotagi,9431933215,MCRB0PV0103,Athani Pavanpur Branch,R02,HL,CBS-P,Branch,OF0083,1883194.62,47,SMA-1,SMA-0,0,3 Slipped to SMA-1 in October
+PUC501014,PV222161,Kiran Pawar,7287528716,MCRB0PV0104,Nippani Pavanpur Branch,R02,PL,CBS-P,Branch,OF0086,390293.54,0,Standard,Standard,2,5 Early warning: auto-debit bounced 2+ times in 3 months
+PUC501015,PV208424,Santosh Sankeshwar,8576926647,MCRB0PV0108,Mudhol Pavanpur Branch,R03,PL,CBS-P,Branch,OF0057,566896.29,448,NPA,NPA,0,4 NPA: recovery
+PUC501043,PV207287,Savitri Lamani,9122615013,MCRB0PV0103,Athani Pavanpur Branch,R02,PL,CBS-P,Branch,OF0084,107403.14,78,SMA-2,SMA-2,0,2 SMA-2: will be NPA within 30 days unless paid
+PUC501054,PV211787,Mohammed Patil,9308072467,MCRB0PV0101,Chikkodi Pavanpur Branch,R02,HL,CBS-P,Branch,OF0080,5419548.17,0,Standard,Standard,2,5 Early warning: auto-debit bounced 2+ times in 3 months
+PUC501061,PV219164,Umesh Bagewadi,9567163130,MCRB0PV0110,Bagalkot Pavanpur Branch,R03,PL,CBS-P,Branch,OF0116,151253.80,422,NPA,NPA,3,4 NPA: recovery
+PUC501063,PV219164,Umesh Bagewadi,9567163130,MCRB0PV0105,Belagavi Pavanpur Branch,R02,VL,CBS-P,Branch,OF0088,1148410.60,417,NPA,NPA,3,4 NPA: recovery
+PUC501092,PV221327,Raghavendra Talwar,8897064943,MCRB0PV0102,Bailhongal Pavanpur Branch,R02,PL,CBS-P,Branch,OF0081,123848.18,17,SMA-0,Standard,2,5 Early warning: auto-debit bounced 2+ times in 3 months
+PUC501108,PV207140,Sharanappa Bagewadi,8558934877,MCRB0PV0105,Belagavi Pavanpur Branch,R02,VL,CBS-P,Branch,OF0087,771245.71,0,Standard,Standard,2,5 Early warning: auto-debit bounced 2+ times in 3 months
+PUC501114,PV207965,Mahadevi Angadi,7747894918,MCRB0PV0110,Bagalkot Pavanpur Branch,R03,PL,CBS-P,Branch,OF0098,7143.62,269,NPA,NPA,0,4 NPA: recovery
+PUC501134,PV208358,Raghavendra Hiremath,9263901317,MCRB0PV0109,Vijayapura Pavanpur Branch,R03,PL,CBS-P,Branch,OF0095,108159.95,236,NPA,NPA,0,4 NPA: recovery
+PUC501136,PV208358,Raghavendra Hiremath,9263901317,MCRB0PV0101,Chikkodi Pavanpur Branch,R02,PL,CBS-P,Branch,OF0107,138137.89,241,NPA,NPA,0,4 NPA: recovery
+PUC501155,PV202850,Shrikant Mulla,7722031853,MCRB0PV0105,Belagavi Pavanpur Branch,R02,GL,CBS-P,Branch,OF0088,51099.19,575,NPA,NPA,0,4 NPA: recovery
+PUC501157,PV202850,Shrikant Mulla,7722031853,MCRB0PV0108,Mudhol Pavanpur Branch,R03,HL,CBS-P,Branch,OF0093,1419156.58,0,NPA,NPA,1,4 NPA: recovery
+PUC501159,PV220001,Girish Kattimani,8924123318,MCRB0PV0104,Nippani Pavanpur Branch,R02,PL,CBS-P,Branch,OF0086,554240.44,27,SMA-0,Standard,2,5 Early warning: auto-debit bounced 2+ times in 3 months
+PUC501161,PV214760,Neha Kattimani,7558275821,MCRB0PV0112,Indi Pavanpur Branch,R03,PL,CBS-P,Branch,OF0101,223143.54,47,SMA-1,SMA-1,0,6 SMA-1
+PUC501165,PV220307,Pooja Yaragatti,8330274671,MCRB0PV0104,Nippani Pavanpur Branch,R02,GL,CBS-P,Branch,OF0110,83405.99,139,NPA,NPA,0,4 NPA: recovery
+PUC501169,PV209576,Naveen Yaragatti,8102202023,MCRB0001009,Chikkodi Bus Stand,R02,VL,CBS-P,Branch,OF0025,480971.88,47,SMA-1,SMA-1,0,6 SMA-1
+PUC501175,PV207482,Nandini Kammar,8161812195,MCRB0PV0105,Belagavi Pavanpur Branch,R02,GL,CBS-P,Branch,OF0087,179298.25,412,NPA,NPA,3,4 NPA: recovery
+PUC501184,PV214205,Mohammed Menasinkai,9866944961,MCRB0PV0107,Chikkodi Main Road (PUCB),R02,PL,CBS-P,Branch,OF0092,357018.87,83,SMA-2,SMA-1,3,2 SMA-2: will be NPA within 30 days unless paid
+PUC501202,PV204551,Vinayak Hublikar,8394855285,MCRB0PV0101,Chikkodi Pavanpur Branch,R02,VL,CBS-P,Branch,OF0080,621233.32,0,NPA,NPA,3,4 NPA: recovery
+PUC501204,PV204551,Vinayak Hublikar,8394855285,MCRB0PV0108,Mudhol Pavanpur Branch,R03,PL,CBS-P,Branch,OF0093,7442.83,264,NPA,NPA,0,4 NPA: recovery
+PUC501219,PV210260,Manjunath Sankeshwar,9893941973,MCRB0001016,Vijayapura Gandhi Chowk,R03,VL,CBS-P,Branch,OF0046,452383.54,0,Standard,Standard,3,5 Early warning: auto-debit bounced 2+ times in 3 months
+PUC501226,PV207455,Mohammed Bhat,8626648776,MCRB0PV0102,Bailhongal Pavanpur Branch,R02,GL,CBS-P,Branch,OF0081,4323.13,200,NPA,NPA,0,4 NPA: recovery
+PUC501235,PV219365,Sangeeta Kamble,8444956668,MCRB0PV0101,Chikkodi Pavanpur Branch,R02,PL,CBS-P,Branch,OF0080,710146.69,484,NPA,NPA,3,4 NPA: recovery
+PUC501249,PV203447,Mallikarjun Gowda,9146635688,MCRB0001009,Chikkodi Bus Stand,R02,HL,CBS-P,Branch,OF0091,4137705.18,47,SMA-1,SMA-1,0,6 SMA-1
+PUC501251,PV203735,Nagaraj Naik,9411946841,MCRB0PV0108,Mudhol Pavanpur Branch,R03,PL,CBS-P,Branch,OF0052,303745.27,0,Standard,SMA-0,2,5 Early warning: auto-debit bounced 2+ times in 3 months
+PUC501257,PV219290,Kiran Desai,7544296377,MCRB0PV0101,Chikkodi Pavanpur Branch,R02,PL,CBS-P,Branch,OF0079,205926.73,27,SMA-0,Standard,2,5 Early warning: auto-debit bounced 2+ times in 3 months
+PUC501259,PV211823,Gururaj Shetty,6179738473,MCRB0PV0102,Bailhongal Pavanpur Branch,R02,PL,CBS-P,Branch,OF0081,257067.93,52,SMA-1,SMA-1,0,6 SMA-1
+PUC501264,PV221792,Basavaraj Talwar,9524523152,MCRB0PV1012,Savanur Pavanpur Branch,R04,GL,CBS-P,Branch,OF0105,23893.70,78,SMA-2,SMA-1,0,2 SMA-2: will be NPA within 30 days unless paid
+PUC501273,PV207818,Hanumant Joshi,8219570632,MCRB0PV0107,Chikkodi Main Road (PUCB),R02,PL,CBS-P,Branch,OF0113,85713.40,0,Standard,Standard,3,5 Early warning: auto-debit bounced 2+ times in 3 months
+PUC501276,MC30027671,Vinayak Menasinkai,9704031526,MCRB0PV0102,Bailhongal Pavanpur Branch,R02,HL,CBS-P,Branch,OF0082,1238210.75,0,NPA,NPA,0,4 NPA: recovery
+PUC501281,MC30042539,Harish Hublikar,9985642105,MCRB0PV1007,Ranebennur Pavanpur Branch,R04,PL,CBS-P,Branch,OF0103,6066.12,236,NPA,NPA,0,4 NPA: recovery
+PUC501282,PV201860,Prashant D'Souza,8909029141,MCRB0PV0101,Chikkodi Pavanpur Branch,R02,PL,CBS-P,Branch,OF0080,519166.99,474,NPA,NPA,3,4 NPA: recovery
+PUC501294,PV212039,Pradeep Kamble,7846169346,MCRB0PV0101,Chikkodi Pavanpur Branch,R02,HL,CBS-P,Branch,OF0080,8540930.84,47,SMA-1,SMA-1,0,6 SMA-1
+PUC501317,MC30027601,Santosh Sankeshwar,9479832982,MCRB0PV0104,Nippani Pavanpur Branch,R02,MSME,CBS-P,Branch,OF0085,549167.76,52,SMA-1,SMA-1,0,6 SMA-1
+PUC501320,PV201068,Shivanand Yaragatti,9315422023,MCRB0001016,Vijayapura Gandhi Chowk,R03,PL,CBS-P,Branch,OF0045,769829.08,665,NPA,NPA,0,4 NPA: recovery
+PUC501344,PV221312,Anand Hegde,9488067586,MCRB0PV0106,Gokak Pavanpur Branch,R02,HL,CBS-P,Branch,OF0040,4586228.34,665,NPA,NPA,0,4 NPA: recovery
+PUC501346,PV221312,Anand Hegde,9488067586,MCRB0PV0112,Indi Pavanpur Branch,R03,GL,CBS-P,Branch,OF0102,4.72,0,NPA,NPA,0,4 NPA: recovery
+PUC501354,MC30001302,Anand Shaikh,8544224034,MCRB0PV0109,Vijayapura Pavanpur Branch,R03,PL,CBS-P,Branch,OF0095,289267.76,844,NPA,NPA,0,4 NPA: recovery
+PUC501358,PV203933,Harish Huded,6951322402,MCRB0PV0102,Bailhongal Pavanpur Branch,R02,HL,CBS-P,Branch,OF0081,6189685.69,361,NPA,NPA,0,4 NPA: recovery
+PUC501362,PV219554,Girish Kattimani,7425962306,MCRB0001016,Vijayapura Gandhi Chowk,R03,PL,CBS-P,Branch,OF0102,84080.49,109,NPA,SMA-2,0,1 Became NPA in October
+PUC501374,PV213467,Nagaraj Kotagi,9604689040,MCRB0PV0102,Bailhongal Pavanpur Branch,R02,PL,CBS-P,Branch,OF0081,35180.19,57,SMA-1,SMA-0,3,3 Slipped to SMA-1 in October
+PUC501375,PV213467,Nagaraj Kotagi,9604689040,MCRB0PV0108,Mudhol Pavanpur Branch,R03,VL,CBS-P,Branch,OF0102,1104456.80,52,SMA-1,SMA-0,0,3 Slipped to SMA-1 in October
+PUC501380,PV217472,Umesh Lamani,8743668172,MCRB0001016,Vijayapura Gandhi Chowk,R03,PL,CBS-P,Branch,OF0048,100041.11,170,NPA,NPA,0,4 NPA: recovery
+PUC501394,PV206222,Ashok Yaragatti,8287361068,MCRB0PV0112,Indi Pavanpur Branch,R03,GL,CBS-P,Branch,OF0102,60793.37,606,NPA,NPA,0,4 NPA: recovery
+PUC501396,MC30045710,Shrikant Fernandes,9530542114,MCRB0001009,Chikkodi Bus Stand,R02,GL,CBS-P,Branch,OF0025,17398.64,0,Standard,Standard,2,5 Early warning: auto-debit bounced 2+ times in 3 months
+PUC501426,PV220229,Gururaj Huded,9502950004,MCRB0PV0108,Mudhol Pavanpur Branch,R03,GL,CBS-P,Branch,OF0093,59036.77,535,NPA,NPA,0,4 NPA: recovery
+PUC501428,PV220229,Gururaj Huded,9502950004,MCRB0PV0108,Mudhol Pavanpur Branch,R03,PL,CBS-P,Branch,OF0101,863760.09,479,NPA,NPA,3,4 NPA: recovery
+PUC501435,PV205631,Pradeep Desai,9137880744,MCRB0PV0109,Vijayapura Pavanpur Branch,R03,MSME,CBS-P,Branch,OF0095,736961.29,52,SMA-1,SMA-1,0,6 SMA-1
+PUC501450,PV204839,Hanumant Huded,9530963512,MCRB0PV0108,Mudhol Pavanpur Branch,R03,PL,CBS-P,Branch,OF0093,32080.51,0,NPA,NPA,0,4 NPA: recovery
+PUC501451,PV204839,Hanumant Huded,9530963512,MCRB0PV0108,Mudhol Pavanpur Branch,R03,PL,CBS-P,Branch,OF0094,10844.15,180,NPA,NPA,0,4 NPA: recovery
+PUC501459,PV204881,Naveen Lamani,9933076892,MCRB0PV0111,Jamkhandi Pavanpur Branch,R03,PL,CBS-P,Branch,OF0100,204033.10,52,SMA-1,SMA-1,0,6 SMA-1
+PUC501460,PV222566,Pooja Kotagi,7750432573,MCRB0PV0104,Nippani Pavanpur Branch,R02,VL,CBS-P,Branch,OF0085,526563.84,269,NPA,NPA,3,4 NPA: recovery
+PUC501461,PV222566,Pooja Kotagi,7750432573,MCRB0PV1012,Savanur Pavanpur Branch,R04,PL,CBS-P,Branch,OF0106,586159.08,269,NPA,NPA,0,4 NPA: recovery
+PUC501475,PV204920,Kiran Shetty,8392770332,MCRB0PV0102,Bailhongal Pavanpur Branch,R02,MSME,CBS-P,Branch,OF0081,1069705.19,448,NPA,NPA,3,4 NPA: recovery
+PUC501477,PV201938,Neha Shaikh,7420302579,MCRB0PV0108,Mudhol Pavanpur Branch,R03,HL,CBS-P,Branch,OF0095,2158254.50,443,NPA,NPA,3,4 NPA: recovery
+PUC501488,PV217826,Gururaj Menasinkai,8250503332,MCRB0PV0104,Nippani Pavanpur Branch,R02,GL,CBS-P,Branch,OF0110,199813.91,47,SMA-1,SMA-1,0,6 SMA-1
+PUC501501,PV203438,Jyoti Shirol,9166544753,MCRB0001016,Vijayapura Gandhi Chowk,R03,PL,CBS-P,Branch,OF0048,237002.07,57,SMA-1,SMA-0,0,3 Slipped to SMA-1 in October
+PUC501529,PV210938,Santosh Rao,8635506318,MCRB0001009,Chikkodi Bus Stand,R02,LAP,CBS-P,Branch,OF0027,982916.28,0,Standard,Standard,2,5 Early warning: auto-debit bounced 2+ times in 3 months
+PUC501531,PV209789,Basavaraj Huded,7108512037,MCRB0PV1012,Savanur Pavanpur Branch,R04,LAP,CBS-P,Branch,OF0121,816188.54,78,SMA-2,SMA-2,0,2 SMA-2: will be NPA within 30 days unless paid
+PUC501537,PV211025,Gururaj Kadam,7386720200,MCRB0PV0112,Indi Pavanpur Branch,R03,PL,CBS-P,Branch,,258199.61,259,NPA,NPA,3,4 NPA: recovery
+PUC501538,PV211025,Gururaj Kadam,7386720200,MCRB0PV0109,Vijayapura Pavanpur Branch,R03,PL,CBS-P,Branch,OF0095,132303.56,241,NPA,NPA,0,4 NPA: recovery
+PUC501543,PV214142,Ramesh Madar,9621181375,MCRB0PV0111,Jamkhandi Pavanpur Branch,R03,GL,CBS-P,Branch,OF0099,29425.94,422,NPA,NPA,0,4 NPA: recovery
+PUC501545,PV214142,Ramesh Madar,9621181375,MCRB0PV0106,Gokak Pavanpur Branch,R02,GL,CBS-P,Branch,OF0112,48679.63,0,NPA,NPA,0,4 NPA: recovery
+PUC501546,PV204026,Nagaraj Pawar,8637596917,MCRB0PV0104,Nippani Pavanpur Branch,R02,HL,CBS-P,Branch,OF0110,1296277.65,47,SMA-1,SMA-1,0,6 SMA-1
+PUC501554,PV207770,Sachin Shaikh,7767130537,MCRB0PV0102,Bailhongal Pavanpur Branch,R02,PL,CBS-P,Branch,OF0081,30386.88,200,NPA,NPA,0,4 NPA: recovery
+PUC501556,PV220778,Basavaraj Hiremath,8966703071,MCRB0PV0106,Gokak Pavanpur Branch,R02,PL,CBS-P,Branch,OF0030,538602.85,231,NPA,NPA,3,4 NPA: recovery
+PUC501557,PV220778,Basavaraj Hiremath,8966703071,MCRB0PV0104,Nippani Pavanpur Branch,R02,PL,CBS-P,Branch,OF0086,86132.06,236,NPA,NPA,0,4 NPA: recovery
+PUC501566,PV211574,Shobha Nadaf,9652817579,MCRB0PV0107,Chikkodi Main Road (PUCB),R02,PL,CBS-P,Branch,OF0092,124278.39,88,SMA-2,SMA-1,0,2 SMA-2: will be NPA within 30 days unless paid
+PUC501581,MC30035560,Ramesh Savadi,9392874490,MCRB0PV0108,Mudhol Pavanpur Branch,R03,HL,CBS-P,Branch,OF0045,5016296.30,57,SMA-1,SMA-1,0,6 SMA-1
+PUC501601,PV216956,Hanumant Kattimani,8257376234,MCRB0PV0108,Mudhol Pavanpur Branch,R03,MSME,CBS-P,Branch,OF0048,1235833.70,300,NPA,NPA,3,4 NPA: recovery
+PUC501621,PV201278,Neha Belagali,7578586507,MCRB0PV0105,Belagavi Pavanpur Branch,R02,VL,CBS-P,Branch,OF0087,309578.76,78,SMA-2,SMA-1,3,2 SMA-2: will be NPA within 30 days unless paid
+PUC501633,PV217040,Jyoti Fernandes,8387615750,MCRB0PV0106,Gokak Pavanpur Branch,R02,PL,CBS-P,Branch,OF0089,19261.73,119,NPA,SMA-2,0,1 Became NPA in October
+PUC501634,PV200051,Ashok Hosamani,9712901168,MCRB0PV0102,Bailhongal Pavanpur Branch,R02,PL,CBS-P,Branch,OF0082,123662.07,326,NPA,NPA,3,4 NPA: recovery
+PUC501637,PV219281,Veeresh D'Souza,7727051448,MCRB0PV0112,Indi Pavanpur Branch,R03,VL,CBS-P,Branch,OF0102,358939.20,0,Standard,Standard,2,5 Early warning: auto-debit bounced 2+ times in 3 months
+PUC501640,PV200066,Suresh Gowda,8178272273,MCRB0PV0102,Bailhongal Pavanpur Branch,R02,LAP,CBS-P,Branch,OF0081,3341527.36,47,SMA-1,SMA-1,0,6 SMA-1
+PUC501647,PV220250,Vidya Angadi,9296449092,MCRB0PV0108,Mudhol Pavanpur Branch,R03,PL,CBS-P,Branch,OF0045,444453.65,170,NPA,NPA,0,4 NPA: recovery
+PUC501670,PV219836,Jyoti Mulla,8533204382,MCRB0PV1012,Savanur Pavanpur Branch,R04,PL,CBS-P,Branch,OF0106,29905.61,300,NPA,NPA,0,4 NPA: recovery
+PUC501671,PV219836,Jyoti Mulla,8533204382,MCRB0PV0108,Mudhol Pavanpur Branch,R03,HL,CBS-P,Branch,OF0093,1523433.89,0,NPA,NPA,0,4 NPA: recovery
+PUC501679,PV200234,Shobha Shetty,8793946453,MCRB0PV0101,Chikkodi Pavanpur Branch,R02,PL,CBS-P,Branch,OF0080,868560.17,691,NPA,NPA,0,4 NPA: recovery
+PUC501700,PV206327,Veeresh Kulkarni,9327388629,MCRB0PV0112,Indi Pavanpur Branch,R03,VL,CBS-P,Branch,OF0101,488125.80,57,SMA-1,SMA-0,0,3 Slipped to SMA-1 in October
+PUC501747,PV202319,Prakash Shaikh,7832501120,MCRB0PV0103,Athani Pavanpur Branch,R02,LAP,CBS-P,Branch,OF0088,3602459.28,47,SMA-1,SMA-1,0,6 SMA-1
+PUC501795,MC30048111,Kiran Jadhav,7809119859,MCRB0PV0104,Nippani Pavanpur Branch,R02,PL,CBS-P,Branch,OF0110,192617.73,78,SMA-2,SMA-1,0,2 SMA-2: will be NPA within 30 days unless paid
+PUC501801,MC30023107,Vinayak Talwar,6590563092,MCRB0PV0101,Chikkodi Pavanpur Branch,R02,VL,CBS-P,Branch,OF0079,326430.23,665,NPA,NPA,0,4 NPA: recovery
+PUC501803,PV216749,Suresh Nayak,9114766680,MCRB0PV0102,Bailhongal Pavanpur Branch,R02,PL,CBS-P,Branch,OF0081,629100.22,412,NPA,NPA,3,4 NPA: recovery
+PUC501811,PV203465,Geeta Bagewadi,8372294528,MCRB0PV0106,Gokak Pavanpur Branch,R02,LAP,CBS-P,Branch,OF0037,2149009.83,52,SMA-1,SMA-1,0,6 SMA-1
+PUC501824,PV219386,Geeta Huded,6455276456,MCRB0PV0102,Bailhongal Pavanpur Branch,R02,VL,CBS-P,Branch,OF0081,852443.61,170,NPA,NPA,0,4 NPA: recovery
+PUC501838,PV209021,Kaveri Pujari,9386682678,MCRB0PV0102,Bailhongal Pavanpur Branch,R02,LAP,CBS-P,Branch,OF0081,1827558.14,139,NPA,NPA,0,4 NPA: recovery
+PUC501841,PV206792,Pooja Nayak,9391575576,MCRB0PV0102,Bailhongal Pavanpur Branch,R02,PL,CBS-P,Branch,OF0081,73370.10,47,SMA-1,SMA-1,0,6 SMA-1
+PUC501849,PV205100,Anand Gudi,8404180298,MCRB0PV0101,Chikkodi Pavanpur Branch,R02,PL,CBS-P,Branch,OF0079,161961.49,0,Standard,Standard,3,5 Early warning: auto-debit bounced 2+ times in 3 months
+PUC501856,PV209429,Mary Kadam,8253127770,MCRB0PV0102,Bailhongal Pavanpur Branch,R02,PL,CBS-P,Branch,OF0081,460873.81,295,NPA,NPA,0,4 NPA: recovery
+PUC501879,PV205340,Mohammed Ullagaddi,8730178125,MCRB0PV0104,Nippani Pavanpur Branch,R02,PL,CBS-P,Branch,OF0086,165306.00,0,Standard,Standard,3,5 Early warning: auto-debit bounced 2+ times in 3 months
+PUC501889,PV200570,Parvati Kotagi,9145781961,MCRB0PV0108,Mudhol Pavanpur Branch,R03,HL,CBS-P,Branch,OF0097,2897984.46,17,SMA-0,SMA-0,2,5 Early warning: auto-debit bounced 2+ times in 3 months
+PUC501908,PV202664,Sharanappa Chavan,7885518096,MCRB0PV0109,Vijayapura Pavanpur Branch,R03,HL,CBS-P,Branch,OF0095,4204132.95,27,SMA-0,Standard,2,5 Early warning: auto-debit bounced 2+ times in 3 months
+PUC501912,PV222029,Sharanappa Joshi,7611303685,MCRB0PV0102,Bailhongal Pavanpur Branch,R02,VL,CBS-P,Branch,OF0081,1013458.72,17,SMA-0,SMA-0,2,5 Early warning: auto-debit bounced 2+ times in 3 months
+PUC501918,PV214325,Ashok Shirol,9676564679,MCRB0PV0109,Vijayapura Pavanpur Branch,R03,PL,CBS-P,Branch,OF0095,165447.55,757,NPA,NPA,0,4 NPA: recovery
+PUC501928,MC30028042,Rajesh Mulla,9436619120,MCRB0PV0104,Nippani Pavanpur Branch,R02,GL,CBS-P,Branch,OF0086,31334.42,149,NPA,NPA,0,4 NPA: recovery
+PUC501931,PV206411,Prakash Huded,9415253244,MCRB0PV0108,Mudhol Pavanpur Branch,R03,PL,CBS-P,Branch,OF0044,36260.38,119,NPA,SMA-2,0,1 Became NPA in October
+PUC501956,PV212186,Geeta Jadhav,9586941343,MCRB0PV0102,Bailhongal Pavanpur Branch,R02,PL,CBS-P,Branch,OF0081,55940.72,47,SMA-1,SMA-1,0,6 SMA-1
+PUC501967,MC30047551,Sudha Pawar,7338083349,MCRB0PV0108,Mudhol Pavanpur Branch,R03,PL,CBS-P,Branch,OF0094,236840.65,474,NPA,NPA,0,4 NPA: recovery
+PUC501968,PV220664,Kiran D'Souza,9666829991,MCRB0001009,Chikkodi Bus Stand,R02,LAP,CBS-P,Branch,OF0080,2877968.08,17,SMA-0,Standard,2,5 Early warning: auto-debit bounced 2+ times in 3 months
+PUC501984,PV201944,Nagaraj Gowda,9655855363,MCRB0PV0102,Bailhongal Pavanpur Branch,R02,GL,CBS-P,Branch,OF0108,10799.12,479,NPA,NPA,0,4 NPA: recovery
+PUC502014,PV208754,Parvati Fernandes,8639903024,MCRB0PV0104,Nippani Pavanpur Branch,R02,PL,CBS-P,Branch,,842320.70,387,NPA,NPA,0,4 NPA: recovery
+PUC502024,MC30010318,Parvati Kammar,6157674005,MCRB0PV0111,Jamkhandi Pavanpur Branch,R03,VL,CBS-P,Branch,OF0100,805629.35,52,SMA-1,SMA-1,0,6 SMA-1
+PUC502029,PV201023,Raghavendra Kotagi,7890220895,MCRB0PV0104,Nippani Pavanpur Branch,R02,HL,CBS-P,Branch,OF0086,2870811.20,57,SMA-1,SMA-1,0,6 SMA-1
+PUC502044,PV206822,Vidya Mulla,9527989082,MCRB0PV0102,Bailhongal Pavanpur Branch,R02,PL,CBS-P,Branch,OF0119,13056.10,175,NPA,NPA,0,4 NPA: recovery
+PUC502055,PV221003,Umesh Kammar,9281115555,MCRB0PV0101,Chikkodi Pavanpur Branch,R02,PL,CBS-P,Branch,OF0080,216305.04,474,NPA,NPA,0,4 NPA: recovery
+PUC502065,PV203330,Mahesh Hiremath,9533630278,MCRB0PV0102,Bailhongal Pavanpur Branch,R02,HL,CBS-P,Branch,OF0082,1285270.36,422,NPA,NPA,3,4 NPA: recovery
+PUC502067,PV203330,Mahesh Hiremath,9533630278,MCRB0PV1012,Savanur Pavanpur Branch,R04,HL,CBS-P,Branch,OF0106,2112037.60,422,NPA,NPA,3,4 NPA: recovery
+PUC502073,PV201989,Shrikant Hegde,8868100985,MCRB0PV0106,Gokak Pavanpur Branch,R02,PL,CBS-P,Branch,OF0089,90454.87,57,SMA-1,SMA-1,0,6 SMA-1
+PUC502081,PV205235,Harish Belagali,7864542333,MCRB0PV0102,Bailhongal Pavanpur Branch,R02,VL,CBS-P,Branch,OF0119,349879.68,17,SMA-0,Standard,3,5 Early warning: auto-debit bounced 2+ times in 3 months
+PUC502112,PV208058,Prashant Mulla,6187322319,MCRB0PV0102,Bailhongal Pavanpur Branch,R02,LAP,CBS-P,Branch,OF0081,1936474.44,47,SMA-1,SMA-0,0,3 Slipped to SMA-1 in October
+PUC502117,PV200831,Bharati Hosamani,8289019289,MCRB0PV0110,Bagalkot Pavanpur Branch,R03,VL,CBS-P,Branch,OF0097,452067.26,144,NPA,NPA,3,4 NPA: recovery
+PUC502118,PV205616,Harish Shirol,9267899618,MCRB0PV0101,Chikkodi Pavanpur Branch,R02,GL,CBS-P,Branch,OF0107,5330.88,205,NPA,NPA,0,4 NPA: recovery
+PUC502124,PV209693,Harish Biradar,7469855209,MCRB0PV0112,Indi Pavanpur Branch,R03,HL,CBS-P,Branch,OF0101,4216953.03,47,SMA-1,SMA-0,0,3 Slipped to SMA-1 in October
+PUC502137,PV212888,Arun Biradar,8137515080,MCRB0PV0102,Bailhongal Pavanpur Branch,R02,HL,CBS-P,Branch,OF0081,3918083.86,52,SMA-1,SMA-1,0,6 SMA-1
+PUC502154,PV203183,Santosh Savadi,6569217909,MCRB0PV1012,Savanur Pavanpur Branch,R04,HL,CBS-P,Branch,OF0105,2985483.23,57,SMA-1,SMA-1,0,6 SMA-1
+PUC502161,PV219161,Mallikarjun Bagewadi,7515699422,MCRB0PV0105,Belagavi Pavanpur Branch,R02,HL,CBS-P,Branch,OF0088,6186331.09,47,SMA-1,SMA-1,0,6 SMA-1
+PUC502163,PV201827,Shrikant D'Souza,8895207725,MCRB0PV0102,Bailhongal Pavanpur Branch,R02,VL,CBS-P,Branch,OF0081,182572.30,0,NPA,NPA,1,4 NPA: recovery
+PUC502164,PV201827,Shrikant D'Souza,8895207725,MCRB0PV0104,Nippani Pavanpur Branch,R02,PL,CBS-P,Branch,OF0086,85107.79,565,NPA,NPA,0,4 NPA: recovery
+PUC502173,PV210959,Neha Talwar,9414798839,MCRB0PV0106,Gokak Pavanpur Branch,R02,VL,CBS-P,Branch,OF0037,947113.00,52,SMA-1,SMA-1,0,6 SMA-1
+PUC502187,MC30051408,Ashok Gudi,9571048342,MCRB0PV0108,Mudhol Pavanpur Branch,R03,GL,CBS-P,Branch,OF0101,54198.89,83,SMA-2,SMA-1,0,2 SMA-2: will be NPA within 30 days unless paid
+PUC502204,PV206447,Lakshmi Kammar,9758497031,MCRB0PV1012,Savanur Pavanpur Branch,R04,PL,CBS-P,Branch,OF0106,909247.46,479,NPA,NPA,0,4 NPA: recovery
+PUC502205,PV207065,Ashok Savadi,8662303702,MCRB0PV0105,Belagavi Pavanpur Branch,R02,GL,CBS-P,Branch,OF0087,12220.29,331,NPA,NPA,0,4 NPA: recovery
+PUC502221,PV218120,Ashok Joshi,8505214344,MCRB0PV0101,Chikkodi Pavanpur Branch,R02,PL,CBS-P,Branch,OF0080,188147.41,47,SMA-1,SMA-1,0,6 SMA-1
+PUC502225,PV220658,Mohammed Kulkarni,9423738019,MCRB0PV0108,Mudhol Pavanpur Branch,R03,VL,CBS-P,Branch,OF0122,479899.14,504,NPA,NPA,0,4 NPA: recovery
+PUC502229,PV201320,Shrikant Hegde,9512083841,MCRB0PV0108,Mudhol Pavanpur Branch,R03,VL,CBS-P,Branch,OF0050,1141381.30,57,SMA-1,SMA-1,0,6 SMA-1
+PUC502258,PV208790,Mahesh Gowda,7835487981,MCRB0PV0109,Vijayapura Pavanpur Branch,R03,GL,CBS-P,Branch,OF0115,80062.70,601,NPA,NPA,0,4 NPA: recovery
+PUC502259,PV208790,Mahesh Gowda,7835487981,MCRB0001016,Vijayapura Gandhi Chowk,R03,PL,CBS-P,Branch,OF0047,167038.21,535,NPA,NPA,0,4 NPA: recovery
+PUC502303,PV217418,Savitri Jadhav,7671993807,MCRB0001016,Vijayapura Gandhi Chowk,R03,HL,CBS-P,Branch,OF0052,5376241.94,0,Standard,Standard,2,5 Early warning: auto-debit bounced 2+ times in 3 months
+PUC502345,PV212225,Sunil Mathad,9554402445,MCRB0PV1007,Ranebennur Pavanpur Branch,R04,MSME,CBS-P,Branch,OF0064,2168151.16,818,NPA,NPA,3,4 NPA: recovery
+PUC502368,PV214889,Hanumant Rao,8379935399,MCRB0PV0103,Athani Pavanpur Branch,R02,PL,CBS-P,Branch,OF0083,170071.06,0,NPA,NPA,0,4 NPA: recovery
+PUC502369,PV214889,Hanumant Rao,8379935399,MCRB0PV0107,Chikkodi Main Road (PUCB),R02,PL,CBS-P,Branch,OF0091,322880.12,509,NPA,NPA,0,4 NPA: recovery
+PUC502370,PV203027,Sharanappa Fernandes,8599687343,MCRB0PV0102,Bailhongal Pavanpur Branch,R02,PL,CBS-P,Branch,OF0081,9975.88,27,SMA-0,Standard,2,5 Early warning: auto-debit bounced 2+ times in 3 months
+PUC502389,PV222668,Pooja Nadaf,8800772212,MCRB0PV0106,Gokak Pavanpur Branch,R02,VL,CBS-P,Branch,OF0092,1085787.71,448,NPA,NPA,3,4 NPA: recovery
+PUC502393,PV221408,Umesh Hiremath,7751903072,MCRB0PV0101,Chikkodi Pavanpur Branch,R02,VL,CBS-P,Branch,OF0079,390593.60,0,NPA,NPA,0,4 NPA: recovery
+PUC502395,PV221408,Umesh Hiremath,7751903072,MCRB0PV0105,Belagavi Pavanpur Branch,R02,MSME,CBS-P,Branch,OF0111,917622.83,259,NPA,NPA,0,4 NPA: recovery
+PUC502431,PV222683,Prakash Shaikh,8468530317,MCRB0PV0106,Gokak Pavanpur Branch,R02,PL,CBS-P,Branch,OF0088,763562.62,295,NPA,NPA,3,4 NPA: recovery
+PUC502433,PV222683,Prakash Shaikh,8468530317,MCRB0001009,Chikkodi Bus Stand,R02,HL,CBS-P,Branch,OF0027,3142262.42,0,NPA,NPA,0,4 NPA: recovery
+PUC502458,PV219998,Irfan D'Souza,9418195108,MCRB0001016,Vijayapura Gandhi Chowk,R03,GL,CBS-P,Branch,OF0048,26652.62,109,NPA,SMA-2,0,1 Became NPA in October
+PUC502472,PV211196,Renuka Kulkarni,7257841755,MCRB0001016,Vijayapura Gandhi Chowk,R03,VL,CBS-P,Branch,OF0048,437343.13,241,NPA,NPA,0,4 NPA: recovery
+PUC502491,PV215933,Channabasappa Shaikh,9545468586,MCRB0PV0107,Chikkodi Main Road (PUCB),R02,PL,CBS-P,Branch,OF0091,823563.71,787,NPA,NPA,0,4 NPA: recovery
+PUC502504,PV216878,Kaveri Rao,9772135164,MCRB0PV0104,Nippani Pavanpur Branch,R02,PL,CBS-P,Branch,OF0086,702124.62,78,SMA-2,SMA-1,3,2 SMA-2: will be NPA within 30 days unless paid
+PUC502511,PV219959,Asha Bagewadi,9577625014,MCRB0PV1007,Ranebennur Pavanpur Branch,R04,GL,CBS-P,Branch,OF0104,33177.27,149,NPA,NPA,0,4 NPA: recovery
+PUC502515,MC30012852,Jyoti Kadam,8143407738,MCRB0PV0111,Jamkhandi Pavanpur Branch,R03,VL,CBS-P,Branch,OF0117,453021.98,601,NPA,NPA,3,4 NPA: recovery
+PUC502521,PV217565,Joseph Lamani,6277123654,MCRB0PV0102,Bailhongal Pavanpur Branch,R02,PL,CBS-P,Branch,OF0081,112867.89,22,SMA-0,Standard,3,5 Early warning: auto-debit bounced 2+ times in 3 months
+PUC502580,PV200765,Siddappa Hublikar,6637996673,MCRB0PV0101,Chikkodi Pavanpur Branch,R02,PL,CBS-P,Branch,,522291.17,88,SMA-2,SMA-1,3,2 SMA-2: will be NPA within 30 days unless paid
+PUC502582,PV200765,Siddappa Hublikar,6637996673,MCRB0PV0111,Jamkhandi Pavanpur Branch,R03,LAP,CBS-P,Branch,OF0099,1943397.03,78,SMA-2,SMA-1,0,2 SMA-2: will be NPA within 30 days unless paid
+PUC502585,PV203651,Vidya Nadaf,8357246942,MCRB0PV0102,Bailhongal Pavanpur Branch,R02,VL,CBS-P,Branch,OF0081,885017.23,0,Standard,Standard,2,5 Early warning: auto-debit bounced 2+ times in 3 months
+PUC502590,PV215576,Hanumant Shetty,7593090359,MCRB0PV0109,Vijayapura Pavanpur Branch,R03,VL,CBS-P,Branch,OF0115,593058.73,295,NPA,NPA,0,4 NPA: recovery
+PUC502600,PV208874,Mallikarjun Mathad,9688616051,MCRB0PV0106,Gokak Pavanpur Branch,R02,MSME,CBS-P,Branch,OF0081,2720797.87,351,NPA,NPA,0,4 NPA: recovery
+PUC502606,PV208751,Vijay Hublikar,9202261280,MCRB0PV0102,Bailhongal Pavanpur Branch,R02,PL,CBS-P,Branch,OF0081,308729.04,0,Standard,SMA-0,3,5 Early warning: auto-debit bounced 2+ times in 3 months
+PUC502607,PV215942,Asha Bhat,7291436521,MCRB0PV0108,Mudhol Pavanpur Branch,R03,GL,CBS-P,Branch,OF0094,23169.55,535,NPA,NPA,0,4 NPA: recovery
+PUC502622,MC30023569,Hanumant Gudi,9796140166,MCRB0PV0102,Bailhongal Pavanpur Branch,R02,PL,CBS-P,Branch,OF0081,163026.80,777,NPA,NPA,0,4 NPA: recovery
+PUC502624,MC30017689,Mallikarjun Lamani,9270654673,MCRB0001016,Vijayapura Gandhi Chowk,R03,PL,CBS-P,Branch,OF0048,179972.83,0,NPA,NPA,0,4 NPA: recovery
+PUC502628,MC30041118,Harish Madar,7628763111,MCRB0PV0106,Gokak Pavanpur Branch,R02,PL,CBS-P,Branch,OF0112,14112.39,52,SMA-1,SMA-0,0,3 Slipped to SMA-1 in October
+PUC502642,MC30027244,Mohammed Yaragatti,8825959697,MCRB0PV0105,Belagavi Pavanpur Branch,R02,VL,CBS-P,Branch,OF0087,776192.02,479,NPA,NPA,3,4 NPA: recovery
+PUC502645,MC30034517,Kaveri Belagali,8726363459,MCRB0PV0104,Nippani Pavanpur Branch,R02,PL,CBS-P,Branch,OF0086,360541.27,175,NPA,NPA,0,4 NPA: recovery
+PUC502663,MC30014252,Pradeep Talwar,6272122007,MCRB0PV0102,Bailhongal Pavanpur Branch,R02,GL,CBS-P,Branch,OF0081,44764.44,300,NPA,NPA,0,4 NPA: recovery
+PUC502664,MC30016856,Shivanand Shaikh,8143110738,MCRB0PV0102,Bailhongal Pavanpur Branch,R02,PL,CBS-P,Branch,OF0119,91901.64,417,NPA,NPA,3,4 NPA: recovery
+PUC502669,MC30034832,Irfan Mulla,9715925643,MCRB0PV0101,Chikkodi Pavanpur Branch,R02,PL,CBS-P,Branch,OF0079,201423.76,236,NPA,NPA,3,4 NPA: recovery
+PUC502671,PV206579,Sunil Ullagaddi,6569061929,MCRB0PV0101,Chikkodi Pavanpur Branch,R02,VL,CBS-P,Branch,OF0080,545454.08,387,NPA,NPA,3,4 NPA: recovery
+PUC502679,PV203159,Savitri Mathad,8496429714,MCRB0PV1012,Savanur Pavanpur Branch,R04,HL,CBS-P,Branch,OF0121,1828366.81,392,NPA,NPA,0,4 NPA: recovery
+PUC502685,PV220187,Channabasappa Kadam,8687412878,MCRB0PV0101,Chikkodi Pavanpur Branch,R02,VL,CBS-P,Branch,OF0079,96836.30,57,SMA-1,SMA-1,0,6 SMA-1
+PUC502693,MC30002261,Anil Shaikh,6966241818,MCRB0PV0111,Jamkhandi Pavanpur Branch,R03,HL,CBS-P,Branch,OF0100,3962186.60,47,SMA-1,SMA-0,0,3 Slipped to SMA-1 in October
+PUC502694,PV215672,Mary Pujari,7474188786,MCRB0PV0101,Chikkodi Pavanpur Branch,R02,MSME,CBS-P,Branch,OF0079,620261.32,22,SMA-0,SMA-0,2,5 Early warning: auto-debit bounced 2+ times in 3 months
+PUC502698,PV212759,Ashok Savadi,8442274094,MCRB0PV0102,Bailhongal Pavanpur Branch,R02,HL,CBS-P,Branch,OF0081,2916438.16,57,SMA-1,SMA-1,0,6 SMA-1
+PUC502714,PV210902,Rajesh Jadhav,8725298171,MCRB0PV0109,Vijayapura Pavanpur Branch,R03,GL,CBS-P,Branch,OF0095,284277.92,47,SMA-1,SMA-1,0,6 SMA-1
+PUC502717,PV216551,Anand Shetty,9238661268,MCRB0001009,Chikkodi Bus Stand,R02,PL,CBS-P,Branch,OF0026,6655.09,236,NPA,NPA,0,4 NPA: recovery
+PUC502720,PV211664,Naveen Kulkarni,9463530734,MCRB0PV0101,Chikkodi Pavanpur Branch,R02,GL,CBS-P,Branch,OF0080,44611.05,570,NPA,NPA,0,4 NPA: recovery
+PUC502722,PV212342,Harish Nadaf,8473651705,MCRB0PV0101,Chikkodi Pavanpur Branch,R02,HL,CBS-P,Branch,OF0080,2812427.13,57,SMA-1,SMA-1,0,6 SMA-1
+PUC502725,PV206033,Shrikant Kadam,8846441431,MCRB0001016,Vijayapura Gandhi Chowk,R03,VL,CBS-P,Branch,OF0047,281780.22,52,SMA-1,SMA-1,0,6 SMA-1
+PUC502731,PV201701,Naveen Rao,8936979773,MCRB0PV0105,Belagavi Pavanpur Branch,R02,VL,CBS-P,Branch,OF0111,218457.24,47,SMA-1,SMA-0,0,3 Slipped to SMA-1 in October
+PUC502734,MC30009310,Prakash Gowda,9620791372,MCRB0001009,Chikkodi Bus Stand,R02,PL,CBS-P,Branch,OF0027,170114.07,0,Standard,Standard,3,5 Early warning: auto-debit bounced 2+ times in 3 months
+PUC502736,MC30043862,Prashant Nayak,9654334194,MCRB0PV0104,Nippani Pavanpur Branch,R02,PL,CBS-P,Branch,OF0085,31682.99,382,NPA,NPA,0,4 NPA: recovery
+PUC502760,PV205667,Umesh Pawar,7493388850,MCRB0PV0109,Vijayapura Pavanpur Branch,R03,MSME,CBS-P,Branch,OF0095,2301294.18,200,NPA,NPA,3,4 NPA: recovery
+PUC502762,PV205613,Roopa Rao,9975601437,MCRB0PV0103,Athani Pavanpur Branch,R02,PL,CBS-P,Branch,OF0083,161940.97,777,NPA,NPA,3,4 NPA: recovery
+PUC502770,PV211769,Priya Menasinkai,9831660411,MCRB0PV0104,Nippani Pavanpur Branch,R02,PL,CBS-P,Branch,OF0110,146802.50,78,SMA-2,SMA-1,0,2 SMA-2: will be NPA within 30 days unless paid
+PUC502787,PV222281,Pradeep Kulkarni,9511188042,MCRB0PV0103,Athani Pavanpur Branch,R02,GL,CBS-P,Branch,OF0084,22908.89,175,NPA,NPA,0,4 NPA: recovery
+PUC502791,PV210233,Anand Madar,6230434948,MCRB0001009,Chikkodi Bus Stand,R02,VL,CBS-P,Branch,OF0025,412781.36,300,NPA,NPA,0,4 NPA: recovery
+PUC502805,PV208160,Parvati Huded,7868117092,MCRB0PV1007,Ranebennur Pavanpur Branch,R04,PL,CBS-P,Branch,OF0120,182683.98,448,NPA,NPA,0,4 NPA: recovery
+PUC502810,PV222020,Bharati Sankeshwar,7374654873,MCRB0PV0101,Chikkodi Pavanpur Branch,R02,PL,CBS-P,Branch,OF0107,108671.80,443,NPA,NPA,0,4 NPA: recovery
+PUC502818,PV211838,Sharanappa Joshi,8340557993,MCRB0PV0104,Nippani Pavanpur Branch,R02,PL,CBS-P,Branch,OF0086,678628.98,629,NPA,NPA,0,4 NPA: recovery
+PUC502821,MC30043183,Roopa Gowda,9351262591,MCRB0PV1007,Ranebennur Pavanpur Branch,R04,PL,CBS-P,Branch,OF0106,128487.02,119,NPA,SMA-2,3,1 Became NPA in October
+PUC502823,PV209381,Sharanappa Joshi,8663858911,MCRB0PV0103,Athani Pavanpur Branch,R02,PL,CBS-P,Branch,OF0037,345976.03,629,NPA,NPA,0,4 NPA: recovery
+PUC502825,MC30047845,Sachin D'Souza,8667686974,MCRB0PV0102,Bailhongal Pavanpur Branch,R02,VL,CBS-P,Branch,OF0108,545683.33,109,NPA,SMA-2,3,1 Became NPA in October
+PUC502846,PV208019,Sachin Fernandes,9482548333,MCRB0PV0101,Chikkodi Pavanpur Branch,R02,PL,CBS-P,Branch,OF0080,239191.22,264,NPA,NPA,0,4 NPA: recovery
+PUC502849,PV210950,Renuka Badiger,6572705290,MCRB0PV0103,Athani Pavanpur Branch,R02,PL,CBS-P,Branch,OF0081,344045.59,0,Standard,Standard,2,5 Early warning: auto-debit bounced 2+ times in 3 months
+PUC502856,MC30026271,Arun Kadam,6359789111,MCRB0PV0112,Indi Pavanpur Branch,R03,PL,CBS-P,Branch,OF0101,829884.98,170,NPA,NPA,0,4 NPA: recovery
+PUC502858,MC30051107,Mary Belagali,7841737337,MCRB0PV0103,Athani Pavanpur Branch,R02,GL,CBS-P,Branch,OF0032,176275.55,0,Standard,Standard,2,5 Early warning: auto-debit bounced 2+ times in 3 months
+PUC502882,PV207176,Shabana Pujari,9467107797,MCRB0PV1007,Ranebennur Pavanpur Branch,R04,LAP,CBS-P,Branch,OF0072,3925417.56,47,SMA-1,SMA-1,2,5 Early warning: auto-debit bounced 2+ times in 3 months
+PUC502886,PV217937,Kaveri Desai,9495421555,MCRB0PV0105,Belagavi Pavanpur Branch,R02,MSME,CBS-P,Branch,OF0088,1043787.78,782,NPA,NPA,0,4 NPA: recovery
+PUC502916,PV212417,Mallikarjun Patil,6368800310,MCRB0PV0107,Chikkodi Main Road (PUCB),R02,GL,CBS-P,Branch,OF0092,16224.53,575,NPA,NPA,0,4 NPA: recovery
+PUC502947,PV222839,Shivanand Shaikh,7438725342,MCRB0PV0102,Bailhongal Pavanpur Branch,R02,HL,CBS-P,Branch,OF0081,4036282.17,52,SMA-1,SMA-0,0,3 Slipped to SMA-1 in October
+PUC502949,PV210377,Ayesha Bhat,9152722200,MCRB0PV0104,Nippani Pavanpur Branch,R02,PL,CBS-P,Branch,OF0086,546051.99,295,NPA,NPA,3,4 NPA: recovery
+PUC502951,PV217583,Vinayak Shaikh,6883018350,MCRB0PV1007,Ranebennur Pavanpur Branch,R04,PL,CBS-P,Branch,OF0062,331742.03,514,NPA,NPA,3,4 NPA: recovery
+PUC502953,PV202211,Usha Savadi,9723288816,MCRB0PV0102,Bailhongal Pavanpur Branch,R02,PL,CBS-P,Branch,OF0081,376830.67,83,SMA-2,SMA-2,0,2 SMA-2: will be NPA within 30 days unless paid
+PUC502957,MC30002345,Shabana Kulkarni,9655207194,MCRB0PV0108,Mudhol Pavanpur Branch,R03,PL,CBS-P,Branch,OF0100,543726.98,0,NPA,NPA,0,4 NPA: recovery
+PUC502963,PV215762,Suresh Talwar,9190436093,MCRB0PV1012,Savanur Pavanpur Branch,R04,PL,CBS-P,Branch,OF0105,189005.59,57,SMA-1,SMA-0,2,3 Slipped to SMA-1 in October
+PUC502979,MC30019194,Rajesh Angadi,8625372268,MCRB0PV0101,Chikkodi Pavanpur Branch,R02,GL,CBS-P,Branch,OF0107,31729.04,412,NPA,NPA,0,4 NPA: recovery
+PUC502986,MC30043281,Deepak Menasinkai,9879277767,MCRB0PV1007,Ranebennur Pavanpur Branch,R04,VL,CBS-P,Branch,OF0106,1039087.92,52,SMA-1,SMA-1,0,6 SMA-1
+PUC503006,PV204443,Siddappa Bhat,6603110619,MCRB0PV0104,Nippani Pavanpur Branch,R02,PL,CBS-P,Branch,OF0086,791656.14,479,NPA,NPA,3,4 NPA: recovery
+PUC503022,PV212288,Vidya Chavan,9356293101,MCRB0001016,Vijayapura Gandhi Chowk,R03,PL,CBS-P,Branch,OF0046,97151.67,139,NPA,NPA,0,4 NPA: recovery
+PUC503038,PV221972,Kaveri Jadhav,9846248319,MCRB0PV0101,Chikkodi Pavanpur Branch,R02,PL,CBS-P,Branch,OF0080,302630.14,114,NPA,SMA-2,0,1 Became NPA in October
+PUC503088,PV222323,Mahesh Mulla,9298089321,MCRB0PV0102,Bailhongal Pavanpur Branch,R02,PL,CBS-P,Branch,OF0081,205538.44,175,NPA,NPA,0,4 NPA: recovery
+PUC503103,PV220613,Sushma Pawar,8432876046,MCRB0PV0108,Mudhol Pavanpur Branch,R03,MSME,CBS-P,Branch,OF0051,1431812.98,170,NPA,NPA,0,4 NPA: recovery
+PUC503105,MC30010528,Shilpa Patil,7934057104,MCRB0PV0109,Vijayapura Pavanpur Branch,R03,PL,CBS-P,Branch,OF0095,376921.17,0,NPA,NPA,3,4 NPA: recovery
+PUC503115,MC30034125,Raghavendra Kulkarni,8215584983,MCRB0001009,Chikkodi Bus Stand,R02,GL,CBS-P,Branch,OF0027,67053.78,787,NPA,NPA,0,4 NPA: recovery
+PUC503119,PV213497,Shivanand Kattimani,6555410774,MCRB0PV0101,Chikkodi Pavanpur Branch,R02,PL,CBS-P,Branch,OF0107,108185.98,27,SMA-0,Standard,3,5 Early warning: auto-debit bounced 2+ times in 3 months
+PUC503178,PV209075,Savitri Pujari,8642267806,MCRB0PV0103,Athani Pavanpur Branch,R02,LAP,CBS-P,Branch,OF0037,3319820.48,0,Standard,SMA-0,3,5 Early warning: auto-debit bounced 2+ times in 3 months
+PUC503185,PV208949,Shivanand Lamani,8292328413,MCRB0001009,Chikkodi Bus Stand,R02,MSME,CBS-P,Branch,OF0026,697053.27,300,NPA,NPA,0,4 NPA: recovery
+PUC503191,PV218999,Raghavendra Kotagi,9286778288,MCRB0PV0106,Gokak Pavanpur Branch,R02,GL,CBS-P,Branch,OF0090,5308.16,634,NPA,NPA,0,4 NPA: recovery
+PUC503213,PV210437,Raghavendra Hegde,9816374588,MCRB0PV0102,Bailhongal Pavanpur Branch,R02,MSME,CBS-P,Branch,OF0081,3360146.38,83,SMA-2,SMA-1,0,2 SMA-2: will be NPA within 30 days unless paid
+PUC503215,PV210437,Raghavendra Hegde,9816374588,MCRB0PV0109,Vijayapura Pavanpur Branch,R03,PL,CBS-P,Branch,OF0115,148527.59,78,SMA-2,SMA-1,0,2 SMA-2: will be NPA within 30 days unless paid
+PUC503217,PV206987,Mahadevi Nayak,9599767734,MCRB0PV0102,Bailhongal Pavanpur Branch,R02,PL,CBS-P,Branch,OF0081,352203.85,0,Standard,SMA-0,2,5 Early warning: auto-debit bounced 2+ times in 3 months
+PUC503248,PV212165,Santosh Ullagaddi,8539405139,MCRB0PV0107,Chikkodi Main Road (PUCB),R02,PL,CBS-P,Branch,OF0113,120009.54,114,NPA,SMA-2,3,1 Became NPA in October
+PUC503260,PV221648,Vijay Yaragatti,8832961287,MCRB0PV0110,Bagalkot Pavanpur Branch,R03,VL,CBS-P,Branch,OF0045,1141529.73,52,SMA-1,SMA-1,0,6 SMA-1
+PUC503261,MC30018459,Suresh Nadaf,8887601406,MCRB0PV0102,Bailhongal Pavanpur Branch,R02,HL,CBS-P,Branch,OF0081,2599614.64,47,SMA-1,SMA-1,0,6 SMA-1
+PUC503271,PV214799,Roopa Bagewadi,8710929522,MCRB0PV0105,Belagavi Pavanpur Branch,R02,HL,CBS-P,Branch,OF0088,3563267.08,27,SMA-0,SMA-0,2,5 Early warning: auto-debit bounced 2+ times in 3 months
+PUC503283,PV217106,Shilpa Mathad,8500394879,MCRB0PV0102,Bailhongal Pavanpur Branch,R02,PL,CBS-P,Branch,OF0081,381683.47,231,NPA,NPA,3,4 NPA: recovery
+PUC503288,MC30020118,Sunita Mulla,9625517409,MCRB0PV0102,Bailhongal Pavanpur Branch,R02,PL,CBS-P,Branch,OF0081,936112.04,484,NPA,NPA,0,4 NPA: recovery
+PUC503327,PV210329,Basavaraj Angadi,8126998093,MCRB0PV0101,Chikkodi Pavanpur Branch,R02,PL,CBS-P,Branch,OF0080,1036187.96,504,NPA,NPA,3,4 NPA: recovery
+PUC503340,PV217616,Ashok Shetty,6513470232,MCRB0PV0102,Bailhongal Pavanpur Branch,R02,PL,CBS-P,Branch,OF0081,290892.93,655,NPA,NPA,0,4 NPA: recovery
+PUC503349,PV218873,Joseph Kamble,9835733175,MCRB0PV0109,Vijayapura Pavanpur Branch,R03,LAP,CBS-P,Branch,OF0095,1592388.33,504,NPA,NPA,0,4 NPA: recovery
+PUC503361,PV203948,Sharanappa Nadaf,8712429351,MCRB0PV0103,Athani Pavanpur Branch,R02,MSME,CBS-P,Branch,OF0084,158091.15,47,SMA-1,SMA-1,0,6 SMA-1
+PUC503365,PV207101,Lakshmi Mathad,7650151029,MCRB0PV0101,Chikkodi Pavanpur Branch,R02,PL,CBS-P,Branch,OF0079,309206.14,545,NPA,NPA,3,4 NPA: recovery
+PUC503367,MC30018193,Vijay Jadhav,8470732789,MCRB0PV0101,Chikkodi Pavanpur Branch,R02,MSME,CBS-P,Branch,OF0079,801749.25,443,NPA,NPA,0,4 NPA: recovery
+PUC503370,PV209810,Shrikant Yaragatti,8675166426,MCRB0PV0105,Belagavi Pavanpur Branch,R02,GL,CBS-P,Branch,OF0111,6119.39,606,NPA,NPA,0,4 NPA: recovery
+PUC503374,PV219503,Mahesh Joshi,8134029547,MCRB0PV0103,Athani Pavanpur Branch,R02,PL,CBS-P,Branch,OF0037,387447.25,144,NPA,NPA,0,4 NPA: recovery
+PUC503378,MC30013111,Ashok Savadi,7403073501,MCRB0PV0101,Chikkodi Pavanpur Branch,R02,VL,CBS-P,Branch,OF0080,269747.66,57,SMA-1,SMA-1,0,6 SMA-1
+PUC503379,PV213668,Bharati Kadam,8627463793,MCRB0PV0110,Bagalkot Pavanpur Branch,R03,HL,CBS-P,Branch,OF0098,2102098.78,17,SMA-0,Standard,3,5 Early warning: auto-debit bounced 2+ times in 3 months
+PUC503380,PV201773,Raghavendra Patil,8670170096,MCRB0PV0110,Bagalkot Pavanpur Branch,R03,GL,CBS-P,Branch,OF0097,40526.80,236,NPA,NPA,0,4 NPA: recovery
+PUC503390,MC30006125,Imran Kammar,9147979646,MCRB0PV0106,Gokak Pavanpur Branch,R02,HL,CBS-P,Branch,OF0112,2165651.74,47,SMA-1,SMA-0,0,3 Slipped to SMA-1 in October
+PUC503397,PV208493,Sunita Belagali,8753341221,MCRB0PV0101,Chikkodi Pavanpur Branch,R02,MSME,CBS-P,Branch,OF0080,2648253.65,545,NPA,NPA,3,4 NPA: recovery
+PUC503404,PV222371,Prashant Shetty,8803190204,MCRB0PV0101,Chikkodi Pavanpur Branch,R02,GL,CBS-P,Branch,OF0107,12782.39,88,SMA-2,SMA-1,0,2 SMA-2: will be NPA within 30 days unless paid
+PUC503417,PV219527,Naveen Kadam,7348343690,MCRB0001016,Vijayapura Gandhi Chowk,R03,PL,CBS-P,Branch,OF0052,161897.13,0,NPA,NPA,0,4 NPA: recovery
+PUC503418,PV219527,Naveen Kadam,7348343690,MCRB0PV0103,Athani Pavanpur Branch,R02,PL,CBS-P,Branch,OF0086,623038.07,535,NPA,NPA,0,4 NPA: recovery
+PUC503419,PV200138,Basavaraj Talwar,8912185351,MCRB0PV0102,Bailhongal Pavanpur Branch,R02,PL,CBS-P,Branch,OF0119,171229.34,0,Standard,Standard,2,5 Early warning: auto-debit bounced 2+ times in 3 months
+PUC503447,PV215204,Channabasappa Talwar,8786168979,MCRB0PV0108,Mudhol Pavanpur Branch,R03,GL,CBS-P,Branch,OF0114,14466.72,0,Standard,Standard,2,5 Early warning: auto-debit bounced 2+ times in 3 months
+PUC503451,PV201917,Sangeeta Lamani,9807410732,MCRB0PV0102,Bailhongal Pavanpur Branch,R02,HL,CBS-P,Branch,OF0081,2388940.60,47,SMA-1,SMA-1,0,6 SMA-1
+PUC503459,PV216341,Sachin Bhat,8280965225,MCRB0PV0102,Bailhongal Pavanpur Branch,R02,MSME,CBS-P,Branch,OF0081,1547062.90,88,SMA-2,SMA-1,3,2 SMA-2: will be NPA within 30 days unless paid
+PUC503471,MC30021994,Santosh Biradar,7692170980,MCRB0PV0111,Jamkhandi Pavanpur Branch,R03,PL,CBS-P,Branch,OF0099,342142.10,144,NPA,NPA,0,4 NPA: recovery
+PUC503479,PV200072,Manjunath Kulkarni,9775750963,MCRB0PV0105,Belagavi Pavanpur Branch,R02,PL,CBS-P,Branch,OF0088,16965.03,269,NPA,NPA,0,4 NPA: recovery
+PUC503497,MC30014686,Harish Sankeshwar,7740481996,MCRB0PV0102,Bailhongal Pavanpur Branch,R02,GL,CBS-P,Branch,OF0081,9253.45,205,NPA,NPA,0,4 NPA: recovery
+PUC503538,PV211406,Suresh Bhat,9206707119,MCRB0PV0112,Indi Pavanpur Branch,R03,PL,CBS-P,Branch,OF0118,40006.31,17,SMA-0,Standard,2,5 Early warning: auto-debit bounced 2+ times in 3 months
+PUC503544,PV212105,Girish Chavan,9506727833,MCRB0PV0110,Bagalkot Pavanpur Branch,R03,MSME,CBS-P,Branch,OF0052,1067923.31,259,NPA,NPA,0,4 NPA: recovery
+PUC503552,PV204218,Veeresh Lamani,9348892943,MCRB0PV0103,Athani Pavanpur Branch,R02,PL,CBS-P,Branch,OF0035,233013.25,52,SMA-1,SMA-1,0,6 SMA-1
+PUC503563,PV207020,Vinayak Kulkarni,9598061093,MCRB0PV0103,Athani Pavanpur Branch,R02,PL,CBS-P,Branch,OF0083,168073.62,356,NPA,NPA,0,4 NPA: recovery
+PUC503578,PV213734,Joseph Mulla,8477650891,MCRB0PV1012,Savanur Pavanpur Branch,R04,PL,CBS-P,Branch,OF0106,130185.27,52,SMA-1,SMA-1,0,6 SMA-1
+PUC503592,PV202073,Neha Hegde,7228695461,MCRB0PV0107,Chikkodi Main Road (PUCB),R02,MSME,CBS-P,Branch,OF0091,957776.00,655,NPA,NPA,0,4 NPA: recovery
+PUC503622,PV214862,Mahesh Kulkarni,7628112794,MCRB0PV0111,Jamkhandi Pavanpur Branch,R03,VL,CBS-P,Branch,OF0099,541200.35,453,NPA,NPA,0,4 NPA: recovery
+PUC503635,PV214886,Pradeep Kamble,7435551848,MCRB0PV0104,Nippani Pavanpur Branch,R02,PL,CBS-P,Branch,OF0110,160656.07,47,SMA-1,SMA-0,0,3 Slipped to SMA-1 in October
+PUC503647,MC30041965,Channabasappa Hosamani,9330742655,MCRB0PV0102,Bailhongal Pavanpur Branch,R02,PL,CBS-P,Branch,OF0081,749668.23,321,NPA,NPA,3,4 NPA: recovery
+PUC503659,MC30046354,Naveen Menasinkai,8110880377,MCRB0PV0101,Chikkodi Pavanpur Branch,R02,PL,CBS-P,Branch,OF0080,476059.54,453,NPA,NPA,0,4 NPA: recovery
+PUC503662,PV207407,Ramesh Mulla,8787840357,MCRB0PV0108,Mudhol Pavanpur Branch,R03,VL,CBS-P,Branch,,456943.95,422,NPA,NPA,0,4 NPA: recovery
+PUC503674,MC30030380,Suresh Hegde,9689670044,MCRB0PV0104,Nippani Pavanpur Branch,R02,PL,CBS-P,Branch,OF0086,98232.70,0,NPA,NPA,0,4 NPA: recovery
+PUC503702,PV203087,Irfan Pujari,8471156498,MCRB0PV0101,Chikkodi Pavanpur Branch,R02,PL,CBS-P,Branch,OF0080,98414.04,629,NPA,NPA,0,4 NPA: recovery
+PUC503726,PV203441,Siddappa Gudi,9491289438,MCRB0PV0109,Vijayapura Pavanpur Branch,R03,VL,CBS-P,Branch,OF0096,332648.92,295,NPA,NPA,0,4 NPA: recovery
+PUC503734,PV222797,Sudha Pawar,9482206444,MCRB0PV0109,Vijayapura Pavanpur Branch,R03,MSME,CBS-P,Branch,OF0095,1402042.48,484,NPA,NPA,0,4 NPA: recovery
+PUC503738,PV200756,Kiran Hegde,8560435215,MCRB0PV0104,Nippani Pavanpur Branch,R02,GL,CBS-P,Branch,OF0086,61057.88,443,NPA,NPA,0,4 NPA: recovery
+PUC503742,PV205688,Anand Patil,8405667144,MCRB0PV0108,Mudhol Pavanpur Branch,R03,VL,CBS-P,Branch,OF0094,401535.02,0,Standard,Standard,2,5 Early warning: auto-debit bounced 2+ times in 3 months
+PUC503743,PV205688,Anand Patil,8405667144,MCRB0PV0111,Jamkhandi Pavanpur Branch,R03,LAP,CBS-P,Branch,OF0099,2126071.85,57,SMA-1,SMA-1,0,6 SMA-1
+PUC503750,PV202688,Sunil Chavan,8494774443,MCRB0PV0106,Gokak Pavanpur Branch,R02,PL,CBS-P,Branch,OF0030,298723.35,0,Standard,Standard,2,5 Early warning: auto-debit bounced 2+ times in 3 months
+PUC503776,MC30051751,Hanumant Madar,8247632646,MCRB0PV0102,Bailhongal Pavanpur Branch,R02,HL,CBS-P,Branch,OF0119,1921937.18,0,NPA,NPA,0,4 NPA: recovery
+PUC503786,PV219842,Veeresh Chavan,9246777753,MCRB0PV0105,Belagavi Pavanpur Branch,R02,HL,CBS-P,Branch,OF0088,4595589.22,78,SMA-2,SMA-2,0,2 SMA-2: will be NPA within 30 days unless paid
+PUC503797,PV217460,Kavita Shaikh,8369479231,MCRB0PV0105,Belagavi Pavanpur Branch,R02,GL,CBS-P,Branch,OF0087,4409.98,264,NPA,NPA,0,4 NPA: recovery
+PUC503815,PV211061,Sachin Gudi,6673746086,MCRB0PV0102,Bailhongal Pavanpur Branch,R02,VL,CBS-P,Branch,OF0108,354431.39,624,NPA,NPA,3,4 NPA: recovery
+PUC503820,PV215234,Shrikant Ullagaddi,7430332541,MCRB0001016,Vijayapura Gandhi Chowk,R03,PL,CBS-P,Branch,OF0044,690346.86,200,NPA,NPA,3,4 NPA: recovery
+PUC503854,PV217682,Arun Hosamani,6419821370,MCRB0PV0105,Belagavi Pavanpur Branch,R02,MSME,CBS-P,Branch,OF0088,863774.32,175,NPA,NPA,0,4 NPA: recovery
+PUC503863,MC30005082,Rekha Kattimani,9573657235,MCRB0PV0105,Belagavi Pavanpur Branch,R02,VL,CBS-P,Branch,OF0088,287528.94,52,SMA-1,SMA-0,0,3 Slipped to SMA-1 in October
+PUC503872,PV204608,Anand Mulla,8274663558,MCRB0PV0108,Mudhol Pavanpur Branch,R03,LAP,CBS-P,Branch,OF0093,1081745.47,479,NPA,NPA,3,4 NPA: recovery
+PUC503877,PV215540,Ayesha Patil,9345905899,MCRB0001009,Chikkodi Bus Stand,R02,PL,CBS-P,Branch,OF0027,341193.58,448,NPA,NPA,3,4 NPA: recovery
+PUC503879,PV215540,Ayesha Patil,9345905899,MCRB0PV0102,Bailhongal Pavanpur Branch,R02,PL,CBS-P,Branch,OF0081,260551.58,448,NPA,NPA,0,4 NPA: recovery
+PUC503881,PV221441,Priya Bagewadi,9403460883,MCRB0001016,Vijayapura Gandhi Chowk,R03,VL,CBS-P,Branch,OF0102,1319186.41,0,NPA,NPA,0,4 NPA: recovery
+PUC503883,PV221441,Priya Bagewadi,9403460883,MCRB0PV0103,Athani Pavanpur Branch,R02,GL,CBS-P,Branch,OF0083,11309.40,139,NPA,NPA,0,4 NPA: recovery
+PUC503896,PV218672,Mahesh Menasinkai,9795150998,MCRB0PV0111,Jamkhandi Pavanpur Branch,R03,PL,CBS-P,Branch,OF0099,409391.72,47,SMA-1,SMA-0,2,3 Slipped to SMA-1 in October
+PUC503898,PV218672,Mahesh Menasinkai,9795150998,MCRB0001009,Chikkodi Bus Stand,R02,MSME,CBS-P,Branch,OF0027,1284276.72,47,SMA-1,SMA-0,0,3 Slipped to SMA-1 in October
+PUC503910,PV220160,Pradeep Yaragatti,7779315631,MCRB0PV0106,Gokak Pavanpur Branch,R02,HL,CBS-P,Branch,OF0088,3485937.09,0,Standard,SMA-0,2,5 Early warning: auto-debit bounced 2+ times in 3 months
+PUC503918,PV210587,Sharanappa Huded,9950231336,MCRB0PV0101,Chikkodi Pavanpur Branch,R02,HL,CBS-P,Branch,OF0080,7942685.58,52,SMA-1,SMA-1,0,6 SMA-1
+PUC503926,MC30043001,Siddappa Kotagi,9269764614,MCRB0PV0107,Chikkodi Main Road (PUCB),R02,PL,CBS-P,Branch,OF0091,697117.56,0,Standard,Standard,2,5 Early warning: auto-debit bounced 2+ times in 3 months
+PUC503931,PV206555,Channabasappa Kamble,8257288631,MCRB0PV0102,Bailhongal Pavanpur Branch,R02,PL,CBS-P,Branch,OF0081,31930.26,175,NPA,NPA,0,4 NPA: recovery
+PUC503932,MC30023695,Vijay Hegde,9710598692,MCRB0PV0108,Mudhol Pavanpur Branch,R03,PL,CBS-P,Branch,OF0051,247796.20,269,NPA,NPA,3,4 NPA: recovery
+PUC503940,MC30044632,Basavaraj Shaikh,9172633379,MCRB0PV0104,Nippani Pavanpur Branch,R02,PL,CBS-P,Branch,OF0086,180408.39,655,NPA,NPA,3,4 NPA: recovery
+PUC503976,PV210644,Deepak Jadhav,9872965805,MCRB0PV0109,Vijayapura Pavanpur Branch,R03,PL,CBS-P,Branch,OF0095,170611.97,596,NPA,NPA,0,4 NPA: recovery
+PUC503983,PV203996,Imran Joshi,9125187507,MCRB0001009,Chikkodi Bus Stand,R02,GL,CBS-P,Branch,OF0027,143341.72,0,Standard,Standard,2,5 Early warning: auto-debit bounced 2+ times in 3 months
+PUC503991,PV202361,Sunil Kulkarni,9808987510,MCRB0PV0105,Belagavi Pavanpur Branch,R02,PL,CBS-P,Branch,OF0088,103232.68,119,NPA,SMA-2,0,1 Became NPA in October
+PUC504012,PV202829,Mary Kotagi,8709770073,MCRB0PV0102,Bailhongal Pavanpur Branch,R02,PL,CBS-P,Branch,OF0081,57432.36,241,NPA,NPA,0,4 NPA: recovery
+PUC504014,PV212495,Basavaraj Talwar,7285158861,MCRB0001009,Chikkodi Bus Stand,R02,PL,CBS-P,Branch,OF0027,535369.62,606,NPA,NPA,0,4 NPA: recovery
+PUC504015,PV212495,Basavaraj Talwar,7285158861,MCRB0PV0101,Chikkodi Pavanpur Branch,R02,PL,CBS-P,Branch,OF0079,420155.07,629,NPA,NPA,0,4 NPA: recovery
+PUC504019,PV207236,Arun Kotagi,8386571003,MCRB0PV0109,Vijayapura Pavanpur Branch,R03,GL,CBS-P,Branch,OF0095,43496.98,114,NPA,SMA-2,0,1 Became NPA in October
+PUC504034,PV217619,Shrikant Desai,8894198255,MCRB0PV0112,Indi Pavanpur Branch,R03,PL,CBS-P,Branch,OF0101,603607.36,0,Standard,Standard,2,5 Early warning: auto-debit bounced 2+ times in 3 months
+PUC504066,PV215846,Bharati Joshi,8156942714,MCRB0PV0102,Bailhongal Pavanpur Branch,R02,PL,CBS-P,Branch,OF0081,157800.40,57,SMA-1,SMA-1,0,6 SMA-1
+PUC504086,PV215012,Pooja Hegde,9223292478,MCRB0PV0108,Mudhol Pavanpur Branch,R03,HL,CBS-P,Branch,OF0093,1961679.53,392,NPA,NPA,0,4 NPA: recovery
+PUC504087,MC30013643,Sudha Huded,9346421307,MCRB0PV0101,Chikkodi Pavanpur Branch,R02,VL,CBS-P,Branch,OF0080,512796.34,392,NPA,NPA,3,4 NPA: recovery
+PUC504096,MC30021147,Arun Nayak,9685286529,MCRB0PV0107,Chikkodi Main Road (PUCB),R02,PL,CBS-P,Branch,OF0091,206201.83,0,Standard,Standard,3,5 Early warning: auto-debit bounced 2+ times in 3 months
+PUC504101,PV208037,Nandini Badiger,7605817268,MCRB0PV0106,Gokak Pavanpur Branch,R02,PL,CBS-P,Branch,OF0091,678643.05,149,NPA,NPA,3,4 NPA: recovery
+PUC504105,PV203177,Prashant Kammar,7804599600,MCRB0PV0107,Chikkodi Main Road (PUCB),R02,PL,CBS-P,Branch,OF0091,140040.52,57,SMA-1,SMA-1,0,6 SMA-1
+PUC504107,MC30028343,Santosh Pujari,8362145880,MCRB0PV0103,Athani Pavanpur Branch,R02,MSME,CBS-P,Branch,OF0034,665335.58,47,SMA-1,SMA-0,2,3 Slipped to SMA-1 in October
+PUC504113,PV217025,Rekha Nadaf,7629001939,MCRB0PV0101,Chikkodi Pavanpur Branch,R02,GL,CBS-P,Branch,OF0079,11809.00,331,NPA,NPA,0,4 NPA: recovery
+PUC504119,MC30038178,Rajesh Bagewadi,8224052265,MCRB0PV0106,Gokak Pavanpur Branch,R02,PL,CBS-P,Branch,OF0088,187880.27,57,SMA-1,SMA-0,2,3 Slipped to SMA-1 in October
+PUC504125,MC30041461,Irfan Huded,9783523535,MCRB0001016,Vijayapura Gandhi Chowk,R03,PL,CBS-P,Branch,OF0048,82617.27,47,SMA-1,SMA-1,0,6 SMA-1
+PUC504149,PV217163,Sharanappa Angadi,9365312735,MCRB0PV0108,Mudhol Pavanpur Branch,R03,GL,CBS-P,Branch,OF0114,3423.10,241,NPA,NPA,0,4 NPA: recovery
+PUC504156,PV213029,Mohammed Kulkarni,8950863407,MCRB0PV0106,Gokak Pavanpur Branch,R02,VL,CBS-P,Branch,OF0028,999695.89,752,NPA,NPA,3,4 NPA: recovery
+PUC504163,PV212558,Ravi Chavan,9532212458,MCRB0PV1007,Ranebennur Pavanpur Branch,R04,GL,CBS-P,Branch,OF0104,8875.51,109,NPA,SMA-2,0,1 Became NPA in October
+PUC504169,PV215306,Anil Kammar,6794078151,MCRB0PV0106,Gokak Pavanpur Branch,R02,PL,CBS-P,Branch,OF0088,670385.42,47,SMA-1,SMA-0,0,3 Slipped to SMA-1 in October
+PUC504174,PV206687,Girish Biradar,7775650471,MCRB0PV0101,Chikkodi Pavanpur Branch,R02,PL,CBS-P,Branch,OF0080,243282.02,0,NPA,NPA,0,4 NPA: recovery
+PUC504176,PV206687,Girish Biradar,7775650471,MCRB0PV0109,Vijayapura Pavanpur Branch,R03,PL,CBS-P,Branch,OF0095,667865.89,606,NPA,NPA,0,4 NPA: recovery
+PUC504205,PV216680,Veeresh Kattimani,8239745467,MCRB0PV0101,Chikkodi Pavanpur Branch,R02,GL,CBS-P,Branch,OF0079,94170.43,52,SMA-1,SMA-1,0,6 SMA-1

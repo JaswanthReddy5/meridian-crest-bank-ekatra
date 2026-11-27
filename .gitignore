@@ -3,3 +3,4 @@
 __pycache__/
 ~$*.xlsx
 sql/01_load_data_workbench.sql
+~$*.docx

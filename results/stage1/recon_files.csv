@@ -1,0 +1,19 @@
+﻿file_name,source_system,expected_rows,rows_held,row_difference,control_column,control_total,total_held,total_difference,explanation
+regions.csv,CBS-M,5,5,0,,,,,Matches: rows and control total as sent.
+branches.csv,CBS-M,47,47,0,,,,,Matches: rows and control total as sent.
+products.csv,CBS-M,6,6,0,,,,,Matches: rows and control total as sent.
+officers.csv,CBS-M,122,122,0,,,,,Matches: rows and control total as sent.
+customers.csv,CBS-M,7645,7645,0,,,,,Matches: rows and control total as sent.
+customer_contacts.csv,CBS-M,21745,21745,0,,,,,Matches: rows and control total as sent.
+legacy_id_map.csv,VENDOR,325,325,0,,,,,Matches: rows and control total as sent.
+loan_accounts.csv,CBS-M,8266,8366,100,outstanding_principal,9745135816.49,9887797549.10,142661732.61,"Loaded exactly as sent (8,366 rows). The file holds 102 loans twice (64 exact repeats, 38 re-extracted in batch B07 on 1 Nov) and is missing 2 loans that every other file has (MCL0105074, MCL0105200). After de-duplication and recovery: 8,266 loans, total = control total. See dq_log Q1.5."
+disbursements.csv,CBS-M,9655,9655,0,,,,,Matches: rows and control total as sent.
+collateral.csv,CBS-M,5088,5088,0,,,,,Matches: rows and control total as sent.
+emi_schedule.csv,CBS-M,161224,161224,0,emi_due,4086198894.51,4086198894.51,0.00,Matches: rows and control total as sent.
+repayments.csv,CBS-M,155741,155741,0,amount,3911978694.66,3911978694.66,0.00,Matches: rows and control total as sent.
+nach_mandates.csv,CBS-M,5869,5869,0,,,,,Matches: rows and control total as sent.
+finance_npa_oct2026.csv,FIN-MIS,8266,8266,0,,,,,Matches: rows and control total as sent.
+risk_npa_oct2026.csv,RISK-MIS,8266,8266,0,,,,,Matches: rows and control total as sent.
+cbs_extract_oct2026.csv,CBS-M,8266,8266,0,outstanding_principal,9745135816.49,9745135816.49,0.00,Matches: rows and control total as sent.
+dw_snapshot_oct2026.csv,DWH,8235,8235,0,outstanding_principal,9690487458.87,9690487458.87,0.00,Matches: rows and control total as sent.
+load_manifest.csv,MANIFEST,,17,,,,,,Not listed in the manifest (a file cannot list itself). 17 rows = one per other file.

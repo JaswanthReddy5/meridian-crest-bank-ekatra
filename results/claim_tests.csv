@@ -1,0 +1,5 @@
+﻿claim,scope,test_loans,test_late30,test_rate_pct,control_loans,control_late30,control_rate_pct,expected_late30,observed_to_expected,z_score,verdict
+Month-end loans (sanctioned in last 3 days of month) are as good as others,All loans; compared within product x sanction month,2426,254,10.47,5832,415,7.12,163.90,1.55,7.54,"Claim REJECTED: 55% more loans 30+ days late than same-age loans (z = 7.54, over 99% confident)"
+Digital-partner loans are as good as branch loans,"Personal loans, CBS-M, sanctioned Jun 2025 - Sep 2026; compared within sanction month",479,31,6.47,569,44,7.73,32.12,0.97,-0.22,Claim stands: no significant difference (z = -0.22)
+Digital-partner loans are as good as branch loans,"RAW: all personal loans, no age control (misleading)",479,31,6.47,2546,324,12.73,,,,Context only
+Month-end loans (sanctioned in last 3 days of month) are as good as others,"RAW: all loans, no control",2426,254,10.47,5840,415,7.11,,,,Context only

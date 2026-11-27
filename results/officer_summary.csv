@@ -1,0 +1,123 @@
+﻿officer_id,officer_name,grade,home_ifsc,home_branch,officer_status,loans_approved,amount_approved,npa_loans,npa_outstanding,npa_loan_pct,month_end_loans,branches_lent_in
+OF0001,Harish Kamble,Scale III,MCRB0001001,Hubballi Main Road,Active,185,299265000.00,10,4285164.30,5.4,58,4
+OF0002,Suresh Kotagi,Scale IV,MCRB0001001,Hubballi Main Road,Active,186,428222000.00,7,7631226.59,3.8,62,4
+OF0003,Priya Belagali,Scale II,MCRB0001001,Hubballi Main Road,Active,128,101410000.00,5,1165545.79,3.9,46,1
+OF0004,Manjunath Kattimani,Scale II,MCRB0001002,Dharwad Station Road,Active,165,165939000.00,13,5099042.78,7.9,52,1
+OF0005,Anand Pawar,Scale I,MCRB0001002,Dharwad Station Road,Active,78,45261000.00,3,1050775.13,3.8,25,1
+OF0006,Mahadevi Yaragatti,Scale II,MCRB0001002,Dharwad Station Road,Active,168,195083000.00,9,6475271.48,5.4,56,1
+OF0007,Manjunath Bagewadi,Scale II,MCRB0001003,Kalghatgi Market,Active,60,49058000.00,3,3099398.86,5.0,14,1
+OF0008,Sharanappa Huded,Scale III,MCRB0001003,Kalghatgi Market,Active,114,236399000.00,3,4129053.19,2.6,31,4
+OF0009,Sachin Lamani,Scale IV,MCRB0001003,Kalghatgi Market,Active,118,219705000.00,5,7347536.97,4.2,38,4
+OF0010,Kaveri Mathad,Scale I,MCRB0001004,Kundgol Vidyanagar,Active,25,13639000.00,1,182790.61,4.0,6,2
+OF0011,Geeta Jadhav,Scale I,MCRB0001004,Kundgol Vidyanagar,Active,27,20128000.00,1,1995509.79,3.7,5,1
+OF0012,Joseph Biradar,Scale III,MCRB0001004,Kundgol Vidyanagar,Active,137,282404000.00,5,8535716.57,3.6,44,4
+OF0013,Pooja Mulla,Scale I,MCRB0001005,Navalgund Gandhi Chowk,Active,28,22534000.00,1,249783.12,3.6,10,1
+OF0014,Roopa Gowda,Scale II,MCRB0001005,Navalgund Gandhi Chowk,Active,49,39933000.00,3,712495.00,6.1,10,1
+OF0015,Lakshmi Kamble,Scale II,MCRB0001005,Navalgund Gandhi Chowk,Active,42,37249000.00,0,0.00,0.0,10,1
+OF0016,Sunil Naik,Scale I,MCRB0001006,Hubballi Old Town,Active,17,7296000.00,2,207203.65,11.8,8,1
+OF0017,Mohammed Yaragatti,Scale II,MCRB0001006,Hubballi Old Town,Active,47,46475000.00,1,257805.17,2.1,13,1
+OF0018,Girish Bagewadi,Scale II,MCRB0001006,Hubballi Old Town,Active,55,63324000.00,2,581183.81,3.6,18,1
+OF0019,Sangeeta Badiger,Scale I,MCRB0001007,Dharwad APMC Yard,Active,23,16807000.00,1,91635.73,4.3,9,1
+OF0020,Shobha Jadhav,Scale IV,MCRB0001007,Dharwad APMC Yard,Active,135,297264000.00,8,13073104.14,5.9,42,4
+OF0021,Shrikant Lamani,Scale II,MCRB0001007,Dharwad APMC Yard,Active,46,54177000.00,1,3.07,2.2,11,1
+OF0022,Kaveri Nayak,Scale II,MCRB0001008,Kalghatgi Court Circle,Active,42,40847000.00,5,2004275.50,11.9,9,1
+OF0023,Priya Rao,Scale II,MCRB0001008,Kalghatgi Court Circle,Active,37,49707000.00,2,4797544.44,5.4,10,1
+OF0024,Naveen Yaragatti,Scale III,MCRB0001008,Kalghatgi Court Circle,Active,115,264303000.00,3,8765329.02,2.6,30,4
+OF0025,Arun Patil,Scale I,MCRB0001009,Chikkodi Bus Stand,Active,47,16559000.00,3,745427.73,6.4,15,1
+OF0026,Gururaj Gowda,Scale I,MCRB0001009,Chikkodi Bus Stand,Active,56,31409000.00,3,1169629.03,5.4,11,1
+OF0027,Renuka Menasinkai,Scale II,MCRB0001009,Chikkodi Bus Stand,Active,116,151568000.00,7,5563005.42,6.0,38,3
+OF0028,Rajesh Savadi,Scale II,MCRB0001010,Bailhongal Nehru Nagar,Active,46,44230000.00,2,1101590.24,4.3,14,2
+OF0029,Prashant Naik,Scale II,MCRB0001010,Bailhongal Nehru Nagar,Active,50,44476000.00,2,759599.96,4.0,16,2
+OF0030,Mary Yaragatti,Scale III,MCRB0001010,Bailhongal Nehru Nagar,Active,112,247898000.00,6,9910432.03,5.4,26,7
+OF0031,Sangeeta Kamble,Scale I,MCRB0001011,Athani Shivaji Road,Active,30,16064000.00,2,40900.72,6.7,6,1
+OF0032,Manjunath Joshi,Scale II,MCRB0001011,Athani Shivaji Road,Active,68,81724000.00,2,728347.96,2.9,17,3
+OF0033,Deepak Kammar,Scale II,MCRB0001011,Athani Shivaji Road,Active,75,96437000.00,4,1002904.28,5.3,22,3
+OF0034,Manjunath Ullagaddi,Scale II,MCRB0001012,Nippani Main Road,Active,60,55814000.00,3,705457.43,5.0,16,3
+OF0035,Rekha Lamani,Scale II,MCRB0001012,Nippani Main Road,Active,53,64912000.00,5,3701846.16,9.4,17,2
+OF0036,Hanumant Hiremath,Scale I,MCRB0001012,Nippani Main Road,Active,27,10400000.00,1,1061665.91,3.7,7,1
+OF0037,Girish Belagali,Scale III,MCRB0001013,Belagavi Station Road,Active,297,557785000.00,12,12061513.19,4.0,93,7
+OF0038,Ravi Badiger,Scale I,MCRB0001013,Belagavi Station Road,Active,106,69314000.00,19,10299479.24,17.9,45,1
+OF0039,Santosh Shirol,Scale II,MCRB0001013,Belagavi Station Road,Active,146,168227000.00,9,11592334.58,6.2,49,3
+OF0040,Pooja Madar,Scale II,MCRB0001014,Gokak Market,Active,38,40704000.00,2,6264452.29,5.3,8,3
+OF0041,Nandini Angadi,Scale II,MCRB0001014,Gokak Market,Active,55,63401000.00,1,26104.70,1.8,9,2
+OF0042,Basavaraj Patil,Scale II,MCRB0001014,Gokak Market,Active,47,53497000.00,2,593529.82,4.3,10,3
+OF0043,Asha Gowda,Scale II,MCRB0001015,Mudhol Vidyanagar,Active,46,46998000.00,4,3474812.79,8.7,10,2
+OF0044,Pooja Fernandes,Scale IV,MCRB0001015,Mudhol Vidyanagar,Active,89,194525000.00,8,5549853.66,9.0,37,5
+OF0045,Gururaj Huded,Scale IV,MCRB0001015,Mudhol Vidyanagar,Active,86,180052000.00,4,2197529.69,4.7,21,5
+OF0046,Roopa Hiremath,Scale I,MCRB0001016,Vijayapura Gandhi Chowk,Active,41,21554000.00,4,657551.35,9.8,14,1
+OF0047,Ayesha Kattimani,Scale I,MCRB0001016,Vijayapura Gandhi Chowk,Active,43,24358000.00,3,1671978.42,7.0,11,1
+OF0048,Girish Kulkarni,Scale II,MCRB0001016,Vijayapura Gandhi Chowk,Active,142,177511000.00,10,5356707.66,7.0,47,2
+OF0049,Pooja Chavan,Scale I,MCRB0001017,Bagalkot Old Town,Active,23,6356000.00,1,272147.33,4.3,9,1
+OF0050,Sangeeta Joshi,Scale II,MCRB0001017,Bagalkot Old Town,Active,57,45564000.00,3,982430.08,5.3,14,2
+OF0051,Savitri Hegde,Scale II,MCRB0001017,Bagalkot Old Town,Active,49,49676000.00,4,3136533.65,8.2,12,2
+OF0052,Suresh Joshi,Scale IV,MCRB0001018,Jamkhandi APMC Yard,Active,207,393288000.00,13,12092870.85,6.3,49,5
+OF0053,Parvati Biradar,Scale I,MCRB0001018,Jamkhandi APMC Yard,Active,44,20967000.00,1,9216.29,2.3,12,1
+OF0054,Nandini Nayak,Scale I,MCRB0001018,Jamkhandi APMC Yard,Active,43,18207000.00,2,757412.67,4.7,10,1
+OF0055,Veeresh Belagali,Scale I,MCRB0001019,Indi Court Circle,Active,25,12845000.00,2,630464.78,8.0,9,1
+OF0056,Santosh Fernandes,Scale I,MCRB0001019,Indi Court Circle,Active,27,17914000.00,2,619019.05,7.4,9,1
+OF0057,Sushma Pujari,Scale IV,MCRB0001019,Indi Court Circle,Active,151,361816000.00,8,4000127.83,5.3,51,5
+OF0058,Channabasappa Talwar,Scale III,MCRB0001020,Ron Bus Stand,Active,114,252338000.00,4,11919707.41,3.5,31,3
+OF0059,Vinayak Belagali,Scale I,MCRB0001020,Ron Bus Stand,Active,22,8193000.00,0,0.00,0.0,3,1
+OF0060,Lakshmi Kamble,Scale I,MCRB0001020,Ron Bus Stand,Active,30,12349000.00,5,1215955.93,16.7,11,1
+OF0061,Nandini Madar,Scale I,MCRB0001021,Gadag Nehru Nagar,Active,21,5842000.00,1,284301.52,4.8,10,1
+OF0062,Imran Nayak,Scale II,MCRB0001021,Gadag Nehru Nagar,Active,58,57554000.00,5,6938086.13,8.6,21,2
+OF0063,Savitri Belagali,Scale II,MCRB0001021,Gadag Nehru Nagar,Active,51,48552000.00,2,342638.64,3.9,12,2
+OF0064,Umesh Shetty,Scale IV,MCRB0001022,Haveri Shivaji Road,Active,125,243441000.00,6,8205726.11,4.8,32,3
+OF0065,Deepak Talwar,Scale I,MCRB0001022,Haveri Shivaji Road,Active,21,7600000.00,1,419300.81,4.8,4,1
+OF0066,Jyoti Kammar,Scale I,MCRB0001022,Haveri Shivaji Road,Active,24,14597000.00,0,0.00,0.0,3,1
+OF0067,Manjunath Jadhav,Scale I,MCRB0001023,Ranebennur Main Road,Active,30,19657000.00,0,0.00,0.0,8,1
+OF0068,Usha Nayak,Scale I,MCRB0001023,Ranebennur Main Road,Active,28,21362000.00,1,133577.75,3.6,12,1
+OF0069,Siddappa Bagewadi,Scale III,MCRB0001023,Ranebennur Main Road,Active,136,299326000.00,4,1601528.74,2.9,37,3
+OF0070,Arun Biradar,Scale IV,MCRB0001024,Savanur Station Road,Active,83,135503000.00,5,2757195.23,6.0,19,3
+OF0071,Shobha Talwar,Scale II,MCRB0001024,Savanur Station Road,Active,45,45787000.00,2,302045.72,4.4,16,2
+OF0072,Vijay Menasinkai,Scale III,MCRB0001024,Savanur Station Road,Active,85,162416000.00,5,7387852.14,5.9,22,3
+OF0073,Suresh Nadaf,Scale III,MCRB0001025,Kumta Market,Active,57,103876000.00,3,1052332.90,5.3,15,1
+OF0074,Anita Nayak,Scale II,MCRB0001025,Kumta Market,Active,47,53183000.00,3,827059.98,6.4,10,1
+OF0075,Shilpa Joshi,Scale III,MCRB0001025,Kumta Market,Active,61,93480000.00,4,1577332.88,6.6,18,1
+OF0076,Basavaraj Joshi,Scale I,MCRB0001026,Karwar Vidyanagar,Active,23,11898000.00,3,1497872.69,13.0,9,1
+OF0077,Shilpa Menasinkai,Scale III,MCRB0001026,Karwar Vidyanagar,Active,103,188313000.00,5,4051035.92,4.9,28,1
+OF0078,Anita Kattimani,Scale II,MCRB0001026,Karwar Vidyanagar,Active,43,59255000.00,1,105245.97,2.3,17,1
+OF0079,Rekha Yaragatti,Scale II,MCRB0PV0101,Chikkodi Pavanpur Branch,Active,112,126248000.00,9,2840471.51,8.0,34,3
+OF0080,Gururaj Nayak,Scale III,MCRB0PV0101,Chikkodi Pavanpur Branch,Active,239,506815000.00,21,15411601.46,8.8,57,7
+OF0081,Vinayak Pujari,Scale IV,MCRB0PV0102,Bailhongal Pavanpur Branch,Active,373,811408000.00,31,24656868.11,8.3,109,7
+OF0082,Anita Desai,Scale I,MCRB0PV0102,Bailhongal Pavanpur Branch,Active,48,28247000.00,4,2986377.58,8.3,13,1
+OF0083,Roopa Belagali,Scale I,MCRB0PV0103,Athani Pavanpur Branch,Active,23,11415000.00,4,511395.05,17.4,9,1
+OF0084,Sharanappa Shaikh,Scale I,MCRB0PV0103,Athani Pavanpur Branch,Active,13,7189000.00,1,22908.89,7.7,8,1
+OF0085,Channabasappa Nayak,Scale I,MCRB0PV0104,Nippani Pavanpur Branch,Active,12,4117000.00,2,558246.83,16.7,1,1
+OF0086,Mahadevi Fernandes,Scale III,MCRB0PV0104,Nippani Pavanpur Branch,Active,115,238608000.00,12,3577767.03,10.4,42,7
+OF0087,Priya Nayak,Scale I,MCRB0PV0105,Belagavi Pavanpur Branch,Active,19,13678000.00,4,972120.54,21.1,8,1
+OF0088,Gururaj Nadaf,Scale III,MCRB0PV0105,Belagavi Pavanpur Branch,Active,136,335831000.00,15,9392826.22,11.0,40,7
+OF0089,Vijay Bhat,Scale I,MCRB0PV0106,Gokak Pavanpur Branch,Active,19,8354000.00,2,607373.88,10.5,6,1
+OF0090,Naveen Ullagaddi,Scale I,MCRB0PV0106,Gokak Pavanpur Branch,Active,16,5828000.00,1,5308.16,6.3,4,1
+OF0091,Anand Bagewadi,Scale III,MCRB0PV0107,Chikkodi Main Road (PUCB),Active,98,236562000.00,11,7105283.48,11.2,26,7
+OF0092,Sachin Belagali,Scale II,MCRB0PV0107,Chikkodi Main Road (PUCB),Active,40,57584000.00,6,3264075.75,15.0,12,3
+OF0093,Irfan Biradar,Scale I,MCRB0PV0108,Mudhol Pavanpur Branch,Active,26,19622000.00,8,6084575.59,30.8,12,1
+OF0094,Suresh Gudi,Scale I,MCRB0PV0108,Mudhol Pavanpur Branch,Active,27,14422000.00,3,270854.35,11.1,13,1
+OF0095,Rekha Gowda,Scale III,MCRB0PV0109,Vijayapura Pavanpur Branch,Active,111,197302000.00,14,10280222.07,12.6,31,5
+OF0096,Pooja Huded,Scale I,MCRB0PV0109,Vijayapura Pavanpur Branch,Active,16,8648000.00,2,555583.74,12.5,5,1
+OF0097,Shrikant Mulla,Scale II,MCRB0PV0110,Bagalkot Pavanpur Branch,Active,63,92062000.00,3,1318787.95,4.8,22,2
+OF0098,Vidya Nayak,Scale I,MCRB0PV0110,Bagalkot Pavanpur Branch,Active,11,8218000.00,1,7143.62,9.1,3,1
+OF0099,Bharati Bagewadi,Scale II,MCRB0PV0111,Jamkhandi Pavanpur Branch,Active,57,71058000.00,4,1109566.32,7.0,23,2
+OF0100,Santosh Menasinkai,Scale III,MCRB0PV0111,Jamkhandi Pavanpur Branch,Active,101,223645000.00,4,1472274.97,4.0,25,5
+OF0101,Shivanand Bhat,Scale III,MCRB0PV0112,Indi Pavanpur Branch,Active,74,158549000.00,4,2926752.78,5.4,22,5
+OF0102,Roopa Joshi,Scale III,MCRB0PV0112,Indi Pavanpur Branch,Active,72,133137000.00,4,1464064.99,5.6,16,5
+OF0103,Naveen Shirol,Scale I,MCRB0PV1007,Ranebennur Pavanpur Branch,Active,12,3777000.00,1,6066.12,8.3,4,1
+OF0104,Shabana Hiremath,Scale I,MCRB0PV1007,Ranebennur Pavanpur Branch,Active,23,11680000.00,3,50821.64,13.0,4,1
+OF0105,Santosh Gudi,Scale II,MCRB0PV1012,Savanur Pavanpur Branch,Active,38,52261000.00,0,0.00,0.0,10,2
+OF0106,Shivanand Lamani,Scale IV,MCRB0PV1012,Savanur Pavanpur Branch,Active,97,224586000.00,5,3765836.77,5.2,29,3
+OF0107,Shrikant Angadi,Scale I,MCRB0PV0101,Chikkodi Pavanpur Branch,Exited,50,27336000.00,6,1944867.75,12.0,14,1
+OF0108,Sharanappa Madar,Scale I,MCRB0PV0102,Bailhongal Pavanpur Branch,Exited,49,26040000.00,4,931726.98,8.2,10,1
+OF0109,Sharanappa Kotagi,Scale I,MCRB0PV0103,Athani Pavanpur Branch,Exited,14,6986000.00,1,958138.63,7.1,5,2
+OF0110,Vinayak Biradar,Scale I,MCRB0PV0104,Nippani Pavanpur Branch,Exited,21,9198000.00,3,302298.13,14.3,10,1
+OF0111,Prakash Mathad,Scale I,MCRB0PV0105,Belagavi Pavanpur Branch,Exited,24,19707000.00,3,1222552.00,12.5,12,1
+OF0112,Channabasappa Rao,Scale I,MCRB0PV0106,Gokak Pavanpur Branch,Exited,25,19538000.00,1,48679.63,4.0,6,1
+OF0113,Kiran Joshi,Scale I,MCRB0PV0107,Chikkodi Main Road (PUCB),Exited,20,8824000.00,2,943370.39,10.0,4,1
+OF0114,Ramesh Angadi,Scale I,MCRB0PV0108,Mudhol Pavanpur Branch,Exited,31,21171000.00,1,3423.10,3.2,3,1
+OF0115,Girish Menasinkai,Scale I,MCRB0PV0109,Vijayapura Pavanpur Branch,Exited,19,13969000.00,2,673121.43,10.5,3,1
+OF0116,Imran Menasinkai,Scale I,MCRB0PV0110,Bagalkot Pavanpur Branch,Exited,13,10501000.00,2,907037.70,15.4,5,1
+OF0117,Prashant Madar,Scale I,MCRB0PV0111,Jamkhandi Pavanpur Branch,Exited,18,11166000.00,1,453021.98,5.6,5,1
+OF0118,Mallikarjun Pawar,Scale I,MCRB0PV0112,Indi Pavanpur Branch,Exited,20,8529000.00,0,0.00,0.0,5,1
+OF0119,Mahesh Hosamani,Scale I,MCRB0PV0102,Bailhongal Pavanpur Branch,Exited,57,33085000.00,6,2579811.76,10.5,19,1
+OF0120,Joseph Pujari,Scale I,MCRB0PV1007,Ranebennur Pavanpur Branch,Exited,13,13088000.00,2,3533159.98,15.4,5,1
+OF0121,Vijay Shirol,Scale I,MCRB0PV1012,Savanur Pavanpur Branch,Exited,24,15690000.00,3,2166894.51,12.5,7,1
+OF0122,Vijay Menasinkai,Scale I,MCRB0PV0108,Mudhol Pavanpur Branch,Exited,29,13953000.00,1,479899.14,3.4,8,1

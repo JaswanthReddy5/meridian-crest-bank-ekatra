@@ -1,0 +1,9 @@
+﻿code,cause,department
+F4,Borrower rule: another loan of the same customer is NPA (Finance classifies loan by loan),Finance
+F5,Borrower rule across the merger: same person's Pavanpur/Meridian loan is NPA,Finance
+F2,Over 90 DPD but CBS flag says STD: migrated Pavanpur loans (arrears history lost in migration),Finance
+F1,CBS flag still NPA after the borrower cleared arrears (flag not upgraded),Finance
+R1,Risk counts a bounced auto-debit as missed even when the EMI was paid days later by cash/UPI/NEFT,Risk
+R3,Risk spread NPA to a borrower whose other loan is not truly NPA,Risk
+R2,Risk spread NPA through the vendor's false name-only matches (different people),Risk
+R6,Borrower rule: link found in Stage 1 that the vendor map missed (Risk only uses the vendor map),Risk

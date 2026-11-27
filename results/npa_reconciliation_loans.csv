@@ -1,0 +1,190 @@
+﻿loan_id,source_system,customer_id,borrower_id,outstanding_principal,true_dpd,true_cat,fin_class,fin_cause,risk_class,risk_dpd,risk_cause
+MCL0100267,CBS-M,MC30015799,MC30015799,803195.29,47,NPA,STANDARD,F4 Borrower rule: another loan of the same customer is NPA (Finance classifies loan by loan),NPA,46,
+MCL0100291,CBS-M,MC30024864,MC30024864,797811.99,27,SMA-0,STANDARD,,NPA,148,R1 Risk counts a bounced auto-debit as missed even when the EMI was paid days later by cash/UPI/NEFT
+MCL0100436,CBS-M,MC30027755,MC30027755,259910.97,0,Standard,STANDARD,,NPA,148,R1 Risk counts a bounced auto-debit as missed even when the EMI was paid days later by cash/UPI/NEFT
+MCL0100498,CBS-M,MC30024969,MC30024969,525910.21,0,NPA,STANDARD,F4 Borrower rule: another loan of the same customer is NPA (Finance classifies loan by loan),NPA,0,
+MCL0100574,CBS-M,MC30015988,MC30015988,193185.77,0,NPA,STANDARD,F5 Borrower rule across the merger: same person's Pavanpur/Meridian loan is NPA,NPA,0,
+MCL0100575,CBS-M,MC30015988,MC30015988,4.16,0,NPA,STANDARD,F5 Borrower rule across the merger: same person's Pavanpur/Meridian loan is NPA,NPA,0,
+MCL0100614,CBS-M,MC30050281,MC30050281,670347.31,0,NPA,STANDARD,F5 Borrower rule across the merger: same person's Pavanpur/Meridian loan is NPA,NPA,0,
+MCL0100667,CBS-M,MC30016625,MC30016625,156894.46,88,SMA-2,STANDARD,,NPA,148,R1 Risk counts a bounced auto-debit as missed even when the EMI was paid days later by cash/UPI/NEFT
+MCL0100686,CBS-M,MC30031332,MC30031332,965649.21,0,NPA,STANDARD,F4 Borrower rule: another loan of the same customer is NPA (Finance classifies loan by loan),NPA,0,
+MCL0100731,CBS-M,MC30001274,MC30001274,65383.42,17,SMA-0,STANDARD,,NPA,199,R1 Risk counts a bounced auto-debit as missed even when the EMI was paid days later by cash/UPI/NEFT
+MCL0100734,CBS-M,MC30001274,MC30001274,461824.19,0,Standard,STANDARD,,NPA,0,R3 Risk spread NPA to a borrower whose other loan is not truly NPA
+MCL0100834,CBS-M,MC30012971,MC30012971,295262.32,27,SMA-0,STANDARD,,NPA,148,R1 Risk counts a bounced auto-debit as missed even when the EMI was paid days later by cash/UPI/NEFT
+MCL0101098,CBS-M,MC30038647,MC30038647,12.28,0,Standard,STANDARD,,NPA,0,R2 Risk spread NPA through the vendor's false name-only matches (different people)
+MCL0101335,CBS-M,MC30024115,MC30024115,105222.31,0,Standard,STANDARD,,NPA,169,R1 Risk counts a bounced auto-debit as missed even when the EMI was paid days later by cash/UPI/NEFT
+MCL0101496,CBS-M,MC30029183,MC30029183,209002.50,0,NPA,STANDARD,F4 Borrower rule: another loan of the same customer is NPA (Finance classifies loan by loan),NPA,0,
+MCL0101517,CBS-M,MC30009702,MC30009702,417874.47,0,NPA,STANDARD,F4 Borrower rule: another loan of the same customer is NPA (Finance classifies loan by loan),NPA,0,
+MCL0101634,CBS-M,MC30025662,MC30025662,273976.59,0,NPA,STANDARD,F4 Borrower rule: another loan of the same customer is NPA (Finance classifies loan by loan),NPA,0,
+MCL0101708,CBS-M,MC30011837,MC30011837,778805.17,27,NPA,STANDARD,F4 Borrower rule: another loan of the same customer is NPA (Finance classifies loan by loan),NPA,26,
+MCL0101728,CBS-M,MC30035007,MC30035007,505381.15,22,SMA-0,STANDARD,,NPA,143,R1 Risk counts a bounced auto-debit as missed even when the EMI was paid days later by cash/UPI/NEFT
+MCL0101878,CBS-M,MC30018613,MC30018613,10.79,0,Standard,STANDARD,,NPA,0,R2 Risk spread NPA through the vendor's false name-only matches (different people)
+MCL0102182,CBS-M,MC30037611,MC30037611,300004.83,0,Standard,STANDARD,,NPA,169,R1 Risk counts a bounced auto-debit as missed even when the EMI was paid days later by cash/UPI/NEFT
+MCL0102184,CBS-M,MC30037611,MC30037611,603015.06,0,Standard,STANDARD,,NPA,0,R3 Risk spread NPA to a borrower whose other loan is not truly NPA
+MCL0102227,CBS-M,MC30020531,MC30020531,6949554.95,0,Standard,STANDARD,,NPA,0,R2 Risk spread NPA through the vendor's false name-only matches (different people)
+MCL0102290,CBS-M,MC30023079,MC30023079,98552.08,17,NPA,STANDARD,F4 Borrower rule: another loan of the same customer is NPA (Finance classifies loan by loan),NPA,16,
+MCL0102396,CBS-M,MC30007287,MC30007287,1162700.94,22,SMA-0,STANDARD,,NPA,174,R1 Risk counts a bounced auto-debit as missed even when the EMI was paid days later by cash/UPI/NEFT
+MCL0102398,CBS-M,MC30049476,MC30049476,13.73,0,Standard,STANDARD,,NPA,0,R2 Risk spread NPA through the vendor's false name-only matches (different people)
+MCL0102987,CBS-M,MC30015785,MC30015785,816896.74,17,SMA-0,STANDARD,,NPA,169,R1 Risk counts a bounced auto-debit as missed even when the EMI was paid days later by cash/UPI/NEFT
+MCL0103147,CBS-M,MC30022071,MC30022071,776774.33,47,NPA,STANDARD,F4 Borrower rule: another loan of the same customer is NPA (Finance classifies loan by loan),NPA,46,
+MCL0103277,CBS-M,MC30017556,MC30017556,192265.56,0,Standard,STANDARD,,NPA,258,R1 Risk counts a bounced auto-debit as missed even when the EMI was paid days later by cash/UPI/NEFT
+MCL0103280,CBS-M,MC30017556,MC30017556,1803388.68,0,Standard,STANDARD,,NPA,0,R3 Risk spread NPA to a borrower whose other loan is not truly NPA
+MCL0103414,CBS-M,MC30017521,MC30017521,3135242.25,0,Standard,STANDARD,,NPA,268,R1 Risk counts a bounced auto-debit as missed even when the EMI was paid days later by cash/UPI/NEFT
+MCL0103451,CBS-M,MC30022932,MC30022932,496693.51,22,SMA-0,STANDARD,,NPA,174,R1 Risk counts a bounced auto-debit as missed even when the EMI was paid days later by cash/UPI/NEFT
+MCL0103602,CBS-M,MC30050001,MC30050001,482080.33,57,NPA,STANDARD,F4 Borrower rule: another loan of the same customer is NPA (Finance classifies loan by loan),NPA,56,
+MCL0103628,CBS-M,MC30036421,MC30036421,13.34,0,Standard,STANDARD,,NPA,0,R2 Risk spread NPA through the vendor's false name-only matches (different people)
+MCL0103686,CBS-M,MC30042539,MC30042539,258478.35,0,NPA,STANDARD,F5 Borrower rule across the merger: same person's Pavanpur/Meridian loan is NPA,NPA,294,
+MCL0103779,CBS-M,MC30048930,MC30048930,12.35,0,Standard,STANDARD,,NPA,0,R2 Risk spread NPA through the vendor's false name-only matches (different people)
+MCL0103797,CBS-M,MC30003724,MC30003724,11.96,0,Standard,STANDARD,,NPA,0,R2 Risk spread NPA through the vendor's false name-only matches (different people)
+MCL0103869,CBS-M,MC30001302,MC30001302,173000.00,27,NPA,STANDARD,F5 Borrower rule across the merger: same person's Pavanpur/Meridian loan is NPA,NPA,26,
+MCL0104372,CBS-M,MC30036106,MC30036106,336776.11,0,NPA,STANDARD,F4 Borrower rule: another loan of the same customer is NPA (Finance classifies loan by loan),NPA,0,
+MCL0104388,CBS-M,MC30017010,MC30017010,2537021.62,22,SMA-0,STANDARD,,NPA,143,R1 Risk counts a bounced auto-debit as missed even when the EMI was paid days later by cash/UPI/NEFT
+MCL0105120,CBS-M,MC30023107,MC30023107,6444.46,0,NPA,STANDARD,F5 Borrower rule across the merger: same person's Pavanpur/Meridian loan is NPA,NPA,0,
+MCL0105177,CBS-M,MC30022806,MC30022806,135181.62,0,NPA,STANDARD,F4 Borrower rule: another loan of the same customer is NPA (Finance classifies loan by loan),NPA,0,
+MCL0105179,CBS-M,MC30022400,MC30022400,21394.28,0,Standard,STANDARD,,NPA,169,R1 Risk counts a bounced auto-debit as missed even when the EMI was paid days later by cash/UPI/NEFT
+MCL0105447,CBS-M,MC30028042,MC30028042,1995509.79,0,NPA,STANDARD,F5 Borrower rule across the merger: same person's Pavanpur/Meridian loan is NPA,NPA,0,
+MCL0105552,CBS-M,MC30005635,MC30005635,4145286.41,0,NPA,STANDARD,F4 Borrower rule: another loan of the same customer is NPA (Finance classifies loan by loan),NPA,0,
+MCL0105560,CBS-M,MC30008582,MC30008582,526569.09,0,Standard,STANDARD,,NPA,143,R1 Risk counts a bounced auto-debit as missed even when the EMI was paid days later by cash/UPI/NEFT
+MCL0105670,CBS-M,MC30048643,MC30048643,12.84,0,Standard,STANDARD,,NPA,0,R2 Risk spread NPA through the vendor's false name-only matches (different people)
+MCL0105728,CBS-M,MC30021119,MC30021119,155863.21,88,SMA-2,STANDARD,,NPA,209,R1 Risk counts a bounced auto-debit as missed even when the EMI was paid days later by cash/UPI/NEFT
+MCL0105870,CBS-M,MC30033502,MC30033502,15849.31,0,Standard,STANDARD,,NPA,148,R1 Risk counts a bounced auto-debit as missed even when the EMI was paid days later by cash/UPI/NEFT
+MCL0105873,CBS-M,MC30033502,MC30033502,2855354.28,0,Standard,STANDARD,,NPA,0,R3 Risk spread NPA to a borrower whose other loan is not truly NPA
+MCL0105927,CBS-M,MC30010934,MC30010934,3210.14,0,Standard,STANDARD,,NPA,0,R2 Risk spread NPA through the vendor's false name-only matches (different people)
+MCL0106029,CBS-M,MC30044191,MC30044191,5038859.10,22,SMA-0,STANDARD,,NPA,143,R1 Risk counts a bounced auto-debit as missed even when the EMI was paid days later by cash/UPI/NEFT
+MCL0106165,CBS-M,MC30002121,MC30002121,81535.62,17,SMA-0,STANDARD,,NPA,169,R1 Risk counts a bounced auto-debit as missed even when the EMI was paid days later by cash/UPI/NEFT
+MCL0106166,CBS-M,MC30002121,MC30002121,137358.94,0,Standard,STANDARD,,NPA,0,R3 Risk spread NPA to a borrower whose other loan is not truly NPA
+MCL0106208,CBS-M,MC30039438,MC30039438,399183.40,0,NPA,STANDARD,F4 Borrower rule: another loan of the same customer is NPA (Finance classifies loan by loan),NPA,0,
+MCL0106662,CBS-M,MC30012145,MC30012145,362501.28,0,NPA,STANDARD,F4 Borrower rule: another loan of the same customer is NPA (Finance classifies loan by loan),NPA,0,
+MCL0106689,CBS-M,MC30009247,MC30009247,10.78,0,Standard,STANDARD,,NPA,0,R2 Risk spread NPA through the vendor's false name-only matches (different people)
+MCL0106703,CBS-M,MC30028133,MC30028133,4623485.82,17,SMA-0,STANDARD,,NPA,138,R1 Risk counts a bounced auto-debit as missed even when the EMI was paid days later by cash/UPI/NEFT
+MCL0106781,CBS-M,MC30026131,MC30026131,600867.48,0,NPA,STANDARD,F4 Borrower rule: another loan of the same customer is NPA (Finance classifies loan by loan),NPA,0,
+MCL0106845,CBS-M,MC30017640,MC30017640,5525443.93,0,Standard,STANDARD,,NPA,240,R1 Risk counts a bounced auto-debit as missed even when the EMI was paid days later by cash/UPI/NEFT
+MCL0106853,CBS-M,MC30003717,MC30003717,10.97,0,Standard,STANDARD,,NPA,0,R2 Risk spread NPA through the vendor's false name-only matches (different people)
+MCL0107030,CBS-M,MC30012852,MC30012852,43638.89,0,NPA,STANDARD,F5 Borrower rule across the merger: same person's Pavanpur/Meridian loan is NPA,NPA,0,
+MCL0107079,CBS-M,MC30016219,MC30016219,12.90,0,Standard,STANDARD,,NPA,0,R2 Risk spread NPA through the vendor's false name-only matches (different people)
+MCL0107091,CBS-M,MC30017843,MC30017843,339642.69,0,NPA,STANDARD,F4 Borrower rule: another loan of the same customer is NPA (Finance classifies loan by loan),NPA,0,
+MCL0107189,CBS-M,MC30041384,MC30041384,120307.16,17,SMA-0,STANDARD,,NPA,138,R1 Risk counts a bounced auto-debit as missed even when the EMI was paid days later by cash/UPI/NEFT
+MCL0107326,CBS-M,MC30023569,MC30023569,75247.71,0,NPA,STANDARD,F5 Borrower rule across the merger: same person's Pavanpur/Meridian loan is NPA,NPA,0,
+MCL0107344,CBS-M,MC30017689,MC30017689,1183435.00,27,NPA,STANDARD,F4 Borrower rule: another loan of the same customer is NPA (Finance classifies loan by loan),NPA,26,
+MCL0107411,CBS-M,MC30027244,MC30027244,302957.42,0,NPA,STANDARD,F4 Borrower rule: another loan of the same customer is NPA (Finance classifies loan by loan),NPA,0,
+MCL0107431,CBS-M,MC30034517,MC30034517,115524.82,0,NPA,STANDARD,F5 Borrower rule across the merger: same person's Pavanpur/Meridian loan is NPA,STANDARD,0,R6 Borrower rule: link found in Stage 1 that the vendor map missed (Risk only uses the vendor map)
+MCL0107475,CBS-M,MC30014252,MC30014252,352716.60,0,NPA,STANDARD,F5 Borrower rule across the merger: same person's Pavanpur/Meridian loan is NPA,NPA,0,
+MCL0107477,CBS-M,MC30016856,MC30016856,524558.65,27,NPA,STANDARD,F5 Borrower rule across the merger: same person's Pavanpur/Meridian loan is NPA,NPA,26,
+MCL0107982,CBS-M,MC30004417,MC30004417,174426.57,0,NPA,STANDARD,F4 Borrower rule: another loan of the same customer is NPA (Finance classifies loan by loan),NPA,0,
+MCL0108293,CBS-M,MC30011634,MC30011634,902005.39,17,SMA-0,STANDARD,,NPA,169,R1 Risk counts a bounced auto-debit as missed even when the EMI was paid days later by cash/UPI/NEFT
+MCL0108417,CBS-M,MC30019194,MC30019194,3407116.26,0,NPA,STANDARD,F5 Borrower rule across the merger: same person's Pavanpur/Meridian loan is NPA,NPA,0,
+MCL0108521,CBS-M,MC30020636,MC30020636,143765.42,0,NPA,STANDARD,F4 Borrower rule: another loan of the same customer is NPA (Finance classifies loan by loan),NPA,0,
+MCL0108650,CBS-M,MC30026950,MC30026950,668255.52,0,Standard,STANDARD,,NPA,148,R1 Risk counts a bounced auto-debit as missed even when the EMI was paid days later by cash/UPI/NEFT
+MCL0108760,CBS-M,MC30012110,MC30012110,229657.43,0,Standard,STANDARD,,NPA,148,R1 Risk counts a bounced auto-debit as missed even when the EMI was paid days later by cash/UPI/NEFT
+MCL0108800,CBS-M,MC30023310,MC30023310,13.49,0,Standard,STANDARD,,NPA,0,R2 Risk spread NPA through the vendor's false name-only matches (different people)
+MCL0109069,CBS-M,MC30032221,MC30032221,8718774.20,0,Standard,STANDARD,,NPA,143,R1 Risk counts a bounced auto-debit as missed even when the EMI was paid days later by cash/UPI/NEFT
+MCL0109125,CBS-M,MC30020118,MC30020118,1029340.05,0,NPA,STANDARD,F5 Borrower rule across the merger: same person's Pavanpur/Meridian loan is NPA,STANDARD,0,R6 Borrower rule: link found in Stage 1 that the vendor map missed (Risk only uses the vendor map)
+MCL0109156,CBS-M,MC30044226,MC30044226,677843.10,17,SMA-0,STANDARD,,NPA,138,R1 Risk counts a bounced auto-debit as missed even when the EMI was paid days later by cash/UPI/NEFT
+MCL0109578,CBS-M,MC30021994,MC30021994,423000.00,22,NPA,STANDARD,F5 Borrower rule across the merger: same person's Pavanpur/Meridian loan is NPA,NPA,21,
+MCL0109646,CBS-M,MC30017157,MC30017157,3008229.70,0,NPA,STANDARD,F4 Borrower rule: another loan of the same customer is NPA (Finance classifies loan by loan),NPA,0,
+MCL0109679,CBS-M,MC30014686,MC30014686,3.07,0,NPA,STANDARD,F5 Borrower rule across the merger: same person's Pavanpur/Meridian loan is NPA,NPA,0,
+MCL0109705,CBS-M,MC30026327,MC30026327,83751.82,22,SMA-0,STANDARD,,NPA,294,R1 Risk counts a bounced auto-debit as missed even when the EMI was paid days later by cash/UPI/NEFT
+MCL0109856,CBS-M,MC30033495,MC30033495,1160990.71,0,Standard,STANDARD,,NPA,0,R3 Risk spread NPA to a borrower whose other loan is not truly NPA
+MCL0109857,CBS-M,MC30033495,MC30033495,110275.68,47,SMA-1,STANDARD,,NPA,289,R1 Risk counts a bounced auto-debit as missed even when the EMI was paid days later by cash/UPI/NEFT
+MCL0110007,CBS-M,MC30034370,MC30034370,12.30,0,Standard,STANDARD,,NPA,0,R2 Risk spread NPA through the vendor's false name-only matches (different people)
+MCL0110052,CBS-M,MC30051744,MC30051744,178803.15,0,NPA,STANDARD,F4 Borrower rule: another loan of the same customer is NPA (Finance classifies loan by loan),NPA,0,
+MCL0110087,CBS-M,MC30030380,MC30030380,705896.08,0,NPA,STANDARD,F4 Borrower rule: another loan of the same customer is NPA (Finance classifies loan by loan),NPA,0,
+MCL0110209,CBS-M,MC30046193,MC30046193,242953.36,0,NPA,STANDARD,F4 Borrower rule: another loan of the same customer is NPA (Finance classifies loan by loan),NPA,0,
+MCL0110318,CBS-M,MC30032137,MC30032137,2058775.85,27,SMA-0,STANDARD,,NPA,179,R1 Risk counts a bounced auto-debit as missed even when the EMI was paid days later by cash/UPI/NEFT
+MCL0110727,CBS-M,MC30023695,MC30023695,356961.50,83,NPA,STANDARD,F4 Borrower rule: another loan of the same customer is NPA (Finance classifies loan by loan),NPA,82,
+MCL0110920,CBS-M,MC30022995,MC30022995,391499.06,0,NPA,STANDARD,F4 Borrower rule: another loan of the same customer is NPA (Finance classifies loan by loan),NPA,0,
+MCL0111030,CBS-M,MC30048965,MC30048965,4571930.07,22,SMA-0,STANDARD,,NPA,174,R1 Risk counts a bounced auto-debit as missed even when the EMI was paid days later by cash/UPI/NEFT
+MCL0111043,CBS-M,MC30005117,MC30005117,12.82,0,Standard,STANDARD,,NPA,0,R2 Risk spread NPA through the vendor's false name-only matches (different people)
+MCL0111122,CBS-M,MC30025683,MC30025683,103939.91,0,Standard,STANDARD,,NPA,0,R3 Risk spread NPA to a borrower whose other loan is not truly NPA
+MCL0111123,CBS-M,MC30025683,MC30025683,430519.80,22,SMA-0,STANDARD,,NPA,143,R1 Risk counts a bounced auto-debit as missed even when the EMI was paid days later by cash/UPI/NEFT
+PUC500021,CBS-P,PV220442,PV220442,971424.51,119,NPA,STANDARD,F2 Over 90 DPD but CBS flag says STD: migrated Pavanpur loans (arrears history lost in migration),NPA,118,
+PUC500022,CBS-P,PV201455,PV201455,298809.78,175,NPA,STANDARD,F2 Over 90 DPD but CBS flag says STD: migrated Pavanpur loans (arrears history lost in migration),NPA,174,
+PUC500163,CBS-P,PV218768,PV218768,20813.14,144,NPA,STANDARD,F2 Over 90 DPD but CBS flag says STD: migrated Pavanpur loans (arrears history lost in migration),NPA,143,
+PUC500171,CBS-P,PV221507,MC30045794,100964.69,200,NPA,STANDARD,F2 Over 90 DPD but CBS flag says STD: migrated Pavanpur loans (arrears history lost in migration),NPA,199,
+PUC500182,CBS-P,PV213548,PV213548,392335.05,119,NPA,STANDARD,F2 Over 90 DPD but CBS flag says STD: migrated Pavanpur loans (arrears history lost in migration),NPA,118,
+PUC500192,CBS-P,PV208427,PV208427,363147.49,17,SMA-0,STANDARD,,NPA,16,R3 Risk spread NPA to a borrower whose other loan is not truly NPA
+PUC500193,CBS-P,PV208427,PV208427,85636.30,0,Standard,STANDARD,,NPA,174,R1 Risk counts a bounced auto-debit as missed even when the EMI was paid days later by cash/UPI/NEFT
+PUC500263,CBS-P,PV209249,PV209249,10102.94,109,NPA,STANDARD,F2 Over 90 DPD but CBS flag says STD: migrated Pavanpur loans (arrears history lost in migration),NPA,108,
+PUC500267,CBS-P,PV201101,PV201101,0.01,0,Standard,STANDARD,,NPA,330,R1 Risk counts a bounced auto-debit as missed even when the EMI was paid days later by cash/UPI/NEFT
+PUC500338,CBS-P,PV220697,PV220697,875025.98,144,NPA,STANDARD,F2 Over 90 DPD but CBS flag says STD: migrated Pavanpur loans (arrears history lost in migration),NPA,143,
+PUC500410,CBS-P,PV212498,MC30017143,1051773.43,149,NPA,STANDARD,F2 Over 90 DPD but CBS flag says STD: migrated Pavanpur loans (arrears history lost in migration),NPA,209,
+PUC500462,CBS-P,PV203105,PV203105,55505.78,180,NPA,STANDARD,F2 Over 90 DPD but CBS flag says STD: migrated Pavanpur loans (arrears history lost in migration),NPA,179,
+PUC500463,CBS-P,PV203105,PV203105,3295612.04,22,NPA,STANDARD,F4 Borrower rule: another loan of the same customer is NPA (Finance classifies loan by loan),NPA,21,
+PUC500465,CBS-P,PV203105,PV203105,107250.23,22,NPA,STANDARD,F4 Borrower rule: another loan of the same customer is NPA (Finance classifies loan by loan),NPA,21,
+PUC500475,CBS-P,PV202202,PV202202,3411079.16,17,SMA-0,STANDARD,,NPA,289,R1 Risk counts a bounced auto-debit as missed even when the EMI was paid days later by cash/UPI/NEFT
+PUC500512,CBS-P,PV222086,MC30009702,90606.72,0,NPA,STANDARD,F5 Borrower rule across the merger: same person's Pavanpur/Meridian loan is NPA,STANDARD,0,R6 Borrower rule: link found in Stage 1 that the vendor map missed (Risk only uses the vendor map)
+PUC500528,CBS-P,PV211265,MC30007210,339234.40,0,NPA,STANDARD,F5 Borrower rule across the merger: same person's Pavanpur/Meridian loan is NPA,NPA,0,
+PUC500574,CBS-P,PV201890,PV201890,958138.63,0,NPA,STANDARD,F4 Borrower rule: another loan of the same customer is NPA (Finance classifies loan by loan),NPA,0,
+PUC500629,CBS-P,PV203966,MC30014217,0.01,0,NPA,STANDARD,F5 Borrower rule across the merger: same person's Pavanpur/Meridian loan is NPA,NPA,0,
+PUC500684,CBS-P,PV208211,PV208211,651994.68,170,NPA,STANDARD,F2 Over 90 DPD but CBS flag says STD: migrated Pavanpur loans (arrears history lost in migration),NPA,199,
+PUC500695,CBS-P,PV204149,PV204149,409626.08,200,NPA,STANDARD,F2 Over 90 DPD but CBS flag says STD: migrated Pavanpur loans (arrears history lost in migration),NPA,199,
+PUC500734,CBS-P,PV206072,PV206072,159441.68,119,NPA,STANDARD,F2 Over 90 DPD but CBS flag says STD: migrated Pavanpur loans (arrears history lost in migration),NPA,118,
+PUC500853,CBS-P,PV215687,PV215687,203156.64,0,NPA,STANDARD,F4 Borrower rule: another loan of the same customer is NPA (Finance classifies loan by loan),NPA,0,
+PUC500860,CBS-P,PV215429,PV215429,492584.46,0,NPA,STANDARD,F4 Borrower rule: another loan of the same customer is NPA (Finance classifies loan by loan),NPA,0,
+PUC500923,CBS-P,PV216497,PV216497,196797.93,119,NPA,STANDARD,F2 Over 90 DPD but CBS flag says STD: migrated Pavanpur loans (arrears history lost in migration),NPA,118,
+PUC500964,CBS-P,PV216260,PV216260,655109.25,0,NPA,STANDARD,F4 Borrower rule: another loan of the same customer is NPA (Finance classifies loan by loan),NPA,0,
+PUC501057,CBS-P,PV202694,PV202694,2656206.41,22,SMA-0,NPA,F1 CBS flag still NPA after the borrower cleared arrears (flag not upgraded),SMA-0,21,
+PUC501157,CBS-P,PV202850,PV202850,1419156.58,0,NPA,STANDARD,F4 Borrower rule: another loan of the same customer is NPA (Finance classifies loan by loan),NPA,0,
+PUC501165,CBS-P,PV220307,PV220307,83405.99,139,NPA,STANDARD,F2 Over 90 DPD but CBS flag says STD: migrated Pavanpur loans (arrears history lost in migration),NPA,138,
+PUC501202,CBS-P,PV204551,PV204551,621233.32,0,NPA,STANDARD,F4 Borrower rule: another loan of the same customer is NPA (Finance classifies loan by loan),NPA,0,
+PUC501226,CBS-P,PV207455,PV207455,4323.13,200,NPA,STANDARD,F2 Over 90 DPD but CBS flag says STD: migrated Pavanpur loans (arrears history lost in migration),NPA,199,
+PUC501276,CBS-P,PV201659,MC30027671,1238210.75,0,NPA,STANDARD,F5 Borrower rule across the merger: same person's Pavanpur/Meridian loan is NPA,NPA,0,
+PUC501346,CBS-P,PV221312,PV221312,4.72,0,NPA,STANDARD,F4 Borrower rule: another loan of the same customer is NPA (Finance classifies loan by loan),NPA,0,
+PUC501362,CBS-P,PV219554,PV219554,84080.49,109,NPA,STANDARD,F2 Over 90 DPD but CBS flag says STD: migrated Pavanpur loans (arrears history lost in migration),NPA,108,
+PUC501380,CBS-P,PV217472,PV217472,100041.11,170,NPA,STANDARD,F2 Over 90 DPD but CBS flag says STD: migrated Pavanpur loans (arrears history lost in migration),NPA,169,
+PUC501450,CBS-P,PV204839,PV204839,32080.51,0,NPA,STANDARD,F4 Borrower rule: another loan of the same customer is NPA (Finance classifies loan by loan),NPA,0,
+PUC501451,CBS-P,PV204839,PV204839,10844.15,180,NPA,STANDARD,F2 Over 90 DPD but CBS flag says STD: migrated Pavanpur loans (arrears history lost in migration),NPA,179,
+PUC501545,CBS-P,PV214142,PV214142,48679.63,0,NPA,STANDARD,F4 Borrower rule: another loan of the same customer is NPA (Finance classifies loan by loan),NPA,0,
+PUC501554,CBS-P,PV207770,PV207770,30386.88,200,NPA,STANDARD,F2 Over 90 DPD but CBS flag says STD: migrated Pavanpur loans (arrears history lost in migration),NPA,199,
+PUC501633,CBS-P,PV217040,PV217040,19261.73,119,NPA,STANDARD,F2 Over 90 DPD but CBS flag says STD: migrated Pavanpur loans (arrears history lost in migration),NPA,118,
+PUC501647,CBS-P,PV220250,PV220250,444453.65,170,NPA,STANDARD,F2 Over 90 DPD but CBS flag says STD: migrated Pavanpur loans (arrears history lost in migration),NPA,169,
+PUC501671,CBS-P,PV219836,PV219836,1523433.89,0,NPA,STANDARD,F4 Borrower rule: another loan of the same customer is NPA (Finance classifies loan by loan),NPA,0,
+PUC501792,CBS-P,PV218714,PV218714,246642.82,27,SMA-0,NPA,F1 CBS flag still NPA after the borrower cleared arrears (flag not upgraded),SMA-0,26,
+PUC501824,CBS-P,PV219386,PV219386,852443.61,170,NPA,STANDARD,F2 Over 90 DPD but CBS flag says STD: migrated Pavanpur loans (arrears history lost in migration),NPA,169,
+PUC501838,CBS-P,PV209021,PV209021,1827558.14,139,NPA,STANDARD,F2 Over 90 DPD but CBS flag says STD: migrated Pavanpur loans (arrears history lost in migration),NPA,138,
+PUC501847,CBS-P,PV205100,PV205100,347936.59,0,Standard,STANDARD,,NPA,0,R3 Risk spread NPA to a borrower whose other loan is not truly NPA
+PUC501849,CBS-P,PV205100,PV205100,161961.49,0,Standard,STANDARD,,NPA,174,R1 Risk counts a bounced auto-debit as missed even when the EMI was paid days later by cash/UPI/NEFT
+PUC501928,CBS-P,PV221606,MC30028042,31334.42,149,NPA,STANDARD,F2 Over 90 DPD but CBS flag says STD: migrated Pavanpur loans (arrears history lost in migration),NPA,148,
+PUC501931,CBS-P,PV206411,PV206411,36260.38,119,NPA,STANDARD,F2 Over 90 DPD but CBS flag says STD: migrated Pavanpur loans (arrears history lost in migration),NPA,118,
+PUC502044,CBS-P,PV206822,PV206822,13056.10,175,NPA,STANDARD,F2 Over 90 DPD but CBS flag says STD: migrated Pavanpur loans (arrears history lost in migration),NPA,174,
+PUC502117,CBS-P,PV200831,PV200831,452067.26,144,NPA,STANDARD,F2 Over 90 DPD but CBS flag says STD: migrated Pavanpur loans (arrears history lost in migration),NPA,143,
+PUC502118,CBS-P,PV205616,PV205616,5330.88,205,NPA,STANDARD,F2 Over 90 DPD but CBS flag says STD: migrated Pavanpur loans (arrears history lost in migration),NPA,204,
+PUC502163,CBS-P,PV201827,PV201827,182572.30,0,NPA,STANDARD,F4 Borrower rule: another loan of the same customer is NPA (Finance classifies loan by loan),NPA,0,
+PUC502368,CBS-P,PV214889,PV214889,170071.06,0,NPA,STANDARD,F4 Borrower rule: another loan of the same customer is NPA (Finance classifies loan by loan),NPA,0,
+PUC502393,CBS-P,PV221408,PV221408,390593.60,0,NPA,STANDARD,F4 Borrower rule: another loan of the same customer is NPA (Finance classifies loan by loan),NPA,0,
+PUC502433,CBS-P,PV222683,PV222683,3142262.42,0,NPA,STANDARD,F4 Borrower rule: another loan of the same customer is NPA (Finance classifies loan by loan),NPA,0,
+PUC502458,CBS-P,PV219998,PV219998,26652.62,109,NPA,STANDARD,F2 Over 90 DPD but CBS flag says STD: migrated Pavanpur loans (arrears history lost in migration),NPA,108,
+PUC502511,CBS-P,PV219959,PV219959,33177.27,149,NPA,STANDARD,F2 Over 90 DPD but CBS flag says STD: migrated Pavanpur loans (arrears history lost in migration),NPA,148,
+PUC502624,CBS-P,PV222785,MC30017689,179972.83,0,NPA,NPA,,STANDARD,0,R6 Borrower rule: link found in Stage 1 that the vendor map missed (Risk only uses the vendor map)
+PUC502645,CBS-P,PV220688,MC30034517,360541.27,175,NPA,STANDARD,F2 Over 90 DPD but CBS flag says STD: migrated Pavanpur loans (arrears history lost in migration),NPA,174,
+PUC502760,CBS-P,PV205667,PV205667,2301294.18,200,NPA,STANDARD,F2 Over 90 DPD but CBS flag says STD: migrated Pavanpur loans (arrears history lost in migration),NPA,199,
+PUC502787,CBS-P,PV222281,PV222281,22908.89,175,NPA,STANDARD,F2 Over 90 DPD but CBS flag says STD: migrated Pavanpur loans (arrears history lost in migration),NPA,174,
+PUC502821,CBS-P,PV210479,MC30043183,128487.02,119,NPA,STANDARD,F2 Over 90 DPD but CBS flag says STD: migrated Pavanpur loans (arrears history lost in migration),NPA,118,
+PUC502825,CBS-P,PV206777,MC30047845,545683.33,109,NPA,STANDARD,F2 Over 90 DPD but CBS flag says STD: migrated Pavanpur loans (arrears history lost in migration),NPA,108,
+PUC502856,CBS-P,PV200819,MC30026271,829884.98,170,NPA,STANDARD,F2 Over 90 DPD but CBS flag says STD: migrated Pavanpur loans (arrears history lost in migration),NPA,169,
+PUC502957,CBS-P,PV214004,MC30002345,543726.98,0,NPA,STANDARD,F5 Borrower rule across the merger: same person's Pavanpur/Meridian loan is NPA,NPA,0,
+PUC503022,CBS-P,PV212288,PV212288,97151.67,139,NPA,STANDARD,F2 Over 90 DPD but CBS flag says STD: migrated Pavanpur loans (arrears history lost in migration),NPA,138,
+PUC503038,CBS-P,PV221972,PV221972,302630.14,114,NPA,STANDARD,F2 Over 90 DPD but CBS flag says STD: migrated Pavanpur loans (arrears history lost in migration),NPA,113,
+PUC503088,CBS-P,PV222323,PV222323,205538.44,175,NPA,STANDARD,F2 Over 90 DPD but CBS flag says STD: migrated Pavanpur loans (arrears history lost in migration),NPA,174,
+PUC503103,CBS-P,PV220613,PV220613,1431812.98,170,NPA,STANDARD,F2 Over 90 DPD but CBS flag says STD: migrated Pavanpur loans (arrears history lost in migration),NPA,169,
+PUC503105,CBS-P,PV209357,MC30010528,376921.17,0,NPA,STANDARD,F5 Borrower rule across the merger: same person's Pavanpur/Meridian loan is NPA,STANDARD,0,R6 Borrower rule: link found in Stage 1 that the vendor map missed (Risk only uses the vendor map)
+PUC503119,CBS-P,PV213497,PV213497,108185.98,27,SMA-0,STANDARD,,NPA,240,R1 Risk counts a bounced auto-debit as missed even when the EMI was paid days later by cash/UPI/NEFT
+PUC503178,CBS-P,PV209075,PV209075,3319820.48,0,Standard,STANDARD,,NPA,143,R1 Risk counts a bounced auto-debit as missed even when the EMI was paid days later by cash/UPI/NEFT
+PUC503248,CBS-P,PV212165,PV212165,120009.54,114,NPA,STANDARD,F2 Over 90 DPD but CBS flag says STD: migrated Pavanpur loans (arrears history lost in migration),NPA,113,
+PUC503374,CBS-P,PV219503,PV219503,387447.25,144,NPA,STANDARD,F2 Over 90 DPD but CBS flag says STD: migrated Pavanpur loans (arrears history lost in migration),NPA,143,
+PUC503379,CBS-P,PV213668,PV213668,2102098.78,17,SMA-0,STANDARD,,NPA,199,R1 Risk counts a bounced auto-debit as missed even when the EMI was paid days later by cash/UPI/NEFT
+PUC503417,CBS-P,PV219527,PV219527,161897.13,0,NPA,STANDARD,F4 Borrower rule: another loan of the same customer is NPA (Finance classifies loan by loan),NPA,0,
+PUC503471,CBS-P,PV222056,MC30021994,342142.10,144,NPA,STANDARD,F2 Over 90 DPD but CBS flag says STD: migrated Pavanpur loans (arrears history lost in migration),NPA,143,
+PUC503497,CBS-P,PV214958,MC30014686,9253.45,205,NPA,STANDARD,F2 Over 90 DPD but CBS flag says STD: migrated Pavanpur loans (arrears history lost in migration),NPA,204,
+PUC503674,CBS-P,PV214508,MC30030380,98232.70,0,NPA,STANDARD,F5 Borrower rule across the merger: same person's Pavanpur/Meridian loan is NPA,STANDARD,0,R6 Borrower rule: link found in Stage 1 that the vendor map missed (Risk only uses the vendor map)
+PUC503776,CBS-P,PV220661,MC30051751,1921937.18,0,NPA,STANDARD,F5 Borrower rule across the merger: same person's Pavanpur/Meridian loan is NPA,NPA,0,
+PUC503820,CBS-P,PV215234,PV215234,690346.86,200,NPA,STANDARD,F2 Over 90 DPD but CBS flag says STD: migrated Pavanpur loans (arrears history lost in migration),NPA,230,
+PUC503854,CBS-P,PV217682,PV217682,863774.32,175,NPA,STANDARD,F2 Over 90 DPD but CBS flag says STD: migrated Pavanpur loans (arrears history lost in migration),NPA,174,
+PUC503881,CBS-P,PV221441,PV221441,1319186.41,0,NPA,STANDARD,F4 Borrower rule: another loan of the same customer is NPA (Finance classifies loan by loan),NPA,0,
+PUC503883,CBS-P,PV221441,PV221441,11309.40,139,NPA,STANDARD,F2 Over 90 DPD but CBS flag says STD: migrated Pavanpur loans (arrears history lost in migration),NPA,138,
+PUC503931,CBS-P,PV206555,PV206555,31930.26,175,NPA,STANDARD,F2 Over 90 DPD but CBS flag says STD: migrated Pavanpur loans (arrears history lost in migration),NPA,174,
+PUC503991,CBS-P,PV202361,PV202361,103232.68,119,NPA,STANDARD,F2 Over 90 DPD but CBS flag says STD: migrated Pavanpur loans (arrears history lost in migration),NPA,118,
+PUC504019,CBS-P,PV207236,PV207236,43496.98,114,NPA,STANDARD,F2 Over 90 DPD but CBS flag says STD: migrated Pavanpur loans (arrears history lost in migration),NPA,113,
+PUC504101,CBS-P,PV208037,PV208037,678643.05,149,NPA,STANDARD,F2 Over 90 DPD but CBS flag says STD: migrated Pavanpur loans (arrears history lost in migration),NPA,148,
+PUC504163,CBS-P,PV212558,PV212558,8875.51,109,NPA,STANDARD,F2 Over 90 DPD but CBS flag says STD: migrated Pavanpur loans (arrears history lost in migration),NPA,108,
+PUC504174,CBS-P,PV206687,PV206687,243282.02,0,NPA,STANDARD,F4 Borrower rule: another loan of the same customer is NPA (Finance classifies loan by loan),NPA,0,

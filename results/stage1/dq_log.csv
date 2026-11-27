@@ -1,0 +1,95 @@
+﻿dq_id,question,table_name,column_name,source_system,problem,rule_applied,action_taken,rows_affected,rupees_involved
+1,Q1.1,dw_snapshot_oct2026,loan_id,DWH,"Warehouse balance differs from CBS (warehouse holds the higher, earlier balance)",Warehouse is NOT complete: CBS extract is the system of record; warehouse not used for any figure,FLAGGED,29,482722.80
+2,Q1.1,dw_snapshot_oct2026,loan_id,DWH,Loan in warehouse but not in the October CBS extract (stale rows for loans no longer in the book),Warehouse is NOT complete: CBS extract is the system of record; warehouse not used for any figure,FLAGGED,6,136750.64
+3,Q1.1,dw_snapshot_oct2026,loan_id,DWH,"CBS says NPA, warehouse says STD",Warehouse is NOT complete: CBS extract is the system of record; warehouse not used for any figure,FLAGGED,12,12870990.56
+4,Q1.1,dw_snapshot_oct2026,loan_id,DWH,Loan in CBS extract but not loaded into the warehouse (all former Pavanpur loans),Warehouse is NOT complete: CBS extract is the system of record; warehouse not used for any figure,FLAGGED,37,55267831.06
+8,Q1.2,loan_accounts,sanction_date,CBS-P,Date written as SLASH,Slash dates read as MM/DD/YYYY for CBS-M and DD/MM/YYYY for CBS-P (no value contradicts this),FIXED,2164,2612208451.45
+9,Q1.2,loan_accounts,sanction_date,CBS-M,Date written as SLASH,Slash dates read as MM/DD/YYYY for CBS-M and DD/MM/YYYY for CBS-P (no value contradicts this),FIXED,760,892493116.61
+10,Q1.2,loan_accounts,sanction_date,CBS-P,Date written as DD-MON-YYYY,Converted with STR_TO_DATE,FIXED,516,612277216.46
+11,Q1.2,loan_accounts,sanction_date,CBS-P,Date written as EXCEL_SERIAL,Excel serial number converted: 1899-12-30 + n days,FIXED,31,27694599.98
+12,Q1.2,loan_accounts,sanction_date,CBS-M,Date written as EXCEL_SERIAL,Excel serial number converted: 1899-12-30 + n days,FIXED,55,66415603.52
+13,Q1.2,loan_accounts,first_emi_date,CBS-P,Date written as SLASH,Slash dates read as MM/DD/YYYY for CBS-M and DD/MM/YYYY for CBS-P (no value contradicts this),FIXED,2164,2612208451.45
+14,Q1.2,loan_accounts,first_emi_date,CBS-M,Date written as SLASH,Slash dates read as MM/DD/YYYY for CBS-M and DD/MM/YYYY for CBS-P (no value contradicts this),FIXED,760,892493116.61
+15,Q1.2,loan_accounts,first_emi_date,CBS-P,Date written as DD-MON-YYYY,Converted with STR_TO_DATE,FIXED,516,612277216.46
+16,Q1.2,loan_accounts,first_emi_date,CBS-P,Date written as EXCEL_SERIAL,Excel serial number converted: 1899-12-30 + n days,FIXED,31,27694599.98
+17,Q1.2,loan_accounts,first_emi_date,CBS-M,Date written as EXCEL_SERIAL,Excel serial number converted: 1899-12-30 + n days,FIXED,55,66415603.52
+23,Q1.2,loan_accounts,sanction_amount,CBS-P,Amount written in format LAKH,"Removed ₹ and Indian-style commas; ""L"" multiplied by 1,00,000",FIXED,391,605373000.00
+24,Q1.2,loan_accounts,sanction_amount,CBS-P,Amount written in format INDIAN_COMMAS,"Removed ₹ and Indian-style commas; ""L"" multiplied by 1,00,000",FIXED,820,1317735000.00
+25,Q1.2,loan_accounts,sanction_amount,CBS-P,Amount written in format RUPEE_SYMBOL,"Removed ₹ and Indian-style commas; ""L"" multiplied by 1,00,000",FIXED,806,1200702000.00
+26,Q1.2,loan_accounts,outstanding_principal,CBS-P,Amount written in format INDIAN_COMMAS,"Removed ₹ and Indian-style commas; ""L"" multiplied by 1,00,000",FIXED,1163,1494270064.73
+27,Q1.2,loan_accounts,outstanding_principal,CBS-P,Amount written in format RUPEE_SYMBOL,"Removed ₹ and Indian-style commas; ""L"" multiplied by 1,00,000",FIXED,816,973995376.03
+30,Q1.2,loan_accounts,interest_rate,CBS-P,Rate written as a fraction (0.1200 = 12.00%),Removed %; values below 1 multiplied by 100,FIXED,522,897367306.59
+31,Q1.2,loan_accounts,interest_rate,CBS-P,Rate written with a % sign,Removed %; values below 1 multiplied by 100,FIXED,1689,1471819772.51
+33,Q1.2,loan_accounts,tenure,CBS-P,Tenure written in years (e.g. 5Y),Converted to months (Y x 12),FIXED,1209,1458018917.92
+34,Q1.2,loan_accounts,tenure,CBS-P,Tenure written in months with M suffix (e.g. 60M),Converted to months (Y x 12),FIXED,759,884029598.61
+36,Q1.2,loan_accounts,product,CBS-P,"16 different names used for product codes (e.g. PERS LOAN, JEWEL LOAN, 2W/4W LOAN)",Mapped every name to the 6 product codes in products (mapping confirmed against cbs_extract product_code for every loan),FIXED,2373,2966769250.53
+37,Q1.2,loan_accounts,branch_code,CBS-P,Pavanpur branch code lost its leading zero (101 instead of 0101),Left-padded CBS-P branch codes to 4 digits,FIXED,40,32389603.06
+38,Q1.2,loan_accounts,sanctioning_officer_id,CBS-M,No approving officer recorded,"Kept; officer unknown, loan cannot be tested against the delegation matrix",FLAGGED,76,97205179.49
+39,Q1.2,loan_accounts,sanctioning_officer_id,CBS-P,No approving officer recorded,"Kept; officer unknown, loan cannot be tested against the delegation matrix",FLAGGED,36,53613968.91
+41,Q1.2,customers,customer_name,CBS-M,"Name not in clean ""First Surname"" form (titles, SURNAME, FIRST order, upper/lower case, extra spaces, trailing full stop)","Titles and M/S removed, order reversed, spaces collapsed, proper case",FIXED,175,
+42,Q1.2,customers,customer_name,CBS-P,"Name not in clean ""First Surname"" form (titles, SURNAME, FIRST order, upper/lower case, extra spaces, trailing full stop)","Titles and M/S removed, order reversed, spaces collapsed, proper case",FIXED,2543,
+43,Q1.2,customers,pan,CBS-P,PAN in lower case or with spaces,Upper-cased and spaces removed,FIXED,683,
+44,Q1.2,customers,date_of_birth,CBS-P,Date of birth written DD/MM/YYYY,Converted to DATE,FIXED,2501,
+45,Q1.2,customers,created_on,CBS-P,Created date written DD/MM/YYYY,Converted to DATE,FIXED,2543,
+46,Q1.2,customers,gender,CBS-P,Gender written Male/Female instead of M/F,Standardised to M/F,FIXED,2501,
+47,Q1.2,customers,kyc_status,CBS-P,"Pavanpur KYC word ""KYC DONE""",Standardised to VERIFIED,FIXED,1289,
+48,Q1.2,disbursements,amount,CBS-P,Amount written in format RUPEE_SYMBOL,"Removed ₹ and commas; ""L"" x 1,00,000",FIXED,940,1064518000.00
+49,Q1.2,disbursements,amount,CBS-P,Amount written in format INDIAN_COMMAS,"Removed ₹ and commas; ""L"" x 1,00,000",FIXED,983,1249516000.00
+50,Q1.2,disbursements,amount,CBS-P,Amount written in format LAKH,"Removed ₹ and commas; ""L"" x 1,00,000",FIXED,478,589566000.00
+51,Q1.2,disbursements,disbursement_date,CBS-P,Payout date written DD/MM/YYYY,Converted to DATE,FIXED,3224,3973484000.00
+52,Q1.2,collateral,valuation_amount,CBS-P,Amount written in format INDIAN_COMMAS,"Removed ₹ and commas; ""L"" x 1,00,000",FIXED,769,2401012956.00
+53,Q1.2,collateral,valuation_amount,CBS-P,Amount written in format RUPEE_SYMBOL,"Removed ₹ and commas; ""L"" x 1,00,000",FIXED,480,1488076914.00
+54,Q1.2,collateral,valuation_amount,CBS-P,Amount written in format LAKH,"Removed ₹ and commas; ""L"" x 1,00,000",FIXED,1,158000.00
+55,Q1.2,collateral,valuation_date,CBS-P,Valuation date written DD/MM/YYYY,Converted to DATE,FIXED,1682,5220365229.00
+56,Q1.2,customer_contacts,contact_value,CBS-P,"Mobile written with +91, 0 prefix or spaces","Kept digits only, dropped 91/0 prefix",FIXED,2188,
+63,Q1.3,customers,pan,CBS-M,UNFIXABLE: wrong length (character missing),Cannot be repaired from the data held; listed in customer_exceptions for the branch to collect,FLAGGED,8,
+64,Q1.3,customers,pan,CBS-M,UNFIXABLE: placeholder (NA / PANAPPLIED),Cannot be repaired from the data held; listed in customer_exceptions for the branch to collect,FLAGGED,12,
+65,Q1.3,customers,pan,CBS-M,UNFIXABLE: dummy PAN XXXXX0000X,Cannot be repaired from the data held; listed in customer_exceptions for the branch to collect,FLAGGED,4,
+66,Q1.3,customers,pan,CBS-M,UNFIXABLE: company PAN on a person,Cannot be repaired from the data held; listed in customer_exceptions for the branch to collect,FLAGGED,18,
+67,Q1.3,customers,pan,CBS-P,UNFIXABLE: no PAN recorded,Cannot be repaired from the data held; listed in customer_exceptions for the branch to collect,FLAGGED,326,
+68,Q1.3,customers,mobile,CBS-M,UNFIXABLE: 9 digits (a digit is missing),Cannot be repaired from the data held; listed in customer_exceptions for the branch to collect,FLAGGED,16,
+69,Q1.3,customers,mobile,CBS-P,UNFIXABLE: 9 digits (a digit is missing),Cannot be repaired from the data held; listed in customer_exceptions for the branch to collect,FLAGGED,6,
+70,Q1.3,customers,date_of_birth,CBS-M,UNFIXABLE: no date of birth recorded,Cannot be repaired from the data held; listed in customer_exceptions for the branch to collect,FLAGGED,98,
+71,Q1.3,customers,date_of_birth,CBS-P,UNFIXABLE: no date of birth recorded,Cannot be repaired from the data held; listed in customer_exceptions for the branch to collect,FLAGGED,42,
+78,Q1.3,customers,pan,CBS-P,FIXED: case / spaces,"Upper-cased, spaces removed, then validated",FIXED,683,
+79,Q1.3,customer_contacts,mobile,CBS-P,FIXED: +91 / 0 / spaces removed,"Best valid number chosen (primary first, latest first)",FIXED,1873,
+80,Q1.4,legacy_id_map,meridian_customer_id,OUR_SEARCH,Link refused (vendor basis CBS-M internal),"Refused: two Meridian records, same name and birth date but different PANs",EXCLUDED,1,
+81,Q1.4,legacy_id_map,meridian_customer_id,VENDOR_MAP,Link accepted (vendor basis PAN),"Accepted: same PAN, name and date of birth",FIXED,216,
+82,Q1.4,legacy_id_map,meridian_customer_id,OUR_SEARCH,Link accepted,"Accepted: same PAN, name and date of birth",FIXED,78,
+83,Q1.4,legacy_id_map,meridian_customer_id,OUR_SEARCH,Link accepted,"Accepted: same name and date of birth; PAN missing/unusable on one side, so nothing contradicts",FIXED,35,
+84,Q1.4,legacy_id_map,meridian_customer_id,VENDOR_MAP,Link accepted (vendor basis NAME+DOB),"Accepted: same name and date of birth; PAN missing/unusable on one side, so nothing contradicts",FIXED,92,
+85,Q1.4,legacy_id_map,meridian_customer_id,VENDOR_MAP,Link refused (vendor basis NAME),Refused: different PANs means different people,EXCLUDED,11,
+86,Q1.4,legacy_id_map,meridian_customer_id,VENDOR_MAP,Link refused (vendor basis NAME),Refused: same name but different dates of birth,EXCLUDED,4,
+87,Q1.4,legacy_id_map,meridian_customer_id,VENDOR_MAP,Link accepted (vendor basis PAN),"Accepted: same name and date of birth; PAN missing/unusable on one side, so nothing contradicts",FIXED,2,
+95,Q1.5,loan_accounts,loan_id,CBS-M,Older version of a loan re-extracted in batch B07 (balance before the last October posting),Kept one row per loan: latest load_timestamp; exact repeats keep lowest record_id,EXCLUDED,26,32778511.94
+96,Q1.5,loan_accounts,loan_id,CBS-M,"Exact repeat of a loan row (same batch, same timestamp)",Kept one row per loan: latest load_timestamp; exact repeats keep lowest record_id,EXCLUDED,64,85791224.92
+97,Q1.5,loan_accounts,loan_id,CBS-P,Older version of a loan re-extracted in batch B07 (balance before the last October posting),Kept one row per loan: latest load_timestamp; exact repeats keep lowest record_id,EXCLUDED,12,26661800.88
+98,Q1.5,loan_accounts,loan_id,CBS-M,"Loan missing from loan_accounts but present in CBS extract, Finance, Risk, payouts, schedule and payments","Rebuilt from cbs_extract (branch, product, balance, EMI), finance (customer), payouts (amount, date), schedule (first EMI, rate, tenure)",ADDED,2,2569805.13
+99,Q1.7,loan_accounts,branch_code,CBS-M,Loan booked at a branch that has since closed,"Moved to the branch that took over its loans (branches.merged_into_ifsc, followed to an active branch)",FIXED,216,197388825.37
+100,Q1.7,loan_accounts,branch_code,CBS-P,Loan booked at a branch that has since closed,"Moved to the branch that took over its loans (branches.merged_into_ifsc, followed to an active branch)",FIXED,496,559806823.55
+102,Q1.5,loan_accounts,outstanding_principal,CBS-M,Loan fully repaid but still open with a balance of a rupee or less,Kept in the book (it is in the CBS extract); flagged for closure,FLAGGED,14,7.30
+103,Q1.5,loan_accounts,outstanding_principal,CBS-P,Loan fully repaid but still open with a balance of a rupee or less,Kept in the book (it is in the CBS extract); flagged for closure,FLAGGED,46,7.46
+105,Q1.6,loan_accounts,emi_amount,CBS-M,EMI check: OK_PARTLY_DISBURSED,"Home loan paid out in stages: EMI is correctly set on the amount paid out so far, not the full sanction",NONE,357,1041343719.95
+106,Q1.6,loan_accounts,emi_amount,CBS-M,EMI check: EMI_KEYING_ERROR,"EMI on the loan record was mistyped (digits swapped/changed). The EMI schedule and the formula agree, so the schedule value is used",FIXED,20,22357610.40
+107,Q1.6,loan_accounts,emi_amount,CBS-P,EMI check: FLAT_RATE,"Pavanpur personal loan priced on a flat rate: EMI = P x (1 + rate x years) / months. Terms add up on that basis, but the true (reducing) rate is far higher than the rate on record",FLAGGED,967,256662379.33
+108,Q1.6,loan_accounts,emi_amount,CBS-P,EMI check: OK_PARTLY_DISBURSED,"Home loan paid out in stages: EMI is correctly set on the amount paid out so far, not the full sanction",NONE,148,455587283.25
+112,Q1.7,disbursements,disbursement_id,CBS-M,"Same payout posted twice (same loan, date and amount under a new tranche number)",Second posting excluded from payout totals,EXCLUDED,15,19043000.00
+113,Q1.7,disbursements,disbursement_id,CBS-P,"Same payout posted twice (same loan, date and amount under a new tranche number)",Second posting excluded from payout totals,EXCLUDED,11,8835000.00
+115,Q1.7,loan_book,collateral,CBS-M,Secured loan with no security recorded,Flagged: security must be traced before the loan can be provisioned as secured,FLAGGED,102,160854038.73
+116,Q1.7,loan_book,collateral,CBS-P,Secured loan with no security recorded,Flagged: security must be traced before the loan can be provisioned as secured,FLAGGED,50,62139909.49
+118,Q1.7,repayments,payment_id,CBS-M,Two identical payments on the same day (looks like a double posting),Kept: each loan was one EMI behind and both payments are needed to clear it,FLAGGED,4,38590.00
+119,Q1.7,repayments,payment_id,CBS-P,Two identical payments on the same day (looks like a double posting),Kept: each loan was one EMI behind and both payments are needed to clear it,FLAGGED,5,169373.00
+121,Q1.7,repayments,payment_status,CBS-M,Bounced: money never received,Not counted as money received,EXCLUDED,9626,229089016.36
+122,Q1.7,repayments,payment_status,CBS-P,Bounced: money never received,Not counted as money received,EXCLUDED,2845,69357242.97
+123,Q1.7,repayments,payment_status,CBS-P,Reversed later (cheque/NACH returned),Not counted as money received,EXCLUDED,663,17382190.00
+124,Q1.7,repayments,payment_status,CBS-P,Reversal entry: cancels an earlier payment,Not counted as money received,EXCLUDED,663,17382190.00
+125,Q1.7,repayments,payment_status,CBS-M,Reversed later (cheque/NACH returned),Not counted as money received,EXCLUDED,529,13169118.00
+126,Q1.7,repayments,payment_status,CBS-M,Reversal entry: cancels an earlier payment,Not counted as money received,EXCLUDED,529,13169118.00
+128,Q1.7,emi_schedule,emi_due,ALL,Checked: EMI = principal + interest on every row; control total matches,No change needed,NONE,161224,4086198894.51
+129,Q1.8,loan_book,AGE_OVER_70_AT_MATURITY,CBS-M,Lending rule breached: AGE_OVER_70_AT_MATURITY,"Flagged, not deleted (loan_rule_breaches). Rupees = outstanding principal of the loans in breach",FLAGGED,139,475813912.17
+130,Q1.8,loan_book,GOLD_LTV_ABOVE_RBI_LIMIT,CBS-M,Lending rule breached: GOLD_LTV_ABOVE_RBI_LIMIT,"Flagged, not deleted (loan_rule_breaches). Rupees = outstanding principal of the loans in breach",FLAGGED,13,941113.70
+131,Q1.8,loan_book,FIRST_EMI_BEFORE_PAYOUT,CBS-M,Lending rule breached: FIRST_EMI_BEFORE_PAYOUT,"Flagged, not deleted (loan_rule_breaches). Rupees = outstanding principal of the loans in breach",FLAGGED,17,9488053.17
+132,Q1.8,loan_book,PAID_OUT_MORE_THAN_SANCTIONED,CBS-M,Lending rule breached: PAID_OUT_MORE_THAN_SANCTIONED,"Flagged, not deleted (loan_rule_breaches). Rupees = outstanding principal of the loans in breach",FLAGGED,5,15822201.59
+133,Q1.8,loan_book,AGE_OVER_70_AT_MATURITY,CBS-P,Lending rule breached: AGE_OVER_70_AT_MATURITY,"Flagged, not deleted (loan_rule_breaches). Rupees = outstanding principal of the loans in breach",FLAGGED,53,196345868.81
+134,Q1.8,loan_book,GOLD_LTV_ABOVE_RBI_LIMIT,CBS-P,Lending rule breached: GOLD_LTV_ABOVE_RBI_LIMIT,"Flagged, not deleted (loan_rule_breaches). Rupees = outstanding principal of the loans in breach",FLAGGED,9,743743.27
+135,Q1.8,loan_book,FIRST_EMI_BEFORE_PAYOUT,CBS-P,Lending rule breached: FIRST_EMI_BEFORE_PAYOUT,"Flagged, not deleted (loan_rule_breaches). Rupees = outstanding principal of the loans in breach",FLAGGED,2,494318.28

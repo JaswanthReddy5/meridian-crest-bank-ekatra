@@ -1,0 +1,8 @@
+﻿step_no,step,loans,rupees
+1,loan_accounts.csv as delivered (all rows),8366,9887797549.10
+2,less: exact repeat rows removed,-64,-85791224.92
+3,less: superseded versions removed (replaced by the B07 re-extract),-38,-59440312.82
+4,"add: loans missing from loan_accounts, rebuilt from the CBS extract",2,2569805.13
+5,= clean loan book (loan_book),8266,9745135816.49
+6,manifest control total for loan_accounts.csv,8266,9745135816.49
+7,difference (must be zero),0,0.00

@@ -1,0 +1,531 @@
+﻿customer_id,source_system,customer_name,field,raw_value,reason
+MC30001505,CBS-M,Prashant Shirol,PAN,QDMPX9517,UNFIXABLE: wrong length (character missing)
+MC30001953,CBS-M,Hanumant Mulla,PAN,PANAPPLIED,UNFIXABLE: placeholder (NA / PANAPPLIED)
+MC30003332,CBS-M,Pooja Nayak,PAN,XXXXX0000X,UNFIXABLE: dummy PAN XXXXX0000X
+MC30004543,CBS-M,Umesh Biradar,PAN,NA,UNFIXABLE: placeholder (NA / PANAPPLIED)
+MC30004725,CBS-M,Bharati Desai,PAN,YAFCW4027K,UNFIXABLE: company PAN on a person
+MC30005502,CBS-M,Deepa Hiremath,PAN,XAJCF4608V,UNFIXABLE: company PAN on a person
+MC30006237,CBS-M,Santosh Bagewadi,PAN,JFWCW9439L,UNFIXABLE: company PAN on a person
+MC30006356,CBS-M,Priya Pawar,PAN,PANAPPLIED,UNFIXABLE: placeholder (NA / PANAPPLIED)
+MC30006363,CBS-M,Nagaraj Chavan,PAN,BSZCI5162Z,UNFIXABLE: company PAN on a person
+MC30008141,CBS-M,Veeresh Kattimani,PAN,XXXXX0000X,UNFIXABLE: dummy PAN XXXXX0000X
+MC30008442,CBS-M,Sunita Badiger,PAN,TIQPO3726,UNFIXABLE: wrong length (character missing)
+MC30010066,CBS-M,Prakash Chavan,PAN,KOJCJ3165N,UNFIXABLE: company PAN on a person
+MC30010479,CBS-M,Geeta Kadam,PAN,NA,UNFIXABLE: placeholder (NA / PANAPPLIED)
+MC30012901,CBS-M,Joseph Shetty,PAN,IWFCG8262Z,UNFIXABLE: company PAN on a person
+MC30015330,CBS-M,Shobha Yaragatti,PAN,XXXXX0000X,UNFIXABLE: dummy PAN XXXXX0000X
+MC30015911,CBS-M,Siddappa Kattimani,PAN,PANAPPLIED,UNFIXABLE: placeholder (NA / PANAPPLIED)
+MC30016723,CBS-M,Ashok Bagewadi,PAN,SUWCQ7552M,UNFIXABLE: company PAN on a person
+MC30020776,CBS-M,Anil Angadi,PAN,BJJCM5784J,UNFIXABLE: company PAN on a person
+MC30021483,CBS-M,Hanumant Bagewadi,PAN,NA,UNFIXABLE: placeholder (NA / PANAPPLIED)
+MC30023023,CBS-M,Manjunath Sankeshwar,PAN,PANAPPLIED,UNFIXABLE: placeholder (NA / PANAPPLIED)
+MC30023737,CBS-M,Ayesha Kotagi,PAN,UTNCX4628G,UNFIXABLE: company PAN on a person
+MC30024157,CBS-M,Prashant Lamani,PAN,PNQPQ5131,UNFIXABLE: wrong length (character missing)
+MC30026005,CBS-M,Nagaraj Huded,PAN,AYHPM9966,UNFIXABLE: wrong length (character missing)
+MC30027146,CBS-M,Harish Savadi,PAN,CPLCF6521M,UNFIXABLE: company PAN on a person
+MC30027321,CBS-M,Shobha Mathad,PAN,JZOCB4470V,UNFIXABLE: company PAN on a person
+MC30029022,CBS-M,Kaveri Chavan,PAN,BTAPH4685,UNFIXABLE: wrong length (character missing)
+MC30029715,CBS-M,Imran Madar,PAN,NJHCQ4830S,UNFIXABLE: company PAN on a person
+MC30029890,CBS-M,Nagaraj Pujari,PAN,NA,UNFIXABLE: placeholder (NA / PANAPPLIED)
+MC30030471,CBS-M,Channabasappa Nayak,PAN,BEJPM8732,UNFIXABLE: wrong length (character missing)
+MC30033257,CBS-M,Raghavendra Shaikh,PAN,URAPR8226,UNFIXABLE: wrong length (character missing)
+MC30033796,CBS-M,Sunil Hosamani,PAN,TNUPT2782,UNFIXABLE: wrong length (character missing)
+MC30034111,CBS-M,Nagaraj Mulla,PAN,NA,UNFIXABLE: placeholder (NA / PANAPPLIED)
+MC30037268,CBS-M,Mohammed Savadi,PAN,PANAPPLIED,UNFIXABLE: placeholder (NA / PANAPPLIED)
+MC30040474,CBS-M,Anita Jadhav,PAN,PANAPPLIED,UNFIXABLE: placeholder (NA / PANAPPLIED)
+MC30040712,CBS-M,Kiran Hegde,PAN,FCXCH6282E,UNFIXABLE: company PAN on a person
+MC30041601,CBS-M,Priya Ullagaddi,PAN,MCPCZ1459N,UNFIXABLE: company PAN on a person
+MC30043008,CBS-M,Parvati Bagewadi,PAN,YXRCI8060Q,UNFIXABLE: company PAN on a person
+MC30043295,CBS-M,Mohammed D'Souza,PAN,YJICA4259F,UNFIXABLE: company PAN on a person
+MC30046228,CBS-M,Santosh Kamble,PAN,IJACH2155D,UNFIXABLE: company PAN on a person
+MC30047257,CBS-M,Manjunath Kattimani,PAN,NA,UNFIXABLE: placeholder (NA / PANAPPLIED)
+MC30050988,CBS-M,Shilpa Chavan,PAN,XXXXX0000X,UNFIXABLE: dummy PAN XXXXX0000X
+MC30051044,CBS-M,Vinayak Talwar,PAN,VMFCF3889A,UNFIXABLE: company PAN on a person
+PV200033,CBS-P,Sangeeta Joshi,PAN,,UNFIXABLE: no PAN recorded
+PV200066,CBS-P,Suresh Gowda,PAN,,UNFIXABLE: no PAN recorded
+PV200336,CBS-P,Arun Rao,PAN,,UNFIXABLE: no PAN recorded
+PV200345,CBS-P,Arun Lamani,PAN,,UNFIXABLE: no PAN recorded
+PV200357,CBS-P,Irfan Huded,PAN,,UNFIXABLE: no PAN recorded
+PV200375,CBS-P,Sudha Pawar,PAN,,UNFIXABLE: no PAN recorded
+PV200465,CBS-P,Channabasappa D'Souza,PAN,,UNFIXABLE: no PAN recorded
+PV200585,CBS-P,Sharanappa Bagewadi,PAN,,UNFIXABLE: no PAN recorded
+PV200606,CBS-P,Manjunath Hiremath,PAN,,UNFIXABLE: no PAN recorded
+PV200723,CBS-P,Suresh Ullagaddi,PAN,,UNFIXABLE: no PAN recorded
+PV200825,CBS-P,Mahadevi Belagali,PAN,,UNFIXABLE: no PAN recorded
+PV200975,CBS-P,Pradeep Hiremath,PAN,,UNFIXABLE: no PAN recorded
+PV201020,CBS-P,Vidya Savadi,PAN,,UNFIXABLE: no PAN recorded
+PV201089,CBS-P,Anil Sankeshwar,PAN,,UNFIXABLE: no PAN recorded
+PV201197,CBS-P,Usha Badiger,PAN,,UNFIXABLE: no PAN recorded
+PV201209,CBS-P,Bharati Kotagi,PAN,,UNFIXABLE: no PAN recorded
+PV201317,CBS-P,Nagaraj Hublikar,PAN,,UNFIXABLE: no PAN recorded
+PV201380,CBS-P,Vijay Joshi,PAN,,UNFIXABLE: no PAN recorded
+PV201431,CBS-P,Annapurna Flour Mill,PAN,,UNFIXABLE: no PAN recorded
+PV201497,CBS-P,Prashant Patil,PAN,,UNFIXABLE: no PAN recorded
+PV201647,CBS-P,Savitri Fernandes,PAN,,UNFIXABLE: no PAN recorded
+PV201689,CBS-P,Pradeep Kadam,PAN,,UNFIXABLE: no PAN recorded
+PV201716,CBS-P,Anil Mulla,PAN,,UNFIXABLE: no PAN recorded
+PV201860,CBS-P,Prashant D'Souza,PAN,,UNFIXABLE: no PAN recorded
+PV201881,CBS-P,Anil Desai,PAN,,UNFIXABLE: no PAN recorded
+PV201917,CBS-P,Sangeeta Lamani,PAN,,UNFIXABLE: no PAN recorded
+PV201974,CBS-P,Shobha Desai,PAN,,UNFIXABLE: no PAN recorded
+PV202106,CBS-P,Hanumant Hiremath,PAN,,UNFIXABLE: no PAN recorded
+PV202262,CBS-P,Hanumant Joshi,PAN,,UNFIXABLE: no PAN recorded
+PV202298,CBS-P,Neha Kattimani,PAN,,UNFIXABLE: no PAN recorded
+PV202451,CBS-P,Channabasappa Hosamani,PAN,,UNFIXABLE: no PAN recorded
+PV202481,CBS-P,Gururaj Naik,PAN,,UNFIXABLE: no PAN recorded
+PV202565,CBS-P,Roopa Rao,PAN,,UNFIXABLE: no PAN recorded
+PV202601,CBS-P,Ravi Bhat,PAN,,UNFIXABLE: no PAN recorded
+PV202667,CBS-P,Manjunath Hublikar,PAN,,UNFIXABLE: no PAN recorded
+PV202670,CBS-P,Sushma Bhat,PAN,,UNFIXABLE: no PAN recorded
+PV202730,CBS-P,Harish Pawar,PAN,,UNFIXABLE: no PAN recorded
+PV202838,CBS-P,Prashant Pawar,PAN,,UNFIXABLE: no PAN recorded
+PV202841,CBS-P,Roopa Menasinkai,PAN,,UNFIXABLE: no PAN recorded
+PV202979,CBS-P,Deepak Menasinkai,PAN,,UNFIXABLE: no PAN recorded
+PV203039,CBS-P,Sharanappa Shaikh,PAN,,UNFIXABLE: no PAN recorded
+PV203093,CBS-P,Vinayak Lamani,PAN,,UNFIXABLE: no PAN recorded
+PV203102,CBS-P,Kaveri Talwar,PAN,,UNFIXABLE: no PAN recorded
+PV203174,CBS-P,Rajesh Kadam,PAN,,UNFIXABLE: no PAN recorded
+PV203204,CBS-P,Hanumant Madar,PAN,,UNFIXABLE: no PAN recorded
+PV203327,CBS-P,Sachin Shirol,PAN,,UNFIXABLE: no PAN recorded
+PV203354,CBS-P,Anita Hublikar,PAN,,UNFIXABLE: no PAN recorded
+PV203744,CBS-P,Prakash Talwar,PAN,,UNFIXABLE: no PAN recorded
+PV203786,CBS-P,Mallikarjun Savadi,PAN,,UNFIXABLE: no PAN recorded
+PV204017,CBS-P,Veeresh Pawar,PAN,,UNFIXABLE: no PAN recorded
+PV204140,CBS-P,Asha Bhat,PAN,,UNFIXABLE: no PAN recorded
+PV204167,CBS-P,Manjunath Mathad,PAN,,UNFIXABLE: no PAN recorded
+PV204308,CBS-P,Shabana Fernandes,PAN,,UNFIXABLE: no PAN recorded
+PV204437,CBS-P,Kaveri Joshi,PAN,,UNFIXABLE: no PAN recorded
+PV204479,CBS-P,Sharanappa Bhat,PAN,,UNFIXABLE: no PAN recorded
+PV204530,CBS-P,Shrikant Kadam,PAN,,UNFIXABLE: no PAN recorded
+PV204593,CBS-P,Mahesh Shaikh,PAN,,UNFIXABLE: no PAN recorded
+PV204602,CBS-P,Prakash Jadhav,PAN,,UNFIXABLE: no PAN recorded
+PV204611,CBS-P,Rajesh Pujari,PAN,,UNFIXABLE: no PAN recorded
+PV204848,CBS-P,Mahesh Ullagaddi,PAN,,UNFIXABLE: no PAN recorded
+PV205055,CBS-P,Neha Talwar,PAN,,UNFIXABLE: no PAN recorded
+PV205148,CBS-P,Veeresh Angadi,PAN,,UNFIXABLE: no PAN recorded
+PV205193,CBS-P,Girish Bagewadi,PAN,,UNFIXABLE: no PAN recorded
+PV205334,CBS-P,Kaveri Pujari,PAN,,UNFIXABLE: no PAN recorded
+PV205412,CBS-P,Raghavendra Pawar,PAN,,UNFIXABLE: no PAN recorded
+PV205442,CBS-P,Mallikarjun D'Souza,PAN,,UNFIXABLE: no PAN recorded
+PV205568,CBS-P,Naveen Savadi,PAN,,UNFIXABLE: no PAN recorded
+PV205574,CBS-P,Anand Rao,PAN,,UNFIXABLE: no PAN recorded
+PV205667,CBS-P,Umesh Pawar,PAN,,UNFIXABLE: no PAN recorded
+PV205796,CBS-P,Imran Talwar,PAN,,UNFIXABLE: no PAN recorded
+PV205877,CBS-P,Veeresh Angadi,PAN,,UNFIXABLE: no PAN recorded
+PV205880,CBS-P,Siddappa Kattimani,PAN,,UNFIXABLE: no PAN recorded
+PV205895,CBS-P,Imran Kadam,PAN,,UNFIXABLE: no PAN recorded
+PV206231,CBS-P,Anita Yaragatti,PAN,,UNFIXABLE: no PAN recorded
+PV206432,CBS-P,Jyoti Pawar,PAN,,UNFIXABLE: no PAN recorded
+PV206606,CBS-P,Anil Hublikar,PAN,,UNFIXABLE: no PAN recorded
+PV206687,CBS-P,Girish Biradar,PAN,,UNFIXABLE: no PAN recorded
+PV206699,CBS-P,Anand Joshi,PAN,,UNFIXABLE: no PAN recorded
+PV206777,CBS-P,Sachin D'Souza,PAN,,UNFIXABLE: no PAN recorded
+PV206801,CBS-P,Mallikarjun Mulla,PAN,,UNFIXABLE: no PAN recorded
+PV207275,CBS-P,Shrikant Hosamani,PAN,,UNFIXABLE: no PAN recorded
+PV207281,CBS-P,Vidya Gudi,PAN,,UNFIXABLE: no PAN recorded
+PV207329,CBS-P,Hanumant Belagali,PAN,,UNFIXABLE: no PAN recorded
+PV207482,CBS-P,Nandini Kammar,PAN,,UNFIXABLE: no PAN recorded
+PV207491,CBS-P,Rajesh Huded,PAN,,UNFIXABLE: no PAN recorded
+PV207503,CBS-P,Joseph Jadhav,PAN,,UNFIXABLE: no PAN recorded
+PV207731,CBS-P,Pradeep Hiremath,PAN,,UNFIXABLE: no PAN recorded
+PV207815,CBS-P,Ramesh Fernandes,PAN,,UNFIXABLE: no PAN recorded
+PV207878,CBS-P,Parvati Biradar,PAN,,UNFIXABLE: no PAN recorded
+PV207884,CBS-P,Asha Shetty,PAN,,UNFIXABLE: no PAN recorded
+PV208064,CBS-P,Suresh Lamani,PAN,,UNFIXABLE: no PAN recorded
+PV208106,CBS-P,Vinayak Jadhav,PAN,,UNFIXABLE: no PAN recorded
+PV208124,CBS-P,Veeresh Angadi,PAN,,UNFIXABLE: no PAN recorded
+PV208160,CBS-P,Parvati Huded,PAN,,UNFIXABLE: no PAN recorded
+PV208229,CBS-P,Nagaraj Fernandes,PAN,,UNFIXABLE: no PAN recorded
+PV208235,CBS-P,Vinayak Menasinkai,PAN,,UNFIXABLE: no PAN recorded
+PV208250,CBS-P,Anil Shirol,PAN,,UNFIXABLE: no PAN recorded
+PV208295,CBS-P,Sharanappa Pujari,PAN,,UNFIXABLE: no PAN recorded
+PV208346,CBS-P,Deepak Patil,PAN,,UNFIXABLE: no PAN recorded
+PV208415,CBS-P,Ashok Savadi,PAN,,UNFIXABLE: no PAN recorded
+PV208442,CBS-P,Irfan D'Souza,PAN,,UNFIXABLE: no PAN recorded
+PV208493,CBS-P,Sunita Belagali,PAN,,UNFIXABLE: no PAN recorded
+PV208709,CBS-P,Veeresh Shirol,PAN,,UNFIXABLE: no PAN recorded
+PV208910,CBS-P,Prashant Chavan,PAN,,UNFIXABLE: no PAN recorded
+PV209012,CBS-P,Prakash Fernandes,PAN,,UNFIXABLE: no PAN recorded
+PV209033,CBS-P,Harish Hublikar,PAN,,UNFIXABLE: no PAN recorded
+PV209093,CBS-P,Anil Shirol,PAN,,UNFIXABLE: no PAN recorded
+PV209120,CBS-P,Joseph Shirol,PAN,,UNFIXABLE: no PAN recorded
+PV209132,CBS-P,Girish Huded,PAN,,UNFIXABLE: no PAN recorded
+PV209171,CBS-P,Usha Gowda,PAN,,UNFIXABLE: no PAN recorded
+PV209339,CBS-P,Vijay Angadi,PAN,,UNFIXABLE: no PAN recorded
+PV209561,CBS-P,Gururaj Mathad,PAN,,UNFIXABLE: no PAN recorded
+PV209648,CBS-P,Kaveri Hosamani,PAN,,UNFIXABLE: no PAN recorded
+PV209729,CBS-P,Santosh Shetty,PAN,,UNFIXABLE: no PAN recorded
+PV209783,CBS-P,Girish Rao,PAN,,UNFIXABLE: no PAN recorded
+PV209789,CBS-P,Basavaraj Huded,PAN,,UNFIXABLE: no PAN recorded
+PV209822,CBS-P,Santosh Shirol,PAN,,UNFIXABLE: no PAN recorded
+PV209846,CBS-P,Ravi Hegde,PAN,,UNFIXABLE: no PAN recorded
+PV209960,CBS-P,Bharati Kotagi,PAN,,UNFIXABLE: no PAN recorded
+PV209969,CBS-P,Sudha Mulla,PAN,,UNFIXABLE: no PAN recorded
+PV209981,CBS-P,Anil Rao,PAN,,UNFIXABLE: no PAN recorded
+PV210062,CBS-P,Mallikarjun Sankeshwar,PAN,,UNFIXABLE: no PAN recorded
+PV210251,CBS-P,Pradeep Kammar,PAN,,UNFIXABLE: no PAN recorded
+PV210326,CBS-P,Mallikarjun Bhat,PAN,,UNFIXABLE: no PAN recorded
+PV210362,CBS-P,Girish Nayak,PAN,,UNFIXABLE: no PAN recorded
+PV210404,CBS-P,Joseph Kamble,PAN,,UNFIXABLE: no PAN recorded
+PV210473,CBS-P,Asha Nadaf,PAN,,UNFIXABLE: no PAN recorded
+PV210581,CBS-P,Mahesh Hosamani,PAN,,UNFIXABLE: no PAN recorded
+PV210587,CBS-P,Sharanappa Huded,PAN,,UNFIXABLE: no PAN recorded
+PV210737,CBS-P,Siddappa Kotagi,PAN,,UNFIXABLE: no PAN recorded
+PV210884,CBS-P,Bharati Shaikh,PAN,,UNFIXABLE: no PAN recorded
+PV210905,CBS-P,Ravi Kattimani,PAN,,UNFIXABLE: no PAN recorded
+PV210980,CBS-P,Manjunath Bagewadi,PAN,,UNFIXABLE: no PAN recorded
+PV210983,CBS-P,Roopa Shaikh,PAN,,UNFIXABLE: no PAN recorded
+PV211046,CBS-P,Gururaj Mulla,PAN,,UNFIXABLE: no PAN recorded
+PV211136,CBS-P,Pradeep Kammar,PAN,,UNFIXABLE: no PAN recorded
+PV211151,CBS-P,Kavita Pawar,PAN,,UNFIXABLE: no PAN recorded
+PV211241,CBS-P,Mary Shaikh,PAN,,UNFIXABLE: no PAN recorded
+PV211340,CBS-P,Imran D'Souza,PAN,,UNFIXABLE: no PAN recorded
+PV211430,CBS-P,Channabasappa Biradar,PAN,,UNFIXABLE: no PAN recorded
+PV211436,CBS-P,Shobha Kulkarni,PAN,,UNFIXABLE: no PAN recorded
+PV211454,CBS-P,Joseph Menasinkai,PAN,,UNFIXABLE: no PAN recorded
+PV211490,CBS-P,Pradeep Shetty,PAN,,UNFIXABLE: no PAN recorded
+PV211586,CBS-P,Sushma Patil,PAN,,UNFIXABLE: no PAN recorded
+PV211739,CBS-P,Jyoti Kadam,PAN,,UNFIXABLE: no PAN recorded
+PV211802,CBS-P,Mary Belagali,PAN,,UNFIXABLE: no PAN recorded
+PV211838,CBS-P,Sharanappa Joshi,PAN,,UNFIXABLE: no PAN recorded
+PV212033,CBS-P,Prakash Gowda,PAN,,UNFIXABLE: no PAN recorded
+PV212069,CBS-P,Deepak Rao,PAN,,UNFIXABLE: no PAN recorded
+PV212168,CBS-P,Nagaraj Sankeshwar,PAN,,UNFIXABLE: no PAN recorded
+PV212237,CBS-P,Geeta Hosamani,PAN,,UNFIXABLE: no PAN recorded
+PV212336,CBS-P,Anil Desai,PAN,,UNFIXABLE: no PAN recorded
+PV212339,CBS-P,Shivanand Madar,PAN,,UNFIXABLE: no PAN recorded
+PV212381,CBS-P,Basavaraj Lamani,PAN,,UNFIXABLE: no PAN recorded
+PV212396,CBS-P,Suresh Kattimani,PAN,,UNFIXABLE: no PAN recorded
+PV212441,CBS-P,Girish Kamble,PAN,,UNFIXABLE: no PAN recorded
+PV212447,CBS-P,Deepak Kattimani,PAN,,UNFIXABLE: no PAN recorded
+PV212498,CBS-P,Deepa Hosamani,PAN,,UNFIXABLE: no PAN recorded
+PV212558,CBS-P,Ravi Chavan,PAN,,UNFIXABLE: no PAN recorded
+PV212588,CBS-P,Sushma Nayak,PAN,,UNFIXABLE: no PAN recorded
+PV212606,CBS-P,Ravi Nayak,PAN,,UNFIXABLE: no PAN recorded
+PV212666,CBS-P,Asha Pawar,PAN,,UNFIXABLE: no PAN recorded
+PV212876,CBS-P,Neha Lamani,PAN,,UNFIXABLE: no PAN recorded
+PV212927,CBS-P,Uttar Spices & Co,PAN,,UNFIXABLE: no PAN recorded
+PV212963,CBS-P,Sudha Huded,PAN,,UNFIXABLE: no PAN recorded
+PV213029,CBS-P,Mohammed Kulkarni,PAN,,UNFIXABLE: no PAN recorded
+PV213266,CBS-P,Arun Kulkarni,PAN,,UNFIXABLE: no PAN recorded
+PV213305,CBS-P,Santosh Shaikh,PAN,,UNFIXABLE: no PAN recorded
+PV213347,CBS-P,Sunil Kamble,PAN,,UNFIXABLE: no PAN recorded
+PV213407,CBS-P,Deepak Bagewadi,PAN,,UNFIXABLE: no PAN recorded
+PV213449,CBS-P,Manjunath Patil,PAN,,UNFIXABLE: no PAN recorded
+PV213461,CBS-P,Mahesh Sankeshwar,PAN,,UNFIXABLE: no PAN recorded
+PV213467,CBS-P,Nagaraj Kotagi,PAN,,UNFIXABLE: no PAN recorded
+PV213470,CBS-P,Santosh Badiger,PAN,,UNFIXABLE: no PAN recorded
+PV213536,CBS-P,Nagaraj Desai,PAN,,UNFIXABLE: no PAN recorded
+PV213548,CBS-P,Girish Angadi,PAN,,UNFIXABLE: no PAN recorded
+PV213557,CBS-P,Renuka Menasinkai,PAN,,UNFIXABLE: no PAN recorded
+PV213611,CBS-P,Ravi Biradar,PAN,,UNFIXABLE: no PAN recorded
+PV213662,CBS-P,Jyoti Joshi,PAN,,UNFIXABLE: no PAN recorded
+PV213728,CBS-P,Mahadevi Kamble,PAN,,UNFIXABLE: no PAN recorded
+PV213737,CBS-P,Shrikant Fernandes,PAN,,UNFIXABLE: no PAN recorded
+PV213881,CBS-P,Harish Angadi,PAN,,UNFIXABLE: no PAN recorded
+PV213977,CBS-P,Anil Hublikar,PAN,,UNFIXABLE: no PAN recorded
+PV214016,CBS-P,Ravi Savadi,PAN,,UNFIXABLE: no PAN recorded
+PV214019,CBS-P,Harish Patil,PAN,,UNFIXABLE: no PAN recorded
+PV214049,CBS-P,Naveen Talwar,PAN,,UNFIXABLE: no PAN recorded
+PV214064,CBS-P,Prashant Belagali,PAN,,UNFIXABLE: no PAN recorded
+PV214073,CBS-P,Arun Jadhav,PAN,,UNFIXABLE: no PAN recorded
+PV214223,CBS-P,Nagaraj Kammar,PAN,,UNFIXABLE: no PAN recorded
+PV214256,CBS-P,Veeresh Kulkarni,PAN,,UNFIXABLE: no PAN recorded
+PV214340,CBS-P,Santosh Biradar,PAN,,UNFIXABLE: no PAN recorded
+PV214433,CBS-P,Hanumant Gudi,PAN,,UNFIXABLE: no PAN recorded
+PV214508,CBS-P,Suresh Hegde,PAN,,UNFIXABLE: no PAN recorded
+PV214535,CBS-P,Mahesh Kammar,PAN,,UNFIXABLE: no PAN recorded
+PV214538,CBS-P,Hanumant Pawar,PAN,,UNFIXABLE: no PAN recorded
+PV214601,CBS-P,Ravi Huded,PAN,,UNFIXABLE: no PAN recorded
+PV214706,CBS-P,Navkar Hardware Pvt Ltd,PAN,,UNFIXABLE: no PAN recorded
+PV214811,CBS-P,Hanumant Kamble,PAN,,UNFIXABLE: no PAN recorded
+PV214874,CBS-P,Raghavendra Kulkarni,PAN,,UNFIXABLE: no PAN recorded
+PV214880,CBS-P,Pooja Patil,PAN,,UNFIXABLE: no PAN recorded
+PV214898,CBS-P,Uttar Spices & Co,PAN,,UNFIXABLE: no PAN recorded
+PV214958,CBS-P,Harish Sankeshwar,PAN,,UNFIXABLE: no PAN recorded
+PV214997,CBS-P,Channabasappa Kammar,PAN,,UNFIXABLE: no PAN recorded
+PV215000,CBS-P,Roopa Joshi,PAN,,UNFIXABLE: no PAN recorded
+PV215186,CBS-P,Umesh Bagewadi,PAN,,UNFIXABLE: no PAN recorded
+PV215306,CBS-P,Anil Kammar,PAN,,UNFIXABLE: no PAN recorded
+PV215354,CBS-P,Girish Hegde,PAN,,UNFIXABLE: no PAN recorded
+PV215369,CBS-P,Santosh Naik,PAN,,UNFIXABLE: no PAN recorded
+PV215468,CBS-P,Bharati Jadhav,PAN,,UNFIXABLE: no PAN recorded
+PV215651,CBS-P,Arun Nadaf,PAN,,UNFIXABLE: no PAN recorded
+PV215663,CBS-P,Basavaraj Gudi,PAN,,UNFIXABLE: no PAN recorded
+PV215717,CBS-P,Channabasappa Savadi,PAN,,UNFIXABLE: no PAN recorded
+PV215801,CBS-P,Basavaraj Madar,PAN,,UNFIXABLE: no PAN recorded
+PV215807,CBS-P,Naveen Fernandes,PAN,,UNFIXABLE: no PAN recorded
+PV216161,CBS-P,Vinayak Belagali,PAN,,UNFIXABLE: no PAN recorded
+PV216188,CBS-P,Santosh Kammar,PAN,,UNFIXABLE: no PAN recorded
+PV216206,CBS-P,Raghavendra Kattimani,PAN,,UNFIXABLE: no PAN recorded
+PV216215,CBS-P,Ravi Naik,PAN,,UNFIXABLE: no PAN recorded
+PV216230,CBS-P,Harish Rao,PAN,,UNFIXABLE: no PAN recorded
+PV216272,CBS-P,Parvati Kotagi,PAN,,UNFIXABLE: no PAN recorded
+PV216296,CBS-P,Anil Rao,PAN,,UNFIXABLE: no PAN recorded
+PV216338,CBS-P,Kiran Jadhav,PAN,,UNFIXABLE: no PAN recorded
+PV216344,CBS-P,Imran Lamani,PAN,,UNFIXABLE: no PAN recorded
+PV216368,CBS-P,Mallikarjun Kammar,PAN,,UNFIXABLE: no PAN recorded
+PV216389,CBS-P,Harish Jadhav,PAN,,UNFIXABLE: no PAN recorded
+PV216395,CBS-P,Ramesh Rao,PAN,,UNFIXABLE: no PAN recorded
+PV216431,CBS-P,Ravi Hiremath,PAN,,UNFIXABLE: no PAN recorded
+PV216461,CBS-P,Sudha Desai,PAN,,UNFIXABLE: no PAN recorded
+PV216488,CBS-P,Santosh Badiger,PAN,,UNFIXABLE: no PAN recorded
+PV216491,CBS-P,Irfan Madar,PAN,,UNFIXABLE: no PAN recorded
+PV216524,CBS-P,Harish Shaikh,PAN,,UNFIXABLE: no PAN recorded
+PV216584,CBS-P,Prashant Mathad,PAN,,UNFIXABLE: no PAN recorded
+PV216626,CBS-P,Ravi Belagali,PAN,,UNFIXABLE: no PAN recorded
+PV216641,CBS-P,Ashok Yaragatti,PAN,,UNFIXABLE: no PAN recorded
+PV216680,CBS-P,Veeresh Kattimani,PAN,,UNFIXABLE: no PAN recorded
+PV216728,CBS-P,Sharanappa Jadhav,PAN,,UNFIXABLE: no PAN recorded
+PV216797,CBS-P,Sunita Mulla,PAN,,UNFIXABLE: no PAN recorded
+PV216911,CBS-P,Sharanappa Kadam,PAN,,UNFIXABLE: no PAN recorded
+PV216917,CBS-P,Ayesha Shetty,PAN,,UNFIXABLE: no PAN recorded
+PV216923,CBS-P,Sudha Joshi,PAN,,UNFIXABLE: no PAN recorded
+PV217001,CBS-P,Ravi Joshi,PAN,,UNFIXABLE: no PAN recorded
+PV217130,CBS-P,Gururaj Shetty,PAN,,UNFIXABLE: no PAN recorded
+PV217163,CBS-P,Sharanappa Angadi,PAN,,UNFIXABLE: no PAN recorded
+PV217166,CBS-P,Sharanappa Shetty,PAN,,UNFIXABLE: no PAN recorded
+PV217268,CBS-P,Manjunath Naik,PAN,,UNFIXABLE: no PAN recorded
+PV217358,CBS-P,Usha Yaragatti,PAN,,UNFIXABLE: no PAN recorded
+PV217481,CBS-P,Geeta Shaikh,PAN,,UNFIXABLE: no PAN recorded
+PV217511,CBS-P,Anil Jadhav,PAN,,UNFIXABLE: no PAN recorded
+PV217553,CBS-P,Prakash Hiremath,PAN,,UNFIXABLE: no PAN recorded
+PV217574,CBS-P,Mohammed Kotagi,PAN,,UNFIXABLE: no PAN recorded
+PV217586,CBS-P,Mallikarjun Gudi,PAN,,UNFIXABLE: no PAN recorded
+PV217694,CBS-P,Irfan Nadaf,PAN,,UNFIXABLE: no PAN recorded
+PV217847,CBS-P,Pradeep Menasinkai,PAN,,UNFIXABLE: no PAN recorded
+PV217943,CBS-P,Savitri Badiger,PAN,,UNFIXABLE: no PAN recorded
+PV217955,CBS-P,Mahadevi Nayak,PAN,,UNFIXABLE: no PAN recorded
+PV217988,CBS-P,Harish Kattimani,PAN,,UNFIXABLE: no PAN recorded
+PV218042,CBS-P,Shabana Rao,PAN,,UNFIXABLE: no PAN recorded
+PV218084,CBS-P,Gururaj Gudi,PAN,,UNFIXABLE: no PAN recorded
+PV218147,CBS-P,Mahesh Naik,PAN,,UNFIXABLE: no PAN recorded
+PV218195,CBS-P,Vijay Pujari,PAN,,UNFIXABLE: no PAN recorded
+PV218318,CBS-P,Roopa Gudi,PAN,,UNFIXABLE: no PAN recorded
+PV218324,CBS-P,Basavaraj Kattimani,PAN,,UNFIXABLE: no PAN recorded
+PV218369,CBS-P,Nagaraj Kulkarni,PAN,,UNFIXABLE: no PAN recorded
+PV218615,CBS-P,Manjunath Madar,PAN,,UNFIXABLE: no PAN recorded
+PV218657,CBS-P,Hanumant Patil,PAN,,UNFIXABLE: no PAN recorded
+PV218684,CBS-P,Mahesh D'Souza,PAN,,UNFIXABLE: no PAN recorded
+PV218801,CBS-P,Imran Savadi,PAN,,UNFIXABLE: no PAN recorded
+PV218837,CBS-P,Neha Lamani,PAN,,UNFIXABLE: no PAN recorded
+PV218963,CBS-P,Nandini Nadaf,PAN,,UNFIXABLE: no PAN recorded
+PV218984,CBS-P,Joseph Kammar,PAN,,UNFIXABLE: no PAN recorded
+PV219074,CBS-P,Mohammed Nayak,PAN,,UNFIXABLE: no PAN recorded
+PV219125,CBS-P,Prashant Jadhav,PAN,,UNFIXABLE: no PAN recorded
+PV219188,CBS-P,Sunil Shaikh,PAN,,UNFIXABLE: no PAN recorded
+PV219281,CBS-P,Veeresh D'Souza,PAN,,UNFIXABLE: no PAN recorded
+PV219347,CBS-P,Mahesh Kammar,PAN,,UNFIXABLE: no PAN recorded
+PV219413,CBS-P,Mahadevi Shaikh,PAN,,UNFIXABLE: no PAN recorded
+PV219542,CBS-P,Umesh Bhat,PAN,,UNFIXABLE: no PAN recorded
+PV219620,CBS-P,Nandini Savadi,PAN,,UNFIXABLE: no PAN recorded
+PV219665,CBS-P,Ayesha Rao,PAN,,UNFIXABLE: no PAN recorded
+PV219671,CBS-P,Prashant Jadhav,PAN,,UNFIXABLE: no PAN recorded
+PV219680,CBS-P,Veeresh Madar,PAN,,UNFIXABLE: no PAN recorded
+PV219722,CBS-P,Sachin Hiremath,PAN,,UNFIXABLE: no PAN recorded
+PV219833,CBS-P,Kiran Hegde,PAN,,UNFIXABLE: no PAN recorded
+PV219977,CBS-P,Shilpa Bagewadi,PAN,,UNFIXABLE: no PAN recorded
+PV220013,CBS-P,Veeresh Hosamani,PAN,,UNFIXABLE: no PAN recorded
+PV220205,CBS-P,Sachin Shirol,PAN,,UNFIXABLE: no PAN recorded
+PV220211,CBS-P,Parvati Savadi,PAN,,UNFIXABLE: no PAN recorded
+PV220256,CBS-P,Channabasappa Badiger,PAN,,UNFIXABLE: no PAN recorded
+PV220289,CBS-P,Arun Shaikh,PAN,,UNFIXABLE: no PAN recorded
+PV220292,CBS-P,Prashant Shetty,PAN,,UNFIXABLE: no PAN recorded
+PV220313,CBS-P,Naveen Desai,PAN,,UNFIXABLE: no PAN recorded
+PV220352,CBS-P,Arun Jadhav,PAN,,UNFIXABLE: no PAN recorded
+PV220367,CBS-P,Anil Kammar,PAN,,UNFIXABLE: no PAN recorded
+PV220421,CBS-P,Joseph Nadaf,PAN,,UNFIXABLE: no PAN recorded
+PV220460,CBS-P,Renuka Shaikh,PAN,,UNFIXABLE: no PAN recorded
+PV220688,CBS-P,Kaveri Belagali,PAN,,UNFIXABLE: no PAN recorded
+PV220691,CBS-P,Arun Hosamani,PAN,,UNFIXABLE: no PAN recorded
+PV220901,CBS-P,Raghavendra Bagewadi,PAN,,UNFIXABLE: no PAN recorded
+PV221033,CBS-P,Priya Nayak,PAN,,UNFIXABLE: no PAN recorded
+PV221051,CBS-P,Lakshmi D'Souza,PAN,,UNFIXABLE: no PAN recorded
+PV221078,CBS-P,Vijay Kulkarni,PAN,,UNFIXABLE: no PAN recorded
+PV221201,CBS-P,Kavita Yaragatti,PAN,,UNFIXABLE: no PAN recorded
+PV221432,CBS-P,Rekha Hiremath,PAN,,UNFIXABLE: no PAN recorded
+PV221465,CBS-P,Channabasappa Ullagaddi,PAN,,UNFIXABLE: no PAN recorded
+PV221471,CBS-P,Prashant Nayak,PAN,,UNFIXABLE: no PAN recorded
+PV221507,CBS-P,Savitri Chavan,PAN,,UNFIXABLE: no PAN recorded
+PV221561,CBS-P,Nagaraj Shetty,PAN,,UNFIXABLE: no PAN recorded
+PV221573,CBS-P,Asha Rao,PAN,,UNFIXABLE: no PAN recorded
+PV221648,CBS-P,Vijay Yaragatti,PAN,,UNFIXABLE: no PAN recorded
+PV221690,CBS-P,Deepak Kotagi,PAN,,UNFIXABLE: no PAN recorded
+PV221702,CBS-P,Basavaraj Bhat,PAN,,UNFIXABLE: no PAN recorded
+PV221807,CBS-P,Renuka Jadhav,PAN,,UNFIXABLE: no PAN recorded
+PV221840,CBS-P,Imran Menasinkai,PAN,,UNFIXABLE: no PAN recorded
+PV222008,CBS-P,Kiran Shetty,PAN,,UNFIXABLE: no PAN recorded
+PV222062,CBS-P,Shilpa Kadam,PAN,,UNFIXABLE: no PAN recorded
+PV222128,CBS-P,Anil Shirol,PAN,,UNFIXABLE: no PAN recorded
+PV222380,CBS-P,Pradeep Talwar,PAN,,UNFIXABLE: no PAN recorded
+PV222410,CBS-P,Arun Yaragatti,PAN,,UNFIXABLE: no PAN recorded
+PV222575,CBS-P,Geeta Biradar,PAN,,UNFIXABLE: no PAN recorded
+PV222629,CBS-P,Naveen Shirol,PAN,,UNFIXABLE: no PAN recorded
+PV222635,CBS-P,Pradeep Talwar,PAN,,UNFIXABLE: no PAN recorded
+PV222668,CBS-P,Pooja Nadaf,PAN,,UNFIXABLE: no PAN recorded
+PV222713,CBS-P,Shivanand Shaikh,PAN,,UNFIXABLE: no PAN recorded
+PV222785,CBS-P,Mallikarjun Lamani,PAN,,UNFIXABLE: no PAN recorded
+PV222812,CBS-P,Shivanand Kattimani,PAN,,UNFIXABLE: no PAN recorded
+PV222926,CBS-P,Hanumant Savadi,PAN,,UNFIXABLE: no PAN recorded
+MC30000637,CBS-M,Harish Madar,MOBILE,799945463,UNFIXABLE: 9 digits (a digit is missing)
+MC30008638,CBS-M,Kavita Gowda,MOBILE,978120102,UNFIXABLE: 9 digits (a digit is missing)
+MC30008869,CBS-M,Harish Joshi,MOBILE,865436001,UNFIXABLE: 9 digits (a digit is missing)
+MC30012096,CBS-M,Ramesh Joshi,MOBILE,994711373,UNFIXABLE: 9 digits (a digit is missing)
+MC30012915,CBS-M,Joseph Badiger,MOBILE,849348906,UNFIXABLE: 9 digits (a digit is missing)
+MC30016359,CBS-M,Hanumant Mulla,MOBILE,990460829,UNFIXABLE: 9 digits (a digit is missing)
+MC30016919,CBS-M,Kavita Savadi,MOBILE,976052417,UNFIXABLE: 9 digits (a digit is missing)
+MC30017269,CBS-M,Shivanand Madar,MOBILE,960909183,UNFIXABLE: 9 digits (a digit is missing)
+MC30022414,CBS-M,Sunil Kattimani,MOBILE,833488856,UNFIXABLE: 9 digits (a digit is missing)
+MC30027293,CBS-M,Girish Mathad,MOBILE,756162876,UNFIXABLE: 9 digits (a digit is missing)
+MC30032116,CBS-M,Shivanand Chavan,MOBILE,915130785,UNFIXABLE: 9 digits (a digit is missing)
+MC30035056,CBS-M,Vinayak D'Souza,MOBILE,923717817,UNFIXABLE: 9 digits (a digit is missing)
+MC30039571,CBS-M,Usha Kattimani,MOBILE,911906822,UNFIXABLE: 9 digits (a digit is missing)
+MC30039599,CBS-M,Harish Badiger,MOBILE,981398058,UNFIXABLE: 9 digits (a digit is missing)
+MC30048300,CBS-M,Kavita Kattimani,MOBILE,965995229,UNFIXABLE: 9 digits (a digit is missing)
+MC30052752,CBS-M,Nandini Kattimani,MOBILE,941221098,UNFIXABLE: 9 digits (a digit is missing)
+PV200723,CBS-P,Suresh Ullagaddi,MOBILE,937889780,UNFIXABLE: 9 digits (a digit is missing)
+PV201731,CBS-P,Mohammed Bagewadi,MOBILE,879254481,UNFIXABLE: 9 digits (a digit is missing)
+PV214397,CBS-P,Mohammed Talwar,MOBILE,979417882,UNFIXABLE: 9 digits (a digit is missing)
+PV215318,CBS-P,Siddappa Mathad,MOBILE,788035650,UNFIXABLE: 9 digits (a digit is missing)
+PV216206,CBS-P,Raghavendra Kattimani,MOBILE,796895899,UNFIXABLE: 9 digits (a digit is missing)
+PV221858,CBS-P,Shobha Lamani,MOBILE,687050995,UNFIXABLE: 9 digits (a digit is missing)
+MC30000091,CBS-M,Sri Ganesh Traders Pvt Ltd,DATE_OF_BIRTH,,UNFIXABLE: no date of birth recorded
+MC30000392,CBS-M,Om Sai Motors LLP,DATE_OF_BIRTH,,UNFIXABLE: no date of birth recorded
+MC30001456,CBS-M,Karnatak Cotton Ginning,DATE_OF_BIRTH,,UNFIXABLE: no date of birth recorded
+MC30001512,CBS-M,Basava Agro Industries LLP,DATE_OF_BIRTH,,UNFIXABLE: no date of birth recorded
+MC30001603,CBS-M,Krishna Printers Industries,DATE_OF_BIRTH,,UNFIXABLE: no date of birth recorded
+MC30001673,CBS-M,Uttar Spices & Co,DATE_OF_BIRTH,,UNFIXABLE: no date of birth recorded
+MC30002590,CBS-M,Karnatak Cotton Ginning Industries,DATE_OF_BIRTH,,UNFIXABLE: no date of birth recorded
+MC30002786,CBS-M,Karnatak Cotton Ginning Industries,DATE_OF_BIRTH,,UNFIXABLE: no date of birth recorded
+MC30003850,CBS-M,Malaprabha Rice Mill Pvt Ltd,DATE_OF_BIRTH,,UNFIXABLE: no date of birth recorded
+MC30004872,CBS-M,Hanuman Brick Works LLP,DATE_OF_BIRTH,,UNFIXABLE: no date of birth recorded
+MC30004984,CBS-M,Jai Bhavani Transport & Co,DATE_OF_BIRTH,,UNFIXABLE: no date of birth recorded
+MC30005383,CBS-M,Malaprabha Rice Mill Pvt Ltd,DATE_OF_BIRTH,,UNFIXABLE: no date of birth recorded
+MC30005859,CBS-M,Krishna Printers Industries,DATE_OF_BIRTH,,UNFIXABLE: no date of birth recorded
+MC30007007,CBS-M,Basava Agro Industries,DATE_OF_BIRTH,,UNFIXABLE: no date of birth recorded
+MC30007077,CBS-M,Krishna Printers,DATE_OF_BIRTH,,UNFIXABLE: no date of birth recorded
+MC30008757,CBS-M,Sri Ganesh Traders,DATE_OF_BIRTH,,UNFIXABLE: no date of birth recorded
+MC30008876,CBS-M,Mahalaxmi Food Products & Co,DATE_OF_BIRTH,,UNFIXABLE: no date of birth recorded
+MC30008995,CBS-M,Om Sai Motors,DATE_OF_BIRTH,,UNFIXABLE: no date of birth recorded
+MC30010024,CBS-M,Malaprabha Rice Mill Pvt Ltd,DATE_OF_BIRTH,,UNFIXABLE: no date of birth recorded
+MC30011564,CBS-M,Siddhi Textiles Pvt Ltd,DATE_OF_BIRTH,,UNFIXABLE: no date of birth recorded
+MC30011683,CBS-M,Sahyadri Timber Mart Industries,DATE_OF_BIRTH,,UNFIXABLE: no date of birth recorded
+MC30011942,CBS-M,Siddhi Textiles Pvt Ltd,DATE_OF_BIRTH,,UNFIXABLE: no date of birth recorded
+MC30012348,CBS-M,Sangam Dairy Products LLP,DATE_OF_BIRTH,,UNFIXABLE: no date of birth recorded
+MC30012537,CBS-M,Jai Bhavani Transport & Co,DATE_OF_BIRTH,,UNFIXABLE: no date of birth recorded
+MC30014343,CBS-M,Durga Cold Storage Pvt Ltd,DATE_OF_BIRTH,,UNFIXABLE: no date of birth recorded
+MC30015022,CBS-M,Deccan Auto Parts Industries,DATE_OF_BIRTH,,UNFIXABLE: no date of birth recorded
+MC30015498,CBS-M,Gomati Plastics LLP,DATE_OF_BIRTH,,UNFIXABLE: no date of birth recorded
+MC30015722,CBS-M,Navkar Hardware Pvt Ltd,DATE_OF_BIRTH,,UNFIXABLE: no date of birth recorded
+MC30017766,CBS-M,Om Sai Motors LLP,DATE_OF_BIRTH,,UNFIXABLE: no date of birth recorded
+MC30018025,CBS-M,Sahyadri Timber Mart Industries,DATE_OF_BIRTH,,UNFIXABLE: no date of birth recorded
+MC30018095,CBS-M,Siddhi Textiles,DATE_OF_BIRTH,,UNFIXABLE: no date of birth recorded
+MC30018179,CBS-M,Durga Cold Storage Pvt Ltd,DATE_OF_BIRTH,,UNFIXABLE: no date of birth recorded
+MC30018438,CBS-M,Jai Bhavani Transport,DATE_OF_BIRTH,,UNFIXABLE: no date of birth recorded
+MC30018599,CBS-M,Sahyadri Timber Mart,DATE_OF_BIRTH,,UNFIXABLE: no date of birth recorded
+MC30018648,CBS-M,Deccan Auto Parts,DATE_OF_BIRTH,,UNFIXABLE: no date of birth recorded
+MC30018718,CBS-M,Basava Agro Industries LLP,DATE_OF_BIRTH,,UNFIXABLE: no date of birth recorded
+MC30020076,CBS-M,Karnatak Cotton Ginning Industries,DATE_OF_BIRTH,,UNFIXABLE: no date of birth recorded
+MC30021497,CBS-M,Sangam Dairy Products,DATE_OF_BIRTH,,UNFIXABLE: no date of birth recorded
+MC30021952,CBS-M,Annapurna Flour Mill & Co,DATE_OF_BIRTH,,UNFIXABLE: no date of birth recorded
+MC30022715,CBS-M,Deccan Auto Parts Industries,DATE_OF_BIRTH,,UNFIXABLE: no date of birth recorded
+MC30023380,CBS-M,Sahyadri Timber Mart Industries,DATE_OF_BIRTH,,UNFIXABLE: no date of birth recorded
+MC30023415,CBS-M,Sri Ganesh Traders Pvt Ltd,DATE_OF_BIRTH,,UNFIXABLE: no date of birth recorded
+MC30023422,CBS-M,Krishna Printers Industries,DATE_OF_BIRTH,,UNFIXABLE: no date of birth recorded
+MC30024248,CBS-M,Jai Bhavani Transport & Co,DATE_OF_BIRTH,,UNFIXABLE: no date of birth recorded
+MC30024822,CBS-M,Sri Ganesh Traders Pvt Ltd,DATE_OF_BIRTH,,UNFIXABLE: no date of birth recorded
+MC30025893,CBS-M,Sahyadri Timber Mart Industries,DATE_OF_BIRTH,,UNFIXABLE: no date of birth recorded
+MC30026432,CBS-M,Hanuman Brick Works LLP,DATE_OF_BIRTH,,UNFIXABLE: no date of birth recorded
+MC30026565,CBS-M,Navkar Hardware Pvt Ltd,DATE_OF_BIRTH,,UNFIXABLE: no date of birth recorded
+MC30028231,CBS-M,Sahyadri Timber Mart Industries,DATE_OF_BIRTH,,UNFIXABLE: no date of birth recorded
+MC30029057,CBS-M,Om Sai Motors LLP,DATE_OF_BIRTH,,UNFIXABLE: no date of birth recorded
+MC30029092,CBS-M,Navkar Hardware,DATE_OF_BIRTH,,UNFIXABLE: no date of birth recorded
+MC30029260,CBS-M,Siddhi Textiles Pvt Ltd,DATE_OF_BIRTH,,UNFIXABLE: no date of birth recorded
+MC30029435,CBS-M,Hanuman Brick Works LLP,DATE_OF_BIRTH,,UNFIXABLE: no date of birth recorded
+MC30030079,CBS-M,Sri Ganesh Traders Pvt Ltd,DATE_OF_BIRTH,,UNFIXABLE: no date of birth recorded
+MC30030100,CBS-M,Mahalaxmi Food Products,DATE_OF_BIRTH,,UNFIXABLE: no date of birth recorded
+MC30030212,CBS-M,Deccan Auto Parts Industries,DATE_OF_BIRTH,,UNFIXABLE: no date of birth recorded
+MC30030695,CBS-M,Navkar Hardware Pvt Ltd,DATE_OF_BIRTH,,UNFIXABLE: no date of birth recorded
+MC30030940,CBS-M,Om Sai Motors LLP,DATE_OF_BIRTH,,UNFIXABLE: no date of birth recorded
+MC30031549,CBS-M,Durga Cold Storage Pvt Ltd,DATE_OF_BIRTH,,UNFIXABLE: no date of birth recorded
+MC30032592,CBS-M,Sri Ganesh Traders Pvt Ltd,DATE_OF_BIRTH,,UNFIXABLE: no date of birth recorded
+MC30033173,CBS-M,Durga Cold Storage Pvt Ltd,DATE_OF_BIRTH,,UNFIXABLE: no date of birth recorded
+MC30033439,CBS-M,Sangam Dairy Products LLP,DATE_OF_BIRTH,,UNFIXABLE: no date of birth recorded
+MC30033586,CBS-M,Malaprabha Rice Mill,DATE_OF_BIRTH,,UNFIXABLE: no date of birth recorded
+MC30033817,CBS-M,Basava Agro Industries LLP,DATE_OF_BIRTH,,UNFIXABLE: no date of birth recorded
+MC30034489,CBS-M,Vinayaka Steel Works Industries,DATE_OF_BIRTH,,UNFIXABLE: no date of birth recorded
+MC30034888,CBS-M,Jai Bhavani Transport & Co,DATE_OF_BIRTH,,UNFIXABLE: no date of birth recorded
+MC30035336,CBS-M,Sangam Dairy Products LLP,DATE_OF_BIRTH,,UNFIXABLE: no date of birth recorded
+MC30035378,CBS-M,Gomati Plastics LLP,DATE_OF_BIRTH,,UNFIXABLE: no date of birth recorded
+MC30035693,CBS-M,Gomati Plastics LLP,DATE_OF_BIRTH,,UNFIXABLE: no date of birth recorded
+MC30035707,CBS-M,Krishna Printers Industries,DATE_OF_BIRTH,,UNFIXABLE: no date of birth recorded
+MC30035945,CBS-M,Deccan Auto Parts Industries,DATE_OF_BIRTH,,UNFIXABLE: no date of birth recorded
+MC30036141,CBS-M,Uttar Spices & Co,DATE_OF_BIRTH,,UNFIXABLE: no date of birth recorded
+MC30036617,CBS-M,Shree Renuka Enterprises & Co,DATE_OF_BIRTH,,UNFIXABLE: no date of birth recorded
+MC30037184,CBS-M,Karnatak Cotton Ginning Industries,DATE_OF_BIRTH,,UNFIXABLE: no date of birth recorded
+MC30037380,CBS-M,Deccan Auto Parts Industries,DATE_OF_BIRTH,,UNFIXABLE: no date of birth recorded
+MC30037884,CBS-M,Vinayaka Steel Works Industries,DATE_OF_BIRTH,,UNFIXABLE: no date of birth recorded
+MC30038486,CBS-M,Durga Cold Storage Pvt Ltd,DATE_OF_BIRTH,,UNFIXABLE: no date of birth recorded
+MC30039375,CBS-M,Malaprabha Rice Mill Pvt Ltd,DATE_OF_BIRTH,,UNFIXABLE: no date of birth recorded
+MC30040257,CBS-M,Shree Renuka Enterprises & Co,DATE_OF_BIRTH,,UNFIXABLE: no date of birth recorded
+MC30040334,CBS-M,Uttar Spices & Co,DATE_OF_BIRTH,,UNFIXABLE: no date of birth recorded
+MC30040453,CBS-M,Mahalaxmi Food Products & Co,DATE_OF_BIRTH,,UNFIXABLE: no date of birth recorded
+MC30042210,CBS-M,Karnatak Cotton Ginning Industries,DATE_OF_BIRTH,,UNFIXABLE: no date of birth recorded
+MC30042630,CBS-M,Vinayaka Steel Works,DATE_OF_BIRTH,,UNFIXABLE: no date of birth recorded
+MC30043477,CBS-M,Gomati Plastics LLP,DATE_OF_BIRTH,,UNFIXABLE: no date of birth recorded
+MC30044072,CBS-M,Gomati Plastics LLP,DATE_OF_BIRTH,,UNFIXABLE: no date of birth recorded
+MC30046648,CBS-M,Annapurna Flour Mill & Co,DATE_OF_BIRTH,,UNFIXABLE: no date of birth recorded
+MC30048034,CBS-M,Mahalaxmi Food Products & Co,DATE_OF_BIRTH,,UNFIXABLE: no date of birth recorded
+MC30048342,CBS-M,Mahalaxmi Food Products & Co,DATE_OF_BIRTH,,UNFIXABLE: no date of birth recorded
+MC30049497,CBS-M,Krishna Printers Industries,DATE_OF_BIRTH,,UNFIXABLE: no date of birth recorded
+MC30049504,CBS-M,Vinayaka Steel Works Industries,DATE_OF_BIRTH,,UNFIXABLE: no date of birth recorded
+MC30050211,CBS-M,Basava Agro Industries LLP,DATE_OF_BIRTH,,UNFIXABLE: no date of birth recorded
+MC30050624,CBS-M,Deccan Auto Parts Industries,DATE_OF_BIRTH,,UNFIXABLE: no date of birth recorded
+MC30051835,CBS-M,Sangam Dairy Products LLP,DATE_OF_BIRTH,,UNFIXABLE: no date of birth recorded
+MC30052255,CBS-M,Hanuman Brick Works LLP,DATE_OF_BIRTH,,UNFIXABLE: no date of birth recorded
+MC30052388,CBS-M,Vinayaka Steel Works Industries,DATE_OF_BIRTH,,UNFIXABLE: no date of birth recorded
+MC30052465,CBS-M,Malaprabha Rice Mill Pvt Ltd,DATE_OF_BIRTH,,UNFIXABLE: no date of birth recorded
+MC30052759,CBS-M,Siddhi Textiles Pvt Ltd,DATE_OF_BIRTH,,UNFIXABLE: no date of birth recorded
+MC30053284,CBS-M,Shree Renuka Enterprises & Co,DATE_OF_BIRTH,,UNFIXABLE: no date of birth recorded
+PV201143,CBS-P,Siddhi Textiles Pvt Ltd,DATE_OF_BIRTH,,UNFIXABLE: no date of birth recorded
+PV201431,CBS-P,Annapurna Flour Mill,DATE_OF_BIRTH,,UNFIXABLE: no date of birth recorded
+PV201455,CBS-P,Karnatak Cotton Ginning Industries,DATE_OF_BIRTH,,UNFIXABLE: no date of birth recorded
+PV201470,CBS-P,Annapurna Flour Mill & Co,DATE_OF_BIRTH,,UNFIXABLE: no date of birth recorded
+PV201551,CBS-P,Shree Renuka Enterprises & Co,DATE_OF_BIRTH,,UNFIXABLE: no date of birth recorded
+PV202103,CBS-P,Shree Renuka Enterprises,DATE_OF_BIRTH,,UNFIXABLE: no date of birth recorded
+PV203903,CBS-P,Krishna Printers Industries,DATE_OF_BIRTH,,UNFIXABLE: no date of birth recorded
+PV204419,CBS-P,Siddhi Textiles Pvt Ltd,DATE_OF_BIRTH,,UNFIXABLE: no date of birth recorded
+PV205580,CBS-P,Annapurna Flour Mill & Co,DATE_OF_BIRTH,,UNFIXABLE: no date of birth recorded
+PV205901,CBS-P,Shree Renuka Enterprises & Co,DATE_OF_BIRTH,,UNFIXABLE: no date of birth recorded
+PV206768,CBS-P,Uttar Spices & Co,DATE_OF_BIRTH,,UNFIXABLE: no date of birth recorded
+PV208544,CBS-P,Annapurna Flour Mill & Co,DATE_OF_BIRTH,,UNFIXABLE: no date of birth recorded
+PV208850,CBS-P,Sahyadri Timber Mart Industries,DATE_OF_BIRTH,,UNFIXABLE: no date of birth recorded
+PV208880,CBS-P,Annapurna Flour Mill & Co,DATE_OF_BIRTH,,UNFIXABLE: no date of birth recorded
+PV209015,CBS-P,Mahalaxmi Food Products & Co,DATE_OF_BIRTH,,UNFIXABLE: no date of birth recorded
+PV209318,CBS-P,Jai Bhavani Transport & Co,DATE_OF_BIRTH,,UNFIXABLE: no date of birth recorded
+PV209453,CBS-P,Om Sai Motors LLP,DATE_OF_BIRTH,,UNFIXABLE: no date of birth recorded
+PV210041,CBS-P,Uttar Spices,DATE_OF_BIRTH,,UNFIXABLE: no date of birth recorded
+PV210794,CBS-P,Durga Cold Storage,DATE_OF_BIRTH,,UNFIXABLE: no date of birth recorded
+PV211472,CBS-P,Sri Ganesh Traders Pvt Ltd,DATE_OF_BIRTH,,UNFIXABLE: no date of birth recorded
+PV212744,CBS-P,Navkar Hardware Pvt Ltd,DATE_OF_BIRTH,,UNFIXABLE: no date of birth recorded
+PV212927,CBS-P,Uttar Spices & Co,DATE_OF_BIRTH,,UNFIXABLE: no date of birth recorded
+PV213965,CBS-P,Vinayaka Steel Works Industries,DATE_OF_BIRTH,,UNFIXABLE: no date of birth recorded
+PV214706,CBS-P,Navkar Hardware Pvt Ltd,DATE_OF_BIRTH,,UNFIXABLE: no date of birth recorded
+PV214898,CBS-P,Uttar Spices & Co,DATE_OF_BIRTH,,UNFIXABLE: no date of birth recorded
+PV215435,CBS-P,Navkar Hardware Pvt Ltd,DATE_OF_BIRTH,,UNFIXABLE: no date of birth recorded
+PV215558,CBS-P,Hanuman Brick Works,DATE_OF_BIRTH,,UNFIXABLE: no date of birth recorded
+PV215747,CBS-P,Hanuman Brick Works LLP,DATE_OF_BIRTH,,UNFIXABLE: no date of birth recorded
+PV216074,CBS-P,Sangam Dairy Products LLP,DATE_OF_BIRTH,,UNFIXABLE: no date of birth recorded
+PV216476,CBS-P,Hanuman Brick Works LLP,DATE_OF_BIRTH,,UNFIXABLE: no date of birth recorded
+PV216812,CBS-P,Gomati Plastics LLP,DATE_OF_BIRTH,,UNFIXABLE: no date of birth recorded
+PV217805,CBS-P,Vinayaka Steel Works Industries,DATE_OF_BIRTH,,UNFIXABLE: no date of birth recorded
+PV218204,CBS-P,Durga Cold Storage Pvt Ltd,DATE_OF_BIRTH,,UNFIXABLE: no date of birth recorded
+PV218246,CBS-P,Shree Renuka Enterprises & Co,DATE_OF_BIRTH,,UNFIXABLE: no date of birth recorded
+PV219305,CBS-P,Jai Bhavani Transport & Co,DATE_OF_BIRTH,,UNFIXABLE: no date of birth recorded
+PV219317,CBS-P,Gomati Plastics,DATE_OF_BIRTH,,UNFIXABLE: no date of birth recorded
+PV220112,CBS-P,Malaprabha Rice Mill Pvt Ltd,DATE_OF_BIRTH,,UNFIXABLE: no date of birth recorded
+PV220142,CBS-P,Sangam Dairy Products LLP,DATE_OF_BIRTH,,UNFIXABLE: no date of birth recorded
+PV220442,CBS-P,Om Sai Motors LLP,DATE_OF_BIRTH,,UNFIXABLE: no date of birth recorded
+PV220457,CBS-P,Mahalaxmi Food Products & Co,DATE_OF_BIRTH,,UNFIXABLE: no date of birth recorded
+PV221285,CBS-P,Basava Agro Industries LLP,DATE_OF_BIRTH,,UNFIXABLE: no date of birth recorded
+PV222245,CBS-P,Basava Agro Industries LLP,DATE_OF_BIRTH,,UNFIXABLE: no date of birth recorded

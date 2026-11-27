@@ -1,0 +1,17 @@
+﻿measure,loans,rupees,ratio_pct
+Finance gross NPA (as reported),413,300211953.77,3.081
+Gap: counted bad by one department but not the other,184,136687813.59,
+Risk gross NPA (as reported),591,430734123.24,4.420
+Total book 31 Oct 2026,8266,9745135816.49,
+"TRUE gross NPA (borrower rule, verified payments)",533,363258269.39,3.728
+True NPA 30 Sep,493,353304874.90,3.652
+True NPA 31 Oct,533,363258269.39,3.728
+True NPA before borrower rule (loan by loan),462,315894819.49,3.242
+True SMA-0 30 Sep,1081,1338771117.71,13.839
+True SMA-0 31 Oct,1105,1401889975.57,14.386
+True SMA-1 30 Sep,140,198994518.32,2.057
+True SMA-1 31 Oct,152,196482477.27,2.016
+True SMA-2 30 Sep,49,20400638.11,0.211
+True SMA-2 31 Oct,51,49494745.54,0.508
+True Standard 30 Sep,6444,7762454667.45,80.241
+True Standard 31 Oct,6425,7734010348.72,79.363

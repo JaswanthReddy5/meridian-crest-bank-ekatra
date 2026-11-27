@@ -1,0 +1,12 @@
+﻿step_no,step,step_type,loans,rupees,running_npa,running_pct
+1,Finance: gross NPA as reported (CBS asset-class flag),START,413,300211953.77,300211953.77,3.081
+2,CBS flag still NPA after the borrower cleared arrears (flag not upgraded),REMOVE,2,-2902849.23,297309104.54,3.051
+3,Over 90 DPD but CBS flag says STD: migrated Pavanpur loans (arrears history lost in migration),ADD,52,18765687.78,316074792.32,3.243
+5,Borrower rule: another loan of the same customer is NPA (Finance classifies loan by loan),ADD,46,33306491.27,349381283.59,3.585
+6,Borrower rule across the merger: same person's Pavanpur/Meridian loan is NPA,ADD,24,13876985.80,363258269.39,3.728
+10,TRUE gross NPA,TOTAL,533,363258269.39,363258269.39,3.728
+11,Risk counts a bounced auto-debit as missed even when the EMI was paid days later by cash/UPI/NEFT,ADD,40,54576570.65,417834840.04,4.288
+12,Risk spread NPA through the vendor's false name-only matches (different people),ADD,15,6952925.64,424787765.68,4.359
+13,Risk spread NPA to a borrower whose other loan is not truly NPA,ADD,9,7836955.85,432624721.53,4.439
+16,Borrower rule: link found in Stage 1 that the vendor map missed (Risk only uses the vendor map),REMOVE,6,-1890598.29,430734123.24,4.420
+20,Risk: gross NPA as reported,TOTAL,591,430734123.24,430734123.24,4.420

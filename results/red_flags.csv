@@ -1,0 +1,26 @@
+﻿flag,subject,loans,rupees,evidence
+Officer NPA rate more than twice the zone rate (20+ loans),OF0038 Ravi Badiger,106,10299479.24,"Scale I, Belagavi Station Road, Active: 19 of 106 loans NPA (17.9%) vs zone 6.4%"
+Officer NPA rate more than twice the zone rate (20+ loans),OF0060 Lakshmi Kamble,30,1215955.93,"Scale I, Ron Bus Stand, Active: 5 of 30 loans NPA (16.7%) vs zone 6.4%"
+Officer NPA rate more than twice the zone rate (20+ loans),OF0076 Basavaraj Joshi,23,1497872.69,"Scale I, Karwar Vidyanagar, Active: 3 of 23 loans NPA (13.0%) vs zone 6.4%"
+Officer NPA rate more than twice the zone rate (20+ loans),OF0083 Roopa Belagali,23,511395.05,"Scale I, Athani Pavanpur Branch, Active: 4 of 23 loans NPA (17.4%) vs zone 6.4%"
+Officer NPA rate more than twice the zone rate (20+ loans),OF0092 Sachin Belagali,40,3264075.75,"Scale II, Chikkodi Main Road (PUCB), Active: 6 of 40 loans NPA (15.0%) vs zone 6.4%"
+Officer NPA rate more than twice the zone rate (20+ loans),OF0093 Irfan Biradar,26,6084575.59,"Scale I, Mudhol Pavanpur Branch, Active: 8 of 26 loans NPA (30.8%) vs zone 6.4%"
+Officer NPA rate more than twice the zone rate (20+ loans),OF0104 Shabana Hiremath,23,50821.64,"Scale I, Ranebennur Pavanpur Branch, Active: 3 of 23 loans NPA (13.0%) vs zone 6.4%"
+Officer NPA rate more than twice the zone rate (20+ loans),OF0110 Vinayak Biradar,21,302298.13,"Scale I, Nippani Pavanpur Branch, Exited: 3 of 21 loans NPA (14.3%) vs zone 6.4%"
+Month-end loans go bad 2x+ as often as the same branch's other loans,MCRB0001013 Belagavi Station Road,173,185638937.83,34% of loans booked in last 3 days; 19.7% of them 30+ DPD vs 3.6% of other loans
+Month-end loans go bad 2x+ as often as the same branch's other loans,MCRB0001019 Indi Court Circle,58,79319418.88,35% of loans booked in last 3 days; 15.5% of them 30+ DPD vs 3.7% of other loans
+Month-end loans go bad 2x+ as often as the same branch's other loans,MCRB0PV0108 Mudhol Pavanpur Branch,67,70789789.52,29% of loans booked in last 3 days; 16.4% of them 30+ DPD vs 7.1% of other loans
+Month-end loans go bad 2x+ as often as the same branch's other loans,MCRB0PV0105 Belagavi Pavanpur Branch,44,41578324.57,35% of loans booked in last 3 days; 31.8% of them 30+ DPD vs 12.0% of other loans
+Month-end loans go bad 2x+ as often as the same branch's other loans,MCRB0PV0103 Athani Pavanpur Branch,39,33405553.91,36% of loans booked in last 3 days; 20.5% of them 30+ DPD vs 8.7% of other loans
+Officer's month-end loans go bad 2x+ as often as their other loans,OF0043 Asha Gowda,10,7337045.07,"Scale II, Mudhol Vidyanagar: 22% of loans booked in last 3 days; 20.0% of them 30+ DPD vs 8.3% of other loans"
+Officer's month-end loans go bad 2x+ as often as their other loans,OF0086 Mahadevi Fernandes,42,73754630.70,"Scale III, Nippani Pavanpur Branch: 37% of loans booked in last 3 days; 21.4% of them 30+ DPD vs 9.6% of other loans"
+Officer's month-end loans go bad 2x+ as often as their other loans,OF0074 Anita Nayak,10,12397381.34,"Scale II, Kumta Market: 21% of loans booked in last 3 days; 20.0% of them 30+ DPD vs 2.7% of other loans"
+Officer's month-end loans go bad 2x+ as often as their other loans,OF0038 Ravi Badiger,45,22992085.49,"Scale I, Belagavi Station Road: 42% of loans booked in last 3 days; 55.6% of them 30+ DPD vs 1.6% of other loans"
+Officer's month-end loans go bad 2x+ as often as their other loans,OF0014 Roopa Gowda,10,9112043.35,"Scale II, Navalgund Gandhi Chowk: 20% of loans booked in last 3 days; 20.0% of them 30+ DPD vs 5.1% of other loans"
+Lending rule breached: AGE_OVER_70_AT_MATURITY,Zone,192,672159780.98,See loan_rule_breaches (Stage 1 Q1.8)
+Lending rule breached: GOLD_LTV_ABOVE_RBI_LIMIT,Zone,22,1684856.97,See loan_rule_breaches (Stage 1 Q1.8)
+Lending rule breached: FIRST_EMI_BEFORE_PAYOUT,Zone,19,9982371.45,See loan_rule_breaches (Stage 1 Q1.8)
+Lending rule breached: PAID_OUT_MORE_THAN_SANCTIONED,Zone,5,15822201.59,See loan_rule_breaches (Stage 1 Q1.8)
+Individual borrower recorded with a company PAN,Zone,19,5013401.51,PAN 4th letter is C on a person: identity cannot be verified
+Same mobile number on different borrowers,Zone,43,,Possible proxy borrowers or agent-supplied numbers; see customers_clean
+Pavanpur personal loans priced on a flat rate (true rate understated),CBS-P PL,967,256662379.33,EMI = P x (1 + rate x years) / months; borrowers pay far more than the stated rate
