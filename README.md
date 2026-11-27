@@ -50,10 +50,17 @@ docs/                                   data_dictionary.pdf, bank context PDF, o
 
 - Stage 0: open `sql/00_create_database_and_tables.sql` and run it (⚡).
 - Loading: `01_load_data.sql` uses paths relative to the repo root, which
-  Workbench can't resolve. Either use `scripts/run_all.ps1`, or find/replace
-  `'data/` with your absolute path, e.g. `'C:/Users/you/meridian-crest-bank/data/`
-  (forward slashes). The Workbench connection needs
-  *Edit Connection → Advanced → Others:* `OPT_LOCAL_INFILE=1`.
+  Workbench can't resolve. Either use `scripts/run_all.ps1`, or make a
+  Workbench copy (`sql/01_load_data_workbench.sql`, git-ignored because the
+  paths are machine-specific):
+  1. find/replace `'data/` with your absolute path, e.g.
+     `'C:/Users/you/meridian-crest-bank/data/` (forward slashes);
+  2. replace `LOAD DATA LOCAL INFILE` with `LOAD DATA INFILE` — Workbench 26
+     rejects the local-infile connection option, so the server reads the files;
+  3. in `my.ini` under `[mysqld]` add
+     `secure_file_priv="C:/Users/you/meridian-crest-bank/data"` and restart the
+     MySQL service (admin).
+  Running it shows "N rows affected" per table in the Output panel.
 - Before exporting a result to CSV set the row limit to **Don't Limit**.
 - Error 1175 on UPDATE → `SET SQL_SAFE_UPDATES = 0;`
 

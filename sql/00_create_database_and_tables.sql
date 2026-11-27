@@ -1,23 +1,9 @@
--- =====================================================================
--- Meridian Crest Bank · Hubballi Zone · Project Ekatra
--- STAGE 0 : Build the bank's database exactly as the data dictionary says
---           (18 tables, every column, data type, primary and foreign key)
---
--- Runs top to bottom with no errors on MySQL 8.x and can be re-run:
--- it drops and recreates the database each time.
--- =====================================================================
-
 DROP DATABASE IF EXISTS meridian_crest_bank;
 CREATE DATABASE meridian_crest_bank
   CHARACTER SET utf8mb4
   COLLATE utf8mb4_0900_ai_ci;
 USE meridian_crest_bank;
 
--- ---------------------------------------------------------------------
--- REFERENCE DATA
--- ---------------------------------------------------------------------
-
--- T1 regions
 CREATE TABLE regions (
   region_id       VARCHAR(4)  NOT NULL,
   region_name     VARCHAR(40) NOT NULL,
@@ -25,7 +11,6 @@ CREATE TABLE regions (
   PRIMARY KEY (region_id)
 );
 
--- T2 branches
 CREATE TABLE branches (
   ifsc              CHAR(11)    NOT NULL,
   branch_code       VARCHAR(6)  NOT NULL,
@@ -45,7 +30,6 @@ CREATE TABLE branches (
     FOREIGN KEY (merged_into_ifsc) REFERENCES branches (ifsc)
 );
 
--- T3 products
 CREATE TABLE products (
   product_code       VARCHAR(6)   NOT NULL,
   product_name       VARCHAR(40)  NOT NULL,
@@ -56,7 +40,6 @@ CREATE TABLE products (
   PRIMARY KEY (product_code)
 );
 
--- T4 officers
 CREATE TABLE officers (
   officer_id      VARCHAR(10) NOT NULL,
   officer_name    VARCHAR(60) NOT NULL,
@@ -69,11 +52,6 @@ CREATE TABLE officers (
     FOREIGN KEY (home_ifsc) REFERENCES branches (ifsc)
 );
 
--- ---------------------------------------------------------------------
--- CUSTOMERS
--- ---------------------------------------------------------------------
-
--- T5 customers
 CREATE TABLE customers (
   customer_id    VARCHAR(15) NOT NULL,
   source_system  VARCHAR(5)  NULL,
@@ -87,7 +65,6 @@ CREATE TABLE customers (
   PRIMARY KEY (customer_id)
 );
 
--- T6 customer_contacts
 CREATE TABLE customer_contacts (
   contact_id     INT          NOT NULL,
   customer_id    VARCHAR(15)  NOT NULL,
@@ -100,7 +77,6 @@ CREATE TABLE customer_contacts (
     FOREIGN KEY (customer_id) REFERENCES customers (customer_id)
 );
 
--- T7 legacy_id_map   (meridian_customer_id is a business LINK to customers, not an FK)
 CREATE TABLE legacy_id_map (
   pavanpur_customer_id  VARCHAR(15) NOT NULL,
   meridian_customer_id  VARCHAR(15) NOT NULL,
@@ -109,13 +85,6 @@ CREATE TABLE legacy_id_map (
   PRIMARY KEY (pavanpur_customer_id)
 );
 
--- ---------------------------------------------------------------------
--- LOANS AND PAYMENTS
--- (loan_id / customer_id / branch_code / product / officer columns are
---  business LINKS used in joins — not declared as constraints)
--- ---------------------------------------------------------------------
-
--- T8 loan_accounts
 CREATE TABLE loan_accounts (
   record_id               INT         NOT NULL,
   loan_id                 VARCHAR(20) NULL,
@@ -138,7 +107,6 @@ CREATE TABLE loan_accounts (
   PRIMARY KEY (record_id)
 );
 
--- T9 disbursements
 CREATE TABLE disbursements (
   disbursement_id    VARCHAR(16) NOT NULL,
   loan_id            VARCHAR(20) NOT NULL,
@@ -149,7 +117,6 @@ CREATE TABLE disbursements (
   PRIMARY KEY (disbursement_id)
 );
 
--- T10 collateral
 CREATE TABLE collateral (
   collateral_id      VARCHAR(16)  NOT NULL,
   loan_id            VARCHAR(20)  NOT NULL,
@@ -161,7 +128,6 @@ CREATE TABLE collateral (
   PRIMARY KEY (collateral_id)
 );
 
--- T11 emi_schedule   (composite primary key)
 CREATE TABLE emi_schedule (
   loan_id              VARCHAR(20)   NOT NULL,
   instalment_no        SMALLINT      NOT NULL,
@@ -172,7 +138,6 @@ CREATE TABLE emi_schedule (
   PRIMARY KEY (loan_id, instalment_no)
 );
 
--- T12 repayments   (reversal_of is a LINK back to repayments.payment_id)
 CREATE TABLE repayments (
   payment_id      VARCHAR(16)   NOT NULL,
   loan_id         VARCHAR(20)   NOT NULL,
@@ -184,7 +149,6 @@ CREATE TABLE repayments (
   PRIMARY KEY (payment_id)
 );
 
--- T13 nach_mandates
 CREATE TABLE nach_mandates (
   mandate_id      VARCHAR(16)   NOT NULL,
   loan_id         VARCHAR(20)   NOT NULL,
@@ -197,11 +161,6 @@ CREATE TABLE nach_mandates (
   PRIMARY KEY (mandate_id)
 );
 
--- ---------------------------------------------------------------------
--- REPORTS AND PIPELINE
--- ---------------------------------------------------------------------
-
--- T14 finance_npa_oct2026
 CREATE TABLE finance_npa_oct2026 (
   loan_id                VARCHAR(20)   NOT NULL,
   customer_id            VARCHAR(15)   NOT NULL,
@@ -212,7 +171,6 @@ CREATE TABLE finance_npa_oct2026 (
   PRIMARY KEY (loan_id)
 );
 
--- T15 risk_npa_oct2026
 CREATE TABLE risk_npa_oct2026 (
   loan_id                VARCHAR(20)   NOT NULL,
   customer_id            VARCHAR(15)   NOT NULL,
@@ -224,7 +182,6 @@ CREATE TABLE risk_npa_oct2026 (
   PRIMARY KEY (loan_id)
 );
 
--- T16 cbs_extract_oct2026
 CREATE TABLE cbs_extract_oct2026 (
   loan_id                VARCHAR(20)   NOT NULL,
   branch_code            VARCHAR(6)    NOT NULL,
@@ -236,7 +193,6 @@ CREATE TABLE cbs_extract_oct2026 (
   PRIMARY KEY (loan_id)
 );
 
--- T17 dw_snapshot_oct2026
 CREATE TABLE dw_snapshot_oct2026 (
   loan_id                VARCHAR(20)   NOT NULL,
   branch_code            VARCHAR(6)    NOT NULL,
@@ -248,7 +204,6 @@ CREATE TABLE dw_snapshot_oct2026 (
   PRIMARY KEY (loan_id)
 );
 
--- T18 load_manifest
 CREATE TABLE load_manifest (
   file_name       VARCHAR(60)   NOT NULL,
   source_system   VARCHAR(10)   NOT NULL,
@@ -260,7 +215,6 @@ CREATE TABLE load_manifest (
   PRIMARY KEY (file_name)
 );
 
--- Quick check: should list 18 tables
 SELECT COUNT(*) AS table_count
 FROM information_schema.tables
 WHERE table_schema = 'meridian_crest_bank';
