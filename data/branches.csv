@@ -1,0 +1,48 @@
+ifsc,branch_code,source_system,branch_name,city,district,region_id,branch_status,opened_on,closed_on,merged_into_ifsc
+MCRB0001001,1001,CBS-M,Hubballi Main Road,Hubballi,Dharwad,R01,Active,1990-01-01,,
+MCRB0001002,1002,CBS-M,Dharwad Station Road,Dharwad,Dharwad,R01,Active,1997-06-12,,
+MCRB0001003,1003,CBS-M,Kalghatgi Market,Kalghatgi,Dharwad,R01,Active,2004-11-23,,
+MCRB0001004,1004,CBS-M,Kundgol Vidyanagar,Kundgol,Dharwad,R01,Active,2011-04-07,,
+MCRB0001005,1005,CBS-M,Navalgund Gandhi Chowk,Navalgund,Dharwad,R01,Active,2018-09-18,,
+MCRB0001006,1006,CBS-M,Hubballi Old Town,Hubballi,Dharwad,R01,Active,1995-02-02,,
+MCRB0001007,1007,CBS-M,Dharwad APMC Yard,Dharwad,Dharwad,R01,Active,2002-07-13,,
+MCRB0001008,1008,CBS-M,Kalghatgi Court Circle,Kalghatgi,Dharwad,R01,Active,2009-12-24,,
+MCRB0001009,1009,CBS-M,Chikkodi Bus Stand,Chikkodi,Belagavi,R02,Active,2016-05-08,,
+MCRB0001010,1010,CBS-M,Bailhongal Nehru Nagar,Bailhongal,Belagavi,R02,Active,1993-10-19,,
+MCRB0001011,1011,CBS-M,Athani Shivaji Road,Athani,Belagavi,R02,Active,2000-03-03,,
+MCRB0001012,1012,CBS-M,Nippani Main Road,Nippani,Belagavi,R02,Active,2007-08-14,,
+MCRB0001013,1013,CBS-M,Belagavi Station Road,Belagavi,Belagavi,R02,Active,2014-01-25,,
+MCRB0001014,1014,CBS-M,Gokak Market,Gokak,Belagavi,R02,Active,1991-06-09,,
+MCRB0001015,1015,CBS-M,Mudhol Vidyanagar,Mudhol,Bagalkot,R03,Active,1998-11-20,,
+MCRB0001016,1016,CBS-M,Vijayapura Gandhi Chowk,Vijayapura,Vijayapura,R03,Active,2005-04-04,,
+MCRB0001017,1017,CBS-M,Bagalkot Old Town,Bagalkot,Bagalkot,R03,Active,2012-09-15,,
+MCRB0001018,1018,CBS-M,Jamkhandi APMC Yard,Jamkhandi,Bagalkot,R03,Active,2019-02-26,,
+MCRB0001019,1019,CBS-M,Indi Court Circle,Indi,Vijayapura,R03,Active,1996-07-10,,
+MCRB0001020,1020,CBS-M,Ron Bus Stand,Ron,Gadag,R04,Active,2003-12-21,,
+MCRB0001021,1021,CBS-M,Gadag Nehru Nagar,Gadag,Gadag,R04,Active,2010-05-05,,
+MCRB0001022,1022,CBS-M,Haveri Shivaji Road,Haveri,Haveri,R04,Active,2017-10-16,,
+MCRB0001023,1023,CBS-M,Ranebennur Main Road,Ranebennur,Haveri,R04,Active,1994-03-27,,
+MCRB0001024,1024,CBS-M,Savanur Station Road,Savanur,Haveri,R04,Active,2001-08-11,,
+MCRB0001025,1025,CBS-M,Kumta Market,Kumta,Uttara Kannada,R05,Active,2008-01-22,,
+MCRB0001026,1026,CBS-M,Karwar Vidyanagar,Karwar,Uttara Kannada,R05,Active,2015-06-06,,
+MCRB0PV0101,0101,CBS-P,Chikkodi Pavanpur Branch,Chikkodi,Belagavi,R02,Active,1966-01-01,,
+MCRB0PV0102,0102,CBS-P,Bailhongal Pavanpur Branch,Bailhongal,Belagavi,R02,Active,1969-08-06,,
+MCRB0PV0103,0103,CBS-P,Athani Pavanpur Branch,Athani,Belagavi,R02,Active,1972-03-11,,
+MCRB0PV0104,0104,CBS-P,Nippani Pavanpur Branch,Nippani,Belagavi,R02,Active,1975-10-16,,
+MCRB0PV0105,0105,CBS-P,Belagavi Pavanpur Branch,Belagavi,Belagavi,R02,Active,1978-05-21,,
+MCRB0PV0106,0106,CBS-P,Gokak Pavanpur Branch,Gokak,Belagavi,R02,Active,1981-12-26,,
+MCRB0PV0107,0107,CBS-P,Chikkodi Main Road (PUCB),Chikkodi,Belagavi,R02,Active,1984-07-04,,
+MCRB0PV0108,0108,CBS-P,Mudhol Pavanpur Branch,Mudhol,Bagalkot,R03,Active,1987-02-09,,
+MCRB0PV0109,0109,CBS-P,Vijayapura Pavanpur Branch,Vijayapura,Vijayapura,R03,Active,1990-09-14,,
+MCRB0PV0110,0110,CBS-P,Bagalkot Pavanpur Branch,Bagalkot,Bagalkot,R03,Active,1993-04-19,,
+MCRB0PV0111,0111,CBS-P,Jamkhandi Pavanpur Branch,Jamkhandi,Bagalkot,R03,Active,1996-11-24,,
+MCRB0PV0112,0112,CBS-P,Indi Pavanpur Branch,Indi,Vijayapura,R03,Active,1999-06-02,,
+MCRB0PV1007,1007,CBS-P,Ranebennur Pavanpur Branch,Ranebennur,Haveri,R04,Active,2011-10-22,,
+MCRB0PV1012,1012,CBS-P,Savanur Pavanpur Branch,Savanur,Haveri,R04,Active,2014-05-27,,
+MCRB0001027,1027,CBS-M,Kalghatgi Bus Stand,Kalghatgi,Dharwad,R01,Closed,1992-11-17,2024-09-30,MCRB0001003
+MCRB0001028,1028,CBS-M,Athani Old Town,Athani,Belagavi,R02,Closed,1999-04-01,2025-03-31,MCRB0001011
+MCRB0001029,1029,CBS-M,Jamkhandi Old Town,Jamkhandi,Bagalkot,R03,Closed,2006-09-12,2025-12-31,MCRB0001018
+MCRB0PV0113,0113,CBS-P,Chikkodi APMC Yard (PUCB),Chikkodi,Belagavi,R02,Closed,2002-01-07,2026-03-31,MCRB0001009
+MCRB0PV0114,0114,CBS-P,Bailhongal Market (PUCB),Bailhongal,Belagavi,R02,Closed,2005-08-12,2026-03-31,MCRB0PV0102
+MCRB0PV0115,0115,CBS-P,Vijayapura Station Road (PUCB),Vijayapura,Vijayapura,R03,Closed,2008-03-17,2026-06-30,MCRB0001016
+MCRB0PV1019,1019,CBS-P,Mudhol Market (PUCB),Mudhol,Bagalkot,R03,Closed,1967-12-05,2026-06-30,MCRB0PV0108

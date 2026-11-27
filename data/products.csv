@@ -1,0 +1,7 @@
+product_code,product_name,secured_flag,max_tenure_months,min_rate,max_rate
+HL,Home Loan,Y,240,8.4,10.5
+LAP,Loan Against Property,Y,180,9.5,12.0
+VL,Vehicle Loan,Y,84,9.0,13.0
+PL,Personal Loan,N,60,11.0,18.0
+GL,Gold Loan,Y,36,9.0,14.0
+MSME,MSME Term Loan,Y,84,10.5,15.0
